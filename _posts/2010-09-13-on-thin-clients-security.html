@@ -1,0 +1,14 @@
+---
+layout: post
+title: On Thin Clients Security
+date: '2010-09-13T16:35:00.006+02:00'
+author: Joanna Rutkowska
+tags:
+- os security
+- general
+modified_time: '2010-12-06T18:23:25.754+01:00'
+blogger_id: tag:blogger.com,1999:blog-24586388.post-1723680013954760533
+blogger_orig_url: http://theinvisiblethings.blogspot.com/2010/09/on-thin-clients-security.html
+---
+
+I'm constantly being asked about it, and so I thought I would write a handy blog post, so I could just referrer to it in the future, when yet anther person asks me if I think the use of Thin Clients is a  game-changer to desktop security...<br /><br />It is not! Thin Clients do not improve your desktop security in any way, and that's because:<br /><ol><br /><li>You still run a regular full-blown OS, such as Widows and all the regular applications, such as those buggy PDF readers, Web browsers, etc - it's just you run them all on some corporate server, rather on your laptop. The fact that you run the OS on the corporate server, doesn't make it any less prone to compromises, compared to if you run it locally on your laptop.</li><br /><br /><li>A compromise of your laptop, even if it's just a dump terminal, is still fatal! This is because if your laptop's kernel (or MBR, or BIOS, or some PCI device's firmware, or GPU) is compromised, the attacker can intercept/steal/spoof all the data that you work on remotely, because it is still your laptop that processes the input (keystrokes, mouse events) and output (pixels). So, an Evil Maid attack on your laptop when you use it as a Thin Client, would be just as devastating, as it is otherwise (and don't fool yourselves that crypto tokens <a href="http://portal.acm.org/citation.cfm?id=1854099.1854103">can help</a>)</li></ol><br />We really need secure end-user systems, even if we just want to use them as dump terminals only! There is really no way we could skip this step (and e.g. focus only on infrastructure, or services security).

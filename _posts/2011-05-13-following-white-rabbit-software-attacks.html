@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Following the White Rabbit: Software Attacks Against Intel VT-d'
+date: '2011-05-13T19:04:00.001+02:00'
+author: Joanna Rutkowska
+tags:
+- os security
+- attack
+- trusted computing
+- exploit
+modified_time: '2011-07-24T12:08:06.132+02:00'
+blogger_id: tag:blogger.com,1999:blog-24586388.post-5608264528014721919
+blogger_orig_url: http://theinvisiblethings.blogspot.com/2011/05/following-white-rabbit-software-attacks.html
+---
+
+Today we publish a new paper which is a result of our several month long in-depth evaluation of Intel VT-d technology. To quote the abstract:<br /><blockquote>We discuss three software attacks that might allow for escaping from a VT-d-protected driver domain in a virtualization system. We then focus on one of those attacks, and demonstrate practical and reliable code execution exploit against a Xen system. Finally, we discuss how new hardware from Intel offers a potential for protection against our attacks in the form of Interrupt Remapping (for client systems available only on the very latest Sandy Bridge processors). But we also discuss how this protection could be circumvented on a Xen system under certain circumstances... </blockquote><br />I think the attack is likely the most complex and surprising out of all the things we have presented so far. Parts of it are even funny (if you share our weird sense of humor), such as the use of ICMP ping to generate MSIs. The paper also covers the vendors' response. You can download the paper <a href="http://www.invisiblethingslab.com/resources/2011/Software%20Attacks%20on%20Intel%20VT-d.pdf">here</a>.

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Nesting VMMs, Reloaded.
+date: '2009-02-10T18:30:00.007+01:00'
+author: Joanna Rutkowska
+tags:
+- xen hacking
+- nested virtualization
+modified_time: '2009-03-19T22:19:50.619+01:00'
+thumbnail: http://3.bp.blogspot.com/_Ti3q3Hdvels/SZG7hylIacI/AAAAAAAAAD4/hjm246CQygk/s72-c/XP+inside+VPC+inside+Vista+inside+Xen.001.png
+blogger_id: tag:blogger.com,1999:blog-24586388.post-8942873381242351403
+blogger_orig_url: http://theinvisiblethings.blogspot.com/2009/02/nesting-vmms-reloaded.html
+---
+
+Besides <a href="http://theinvisiblethings.blogspot.com/2009/01/attacking-intel-trusted-execution.html">breaking the Intel's stuff</a>, we have also been doing other things over at our lab. Thought I would share this cool screenshot of a Virtual PC running inside Xen. More precisely what you see on the pic is: Windows XP running inside Virtual PC, that runs inside Vista, which itself runs inside a Xen's HVM VM. Both the Virtual PC and Xen are using the Intel's hardware virtualization (VT-x is always used for HVM guests on Xen).<br /><br />Our Nested Xen patch is part of a work done for a customer, so it is not going to be published. Besides it is currently a bit unstable ;) It's just a prototype that shows such a thing could be done.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_Ti3q3Hdvels/SZG7hylIacI/AAAAAAAAAD4/hjm246CQygk/s1600-h/XP+inside+VPC+inside+Vista+inside+Xen.001.png"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 200px;" src="http://3.bp.blogspot.com/_Ti3q3Hdvels/SZG7hylIacI/AAAAAAAAAD4/hjm246CQygk/s320/XP+inside+VPC+inside+Vista+inside+Xen.001.png" alt="" id="BLOGGER_PHOTO_ID_5301224425579375042" border="0" /></a>

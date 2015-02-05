@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'Skeletons Hidden in the Linux Closet: r00ting your Linux Desktop for Fun and
+  Profit'
+date: '2010-08-17T17:18:00.005+02:00'
+author: Joanna Rutkowska
+tags:
+- attack
+modified_time: '2010-09-02T10:37:50.107+02:00'
+blogger_id: tag:blogger.com,1999:blog-24586388.post-2413818648032561083
+blogger_orig_url: http://theinvisiblethings.blogspot.com/2010/08/skeletons-hidden-in-linux-closet.html
+---
+
+A couple of months ago, while working on Qubes GUI virtualization, Rafal has come up with an interesting privilege escalation attack on Linux (a user-to-root escalation), that exploits a bug in... well, actually it doesn't exploit any concrete bug, which makes it so much more interesting.<br /><br />The attack allows a (unpriviliged) user process that has access to the X server (so, any GUI application) to unconditionally escalate to root (but again, it doesn't take advantage of any bug in the X server!). In other words: any GUI application (think e.g. sandboxed PDF viewer), if compromised (e.g. via malicious PDF document) can bypass all the Linux fancy security mechanisms, and escalate to root, and compromise the whole system. The attack allows even to escape from the <a href="http://danwalsh.livejournal.com/31146.html">SELinux's "sandbox -X" jail</a>. To make it worse, the attack has been possible for at least several years, most likely since the introduction of kernel 2.6.<br /><br />You can find the details of the attack, as well as the discussion of possible solutions, including the one that has eventually been implemented, in the <a href="http://www.invisiblethingslab.com/resources/misc-2010/xorg-large-memory-attacks.pdf">Rafal's paper</a>.<br /><br />One important aspect the attack demonstrates, is how difficult it is to bring security to a desktop platform, where one of the biggest challenges is to let applications talk to the GUI layer (e.g. X server in case of Linux), which usually involves a very fat GUI protocol (think X protocol, or Win32 GUI API) and a very complex GUI server, but at the same time keep things secure. This was one of the key priories for us when designing Qubes OS architecture. (So, we believe Qubes is much more secure than other sandboxing mechanisms, such as BSD jails, or SELinux-based sandboxes, because it not only eliminates kernel-level exploits, but also dramatically slims down GUI-level attacks).<br /><br />The kernel-level "patch" has been <a href="http://git.kernel.org/?p=linux/kernel/git/stable/linux-2.6.35.y.git;a=commit;h=320b2b8de12698082609ebbc1a17165727f4c893">implemented last week</a> by Linus Torvalds, and pushed upstream into recent stable kernels. RedHat has also released an <a href="https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2010-2240">advisory</a> for this attack, where they rated its severity as "high".<br /><br />ps. Congrats to Brad Spengler for some <a href="http://grsecurity.net/%7Espender/64bit_dos.c">good guessing</a> :)
