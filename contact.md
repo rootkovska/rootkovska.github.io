@@ -75,3 +75,12 @@ notice that I live in Warsaw, Poland, which is in UTC +1 (Winter) and UTC +2
 (Summer) Time Zone. I'm a late sleeper, and usually cannot do a phone call
 before 1100 hrs of my local time.
 
+Public conversations
+=====================
+
+It is also possible to engage with me in public conversations via:
+
+* [My Twitter account](https://twitter.com/rootkovska/)
+* [Qubes Mailing Lists](https://wiki.qubes-os.org/wiki/QubesLists) (especially on `qubes-devel` ML)
+
+
