@@ -44,8 +44,8 @@ You can also view the sources at GitHub online
 
 This blog is also available for traditional Web-based viewing via the following URLs (which is likely how you're reading it now):
 
-    http://blog.invisiblethings.org/
-    https://rootkovska.github.io/
+* http://blog.invisiblethings.org/
+* https://rootkovska.github.io/
 
 These URLs might change in the future, as well as other alternatives might be added.
 
