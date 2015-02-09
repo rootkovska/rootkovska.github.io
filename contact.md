@@ -83,4 +83,12 @@ It is also possible to engage with me in public conversations via:
 * [My Twitter account](https://twitter.com/rootkovska/)
 * [Qubes Mailing Lists](https://wiki.qubes-os.org/wiki/QubesLists) (especially on `qubes-devel` ML)
 
+Policy on LinkedIn
+===================
 
+I don't use LinkedIn anymore, I have deleted my account some time ago. The
+stream of invites from total strangers, inability to verify trust, all makes
+LinkedIn and similar platforms rather meaningless, IMO.
+
+Please do not send me LinkedIn or similar invites. These will be reported as
+spam.
