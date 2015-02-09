@@ -42,12 +42,12 @@ GitHub account. You should be able to clone it using the following command:
 You can also view the sources at GitHub online
 [here](https://github.com/rootkovska/rootkovska.github.io).
 
-This blog is also available for traditional Web-based viewing via the following URLs (which is likely how you're reading it now):
+This blog is also available for traditional Web-based viewing via the following
+URL (which is likely how you're reading it now):
 
 * http://blog.invisiblethings.org/
-* https://rootkovska.github.io/
 
-These URLs might change in the future, as well as other alternatives might be added.
+That URL might change in the future, as well as alternative ones might be added.
 
 One can get notifications about new posts/updates via:
 

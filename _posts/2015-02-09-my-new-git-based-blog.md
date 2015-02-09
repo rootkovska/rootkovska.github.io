@@ -89,10 +89,9 @@ inspection after the conversion. My Git tags still cover them, of course.
 Distribution, Hosting, Notifications
 -------------------------------------
 
-This blog is now available for traditional Web-based viewing via the following URLs
+This blog is now available for traditional Web-based viewing via the following URL:
 
     http://blog.invisiblethings.org/
-    https://rootkovska.github.io/
 
 One can get notifications about new posts/updates via:
 
