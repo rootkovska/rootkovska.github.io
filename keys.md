@@ -29,7 +29,7 @@ a [Qubes Mailing List](https://groups.google.com/forum/#!forum/qubes-devel)) as
 in case somebody was providing you with a falsified repo, they would be sure to
 also feed you with a falsified master key.
 
-* This key is attached here: [keys/joanna-master-key.asc](keys/joanna-email-itl.asc).
+* This key is attached here: [keys/joanna-master-key.asc](/keys/joanna-email-itl.asc).
 
 Email encryption keys
 ======================
@@ -46,7 +46,7 @@ The following is my GPG key for work-related email communication:
     sig!3        0DDC6718 2015-02-07  [self-signature]
     sig!         D9AFBB99 2015-02-07  Joanna Rutkowska (Master Signing Key)
 
-* This key is attached here: [keys/joanna-email-itl.asc](keys/joanna-email-itl.asc).
+* This key is attached here: [keys/joanna-email-itl.asc](/keys/joanna-email-itl.asc).
 
 Blog signing key
 =================
@@ -62,7 +62,7 @@ The following key is used to sign this blog repo:
     sig!3        FF112935 2015-02-07  [self-signature]
     sig!         D9AFBB99 2015-02-07  Joanna Rutkowska (Master Signing Key)
 
-* This key is attached here: [keys/joanna-blog-key.asc](keys/joanna-blog-key.asc).
+* This key is attached here: [keys/joanna-blog-key.asc](/keys/joanna-blog-key.asc).
 
 
 Note on lack of expiration date on code-signing keys
@@ -70,10 +70,10 @@ Note on lack of expiration date on code-signing keys
 
 My signing keys (e.g. blog or Qubes code signing keys) do not have expiration
 dates. This is not laziness. There is a fundamental problem with using an
-expiration date on keys used for code signing (e.g. `git tag -s`), because
-it is unclear what the outcome should be when one verifies some old code
-(written and signed when the key was still valid) in the future when the key
-has already expired?
+expiration date on keys used for code signing (e.g. `git tag -s`), because it
+is unclear what the outcome should be when one verifies some old code (written
+and signed when the key was still valid) in the future when the key has already
+expired?
 
 Naturally we would like the old code, written and signed when the key was still
 valid, to continue to verify fine also in the future, after the key expires
@@ -84,7 +84,8 @@ prevent the attacker from creating falsified code pretending to be an old one.
 Other keys
 ===========
 
-There is a bunch of other keys in the [keys/](/keys/) directory -- these are implicitly signed by my master key by being part of this (tag-signed) repo.
+There is a bunch of other keys in the [keys/](/keys/) directory -- these are
+implicitly signed by my master key by being part of this (tag-signed) repo.
 
 
 Other notes
@@ -97,5 +98,9 @@ passphrase I used to protect it.  Passphrases on private keys are classic
 example of [Security Theater](http://en.wikipedia.org/wiki/Security_theater) in
 my opinion.
 
-* I have included also the [Qubes Master Signing Key](https://wiki.qubes-os.org/wiki/VerifyingSignatures) in this repo [here](). I don't consider it proper to sign it with my personal Master Key, or, especially, the other way around. It is signed implicitly by being part of this (signed) repo though.
+* I have included also the [Qubes Master Signing
+Key](https://wiki.qubes-os.org/wiki/VerifyingSignatures) in this repo [here]().
+I don't consider it proper to sign it with my personal Master Key, or,
+especially, the other way around. It is signed implicitly by being part of this
+(signed) repo though.
 
