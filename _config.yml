@@ -1,6 +1,6 @@
 # Site settings
-title: InvisibleThings.org
-url: "http://invisiblethings.org" # the base hostname & protocol for your site
+title: The Invisible Things
+url: "http://blog.invisiblethings.org"
 
 # Build settings
 markdown: kramdown
