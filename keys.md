@@ -18,9 +18,9 @@ The Master Key
 
 All my keys are signed by the following Master Signing Key:
 
-    pub  4096R/D9AFBB99  created: 2015-02-07  expires: never       usage: SC  
-                         trust: ultimate      validity: ultimate
-                         [ultimate] (1). Joanna Rutkowska (Master Signing Key)
+    pub   4096R/D9AFBB99 2015-02-07
+          Key fingerprint = ED72 7C30 6E76 6BC8 5E62  1AA6 5FA6 C3E4 D9AF BB99
+    uid                  Joanna Rutkowska (Master Signing Key)
 
 This key is also attached to this repo in the [key/](/keys/) directory. You
 should verify the fingerprint of this master key using some other channel than
