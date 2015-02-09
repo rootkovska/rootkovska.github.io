@@ -3,4 +3,6 @@ title: The Invisible Things
 url: "http://blog.invisiblethings.org"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "fenced_code_blocks"]
