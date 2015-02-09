@@ -29,7 +29,7 @@ a [Qubes Mailing List](https://groups.google.com/forum/#!forum/qubes-devel)) as
 in case somebody was providing you with a falsified repo, they would be sure to
 also feed you with a falsified master key.
 
-* This key is attached here: [keys/joanna-master-key.asc](/keys/joanna-email-itl.asc).
+* This key is attached here: [keys/joanna-master-key.asc](/keys/joanna-master-key.asc).
 
 Email encryption keys
 ======================
