@@ -84,8 +84,10 @@ prevent the attacker from creating falsified code pretending to be an old one.
 Other keys
 ===========
 
-There is a bunch of other keys in the [keys/](/keys/) directory -- these are
-implicitly signed by my master key by being part of this (tag-signed) repo.
+There is a bunch of other keys in the
+[keys/](https://github.com/rootkovska/rootkovska.github.io/tree/master/keys/)
+directory -- these are implicitly signed by my master key by being part of this
+(tag-signed) repo.
 
 
 Other notes
