@@ -91,7 +91,7 @@ Distribution, Hosting, Notifications
 
 This blog is now available for traditional Web-based viewing via the following URL:
 
-    http://blog.invisiblethings.org/
+* http://blog.invisiblethings.org/
 
 One can get notifications about new posts/updates via:
 
