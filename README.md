@@ -3,8 +3,8 @@ layout: page
 permalink: index.html
 ---
 
-Welcome to my git-based (not necessarily GitHub-based!), distributed, liberated,
-and integrity-protected blog and website!
+Welcome to my git-based (not necessarily GitHub-based!), distributed-friendly,
+liberated, and integrity-protected blog and website!
 
 About Me
 =========
