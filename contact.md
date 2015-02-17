@@ -75,6 +75,20 @@ notice that I live in Warsaw, Poland, which is in UTC +1 (Winter) and UTC +2
 (Summer) Time Zone. I'm a late sleeper, and usually cannot do a phone call
 before 1100 hrs of my local time.
 
+Note on Skype
+--------------
+
+As a matter of principle I don't use Skype. It's not because Skype does not
+offer any meaningful security or privacy (which I believe it indeed does not
+offer) -- I have no illusions that other global PSTN or cellular telephony does
+not offer it either. It's rather because Skype is a closed communication system
+based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
+
+We should be discouraging businesses and governments from forcing us into
+closed systems. Imagine a road system that allowed only one select make of cars
+to be driven -- would that be fun?
+
+
 Public conversations
 =====================
 
