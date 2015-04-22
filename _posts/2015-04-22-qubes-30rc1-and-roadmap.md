@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qubes 3.0 ISO (rc1) and roadmap for 2015
+title: Qubes 3.0-rc1 ISO and roadmap for 2015
 author: Joanna Rutkowska
 ---
 
