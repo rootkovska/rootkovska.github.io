@@ -16,8 +16,9 @@ areas:
 
 * It implements the new hypervisor-abstracted architecture
   ([HAL](http://blog.invisiblethings.org/2013/03/21/introducing-qubes-odyssey-framework.html)),
-  and introduces a load of [new features](http://TODO): Xen 4.4, [new qrexec](),
-  and brings lots of new VM templates with full Qubes integration: Debian 7 and 8,
+  and introduces a load of [new features](http://TODO): Xen 4.4, [new
+  qrexec](https://www.qubes-os.org/doc/Qrexec3Implementation/), and brings lots
+  of new VM templates with full Qubes integration: Debian 7 and 8,
   Whonix 9, and [many more](http://TODO).
 
 * It provides important modifications and improvements to our build system.
@@ -27,14 +28,14 @@ are quite important for the future of the project:
 
 As Qubes is becoming more popular, and we get more contributions from the
 community, the obvious problem we're starting to face is how to verify all the
-contributions in terms of them being both or proper quality (i.e. not
+contributions in terms of them being both of proper quality (i.e. not
 introducing bugs to the system), as well as being non-malicious (i.e. not
 introducing backdoors, nor compromising developer's machine).
 
 Another problem we're facing is how to avoid potential targeted attacks on us,
 i.e. those who build and distribute Qubes binaries. E.g. we trust Fedora and
 Debian Projects to produce un-backdoored (but not necessarily flawless!) RPM and
-DPKG binary packages, which we subsequently use to build Qubes templates and
+DEB binary packages, which we subsequently use to build Qubes templates and
 Dom0/installation images. I believe it is reasonable for us to make such a
 trust decision, because these projects are widespread and if they decided to
 publish (and sign) backdoored binaries (i.e. images not strictly corresponding
@@ -75,9 +76,11 @@ We believe we can solve most of these concerns with the following mechanisms:
    deterministic builds.
 
 We have already implemented #1 by introducing support in the Qubes Builder to
-build templates in disposable VMs (see [here](http://TODO) for details). This
-will now allow to maintain separate repos for different templates (Fedora,
-Debian, Whonix, etc.) with different people responsible for each.
+build templates in disposable VMs (see
+[here](https://github.com/QubesOS/qubes-builder/blob/master/doc/TemplateDispVMBuild.md)
+for details). This will now allow to maintain separate repos for different
+templates (Fedora, Debian, Whonix, etc.) with different people responsible for
+each.
 
 We have also implemented #2 by using Whonix Tor Gateway as a default netvm for
 all the VMs uses for the 3.0 rc1 ISO build (as per #1 there are now more than
@@ -133,7 +136,7 @@ above was generated out of this repo.
 Speaking of releases and roadmap, it's worth mentioning we have decided to
 slightly change the release cycle for Qubes, starting with 3.0. The new scheme
 is modeled after the Linux Kernel release cycle. More on this can be read
-[here](http://TODO).
+[here](http://www.qubes-os.org/doc/VersionScheme/).
 
 One important improvement that hasn't been illustrated in the roadmap diagram is
 the introduction of many automatic tests into our build system. More on this
@@ -149,8 +152,9 @@ is for similar reasons I decided to move my blog to git/GitHub.com (See my
 post](http://blog.invisiblethings.org/2015/02/09/my-new-git-based-blog.html) for
 more explanations).
 
-The new Qubes 3.0 ISO can be downloaded from [here](http://TODO). This is, BTW,
-the first Qubes ISO built by Marek Marczykowski-Górecki, instead of by myself.
+The new Qubes 3.0 ISO can be downloaded from
+[here](https://www.qubes-os.org/doc/QubesDownloads/). This is, BTW, the first
+Qubes ISO built by Marek Marczykowski-Górecki, instead of by myself.
 As I have recently been involved in a New Project (to be announced sometime
 later, it's Qubes-related, of course), I decided to hand off the signing keys
 for Qubes Release 2 and 3 to Marek. This means he will be building and uploading
