@@ -111,7 +111,9 @@ also crucial here, as we want to make it safe for many parties to be able to
 build Qubes and provide hashes for the binaries independently.
 
 Speaking of our plans, the diagram below shows the roadmap for the rest of the
-year for Qubes 3.x and beyond:
+year for Qubes 3.x and beyond (click
+[here](https://raw.githubusercontent.com/rootkovska/rootkovska.github.io/master/resources/roadmap-2015-apr.png)
+for a full size image):
 
 ![Qubes Roadmap for 2015]({{ site.url }}/resources/roadmap-2015-apr.png)
 
