@@ -18,7 +18,7 @@ last year, Qubes OS 3.0 brings major improvements in two distinct areas:
   and introduces a load of new features: Xen 4.4, [new
   qrexec](https://www.qubes-os.org/doc/Qrexec3Implementation/), and brings lots
   of new VM templates with full Qubes integration: Debian 7 and 8, Whonix 9, and
-  [many more](http://TODO).
+  [many more](https://www.qubes-os.org/doc/Templates/).
 
 * It also provides important modifications and improvements to our build system.
 
@@ -48,8 +48,7 @@ still correctly signed by the distro key.
 Finally, there is a problem of trusting us, the Qubes developers, that we really
 are not malicious and produce and distribute un-backdoored binaries and ISOs,
 matching indeed the source code we publish. Or that our build systems/VMs are
-not compromised. Or that our singing keys are not stolen (e.g. through EM leaks)
-(e.g. through EM leaks).
+not compromised. Or that our singing keys are not stolen (e.g. through EM leaks).
 
 We believe we can address most of these concerns with the following mechanisms:
 
