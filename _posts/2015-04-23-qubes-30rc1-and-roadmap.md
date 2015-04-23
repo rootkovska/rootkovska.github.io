@@ -113,7 +113,7 @@ build Qubes and provide hashes for the binaries independently.
 Speaking of our plans, the diagram below shows the roadmap for the rest of the
 year for Qubes 3.x and beyond:
 
-<img src="/resources/roadmap-2015-apr.jpg" style="width:150px">
+![Qubes Roadmap for 2015]({{ site.url }}/resources/roadmap-2015-apr.png)
 
 The major new feature coming in the next release (Qubes 3.1) is the management
 and pre-configuration infrastructure. This is gonna be a basis for both remote
