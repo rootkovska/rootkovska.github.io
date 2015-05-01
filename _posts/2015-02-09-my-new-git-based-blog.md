@@ -35,7 +35,7 @@ platform, but this could be *anybody*, thanks to the ease of Git repo cloning
 (irrelevant whether through GitHub web interface or just using `git
 clone`/`pull` manually). This, combined with integrity protection discussed
 below, allows anybody to create mirrors offering this blog to different groups
-of people, without loosing ability to prove its authenticity, which no longer
+of people, without losing ability to prove its authenticity, which no longer
 needs to be implied by DNS record ownership.
 
 Somebody [suggested](https://twitter.com/_ta0/status/562632421305507840)
