@@ -27,7 +27,7 @@ malware for Windows and Linux in the first half of the 2000s.
 Photo
 ------
 
-Feel free to use this [photo]("/resources/joanna.jpg).
+Feel free to use this [photo](/resources/joanna.jpg).
 
 
 Travel requirements
