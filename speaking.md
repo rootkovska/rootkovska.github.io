@@ -34,15 +34,16 @@ Travel requirements
 --------------------
 
 1. For any segment that requires more than 4 hours on a plane, I would require a
-   business class ticket. There is absolutely no exception from this rule.
+   business class ticket. There is absolutely no exception from this rule,
+   sorry.
 
 Dietary constrains
 -------------------
 
-1. I'm a vegetarian. I eat eggs and dairy though,
-2. I enjoy mostly European cousins (mostly southern),
-3. I don't tolerate anything spicy, sour, or generally exotic (in the meaning:
-   different than European food)
+1. I'm a vegetarian. I eat eggs and dairy though.
+2. I enjoy mostly European cousins (mostly southern).
+3. I don't tolerate anything spicy, sour, and generally don't like anything
+   exotic (in the meaning: different than European food)
 
 Other constrains
 -----------------
@@ -51,35 +52,33 @@ Other constrains
    in stark contrast with my personal believes and values. This includes e.g.
    all the countries that discriminate women's rights _by law_ (such as most of
    the Arabic countries), de-legalize love (such as, incredible and sad to
-   believe, Russia today), or otherwise limits people's freedom in unacceptable
-   way.
-
-   To be clear: it is absolutely irrelevant whether I, personally, would be
-   practically exposed to any risk by such discriminatory laws or not, when
-   visiting.
+   believe, Russia today), or otherwise limit people's freedom in some
+   unacceptable way. To be clear: it is absolutely irrelevant whether I
+   personally would be subject to any risk by such discriminatory laws or not.
 
 
 Tips & Tricks
 --------------
 
 1. Please don't ask me "how did you start with computers and security" -- as you
-   might imagine I have been asked this question about 1M of times already, and
-   I hardly enjoy repeating this yet more time. There are certainly more
-   interesting topics to discuss!
+   might imagine I have been asked this question about 1 million of times
+   already, and so I hardly enjoy repeating the answer yet one more time. There
+   are certainly more interesting topics to discuss!
 
-2. Please don't ask me how do I like the place I'm just visiting -- if I like it
-   I would sure to mention it myself. Most of the time, when traveling for very
-   short periods, I don't have enough time to get any opinion, and I'm not quite
-   the kind of person who would say "Oh, it's great!" just to please you.
+2. Please don't ask me how do I like the place I'm just visiting -- if I liked
+   it I would sure to mention it by myself. Most of the time though, when
+   traveling for business, I don't have enough time to get any opinion, and I'm
+   not quite the kind of person who would say "Oh, it's great!" just to please
+   you, sorry.
 
 3. Don't ask me to help with your IT security career or to scan your laptop for
-   malware, or how to implement advanced OpSec.
+   malware, or how to implement advanced OpSec ;)
 
 4. I won't take an insult if you don't express excitement about my presentation,
-   last paper, or current project. Really ;)
+   last paper, or current project ;)
 
-5. Don't make it look I'm being invited to speak because I'm a women. In that
-   case I will likely turn down your invitation.
+5. Don't make it look like I'm being invited to speak because I'm a women. In
+   that case I will likely turn down your invitation.
 
 6. My name is pronounced: root-kov-skea
 
