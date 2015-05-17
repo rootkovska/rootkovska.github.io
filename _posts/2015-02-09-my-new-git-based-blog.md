@@ -13,12 +13,12 @@ shall stress, however, the blog is Git-based, not necessarily GitHub-based!
 
 This move offers several important advantages:
 
-1. Independence on the underlying hosting company
+1. Independence of the underlying hosting company
 2. Flexibility of distribution
 3. Integrity protection
-4. Easily accessible edits history
+4. Easily accessible edit history
 
-The statement about independence on hosting might sound a bit surprising,
+The statement about independence of hosting might sound a bit surprising,
 because one could point out that I still depend on GitHub to host my blog repo.
 However, this is really just a technicality. I might trivially (via `git push`)
 move to another Git hosting platform, shall there be any problems with GitHub
@@ -27,7 +27,7 @@ move to another Git hosting platform, shall there be any problems with GitHub
 While the use of [Markdown](http://en.wikipedia.org/wiki/Markdown) and
 [Jekyll](http://jekyllrb.com/), which is natively used by GitHub Pages to
 render nicely looking static HTML, makes this repo somehow GitHub-specific,
-special care has been taken to make all the content human readable even without
+special care has been taken to make all the content human-readable even without
 Jekyll pre-processing and when viewed using standard plaintext editors.
 
 Moreover, it's not just *me* who can move this blog to some other hosting
@@ -35,22 +35,24 @@ platform, but this could be *anybody*, thanks to the ease of Git repo cloning
 (irrelevant whether through GitHub web interface or just using `git
 clone`/`pull` manually). This, combined with integrity protection discussed
 below, allows anybody to create mirrors offering this blog to different groups
-of people, without losing ability to prove its authenticity, which no longer
-needs to be implied by DNS record ownership.
+of people, without losing the ability to prove its authenticity, which no
+longer needs to be implied by DNS record ownership.
 
 Somebody [suggested](https://twitter.com/_ta0/status/562632421305507840)
 recently that I should be distributing my blog as a bunch of text files over a
-Tor Hidden service. Of course I don't have time and enough incentive to do that
-myself. However, thanks to git-based nature of this blog, it is easy for
-somebody else to setup a script that would be regularly pull'ing my blog,
+Tor Hidden service. Of course I don't have time and enough incentive to do
+that myself. However, thanks to the git-based nature of this blog, it is easy
+for somebody else to setup a script that would be regularly `pull`ing my blog,
 verifying authenticity, and then e.g. publishing it as a Tor Hidden Service.
 
-Or somebody might not like the blog is served over plaintext HTTP connections
-when accessible via the blog.invisiblethings.org DNS (which sadly is a
+Or somebody might not like the fact that the blog is served over plaintext
+HTTP connections when accessible via the blog.invisiblethings.org DNS (which
+sadly is a
 [limitation](https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it)
-of GitHub pages) and might want to setup own server with proper SSL certificate
-to serve it. Again, no problem, and there is no action required on my side!
-That's the beauty of maintaining this as an easily clone-able git repo.
+of GitHub pages) and might want to setup their own server with proper SSL
+certificate to serve it. Again, no problem, and there is no action required on
+my side!  That's the beauty of maintaining this as an easily clone-able git
+repo.
 
 And, no, realistically, I don't think I am, or this blog is, that important or
 controversial, that the US or other government, or whoever, will likely want to
