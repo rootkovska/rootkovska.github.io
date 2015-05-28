@@ -87,6 +87,6 @@ Thanks for your understanding!
 Upcoming events
 ----------------
 
-* [Android Security Symposium](https://usmile.at/symposium/program), Sep 10, 2015 @ Vienna, Austria
-* [Next Generation Threat (TechWorld/IDG)](http://techworld.event.idg.se/event/ngt15/), Sep 22, 2015 @ Stockholm, Sweden
-* [Next Generation Threat (TechWorld/IDG)](http://techworld.event.idg.se/event/ngt15/), Sep 23, 2015 @ Goteborg, Sweden
+* "Security through compartmentalization" @ [Android Security Symposium](https://usmile.at/symposium/program), Sep 10, 2015, Vienna, Austria
+* "Trust as the no. 1 enemy of security: the client systems study" @ [Next Generation Threat](http://techworld.event.idg.se/event/ngt15/), Sep 22, 2015, Stockholm, Sweden
+* "Trust as the no. 1 enemy of security: the client systems study" @ [Next Generation Threat](http://techworld.event.idg.se/event/ngt15/), Sep 23, 2015, Goteborg, Sweden
