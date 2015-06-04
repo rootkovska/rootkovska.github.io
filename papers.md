@@ -61,7 +61,7 @@ Rootkits and stealth malware (both offense and defense)
 
 * "Beyond The CPU: Cheating Hardware Based RAM Forensics", 2007, [paper](TODO), (post)[http://blog.invisiblethings.org/2007/01/20/beyond-cpu-cheating-hardware-based-ram.html)
 
-* "IsGameOver() Anyone?", 2007,[slides](http://invisiblethingslab.com/resources/bh07/IsGameOver.pdf)
+* "IsGameOver() Anyone?", 2007, [slides](http://invisiblethingslab.com/resources/bh07/IsGameOver.pdf)
 
 * "Subverting Vista Kernel for Fun and Profit (incl. introduction of Blue Pill)", [post](http://blog.invisiblethings.org/2006/06/22/introducing-blue-pill.html), [slides](http://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Rutkowska.pdf)
 
