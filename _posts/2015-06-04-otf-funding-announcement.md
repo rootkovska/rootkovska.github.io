@@ -5,7 +5,7 @@ author: Joanna Rutkowska
 ---
 
 It's my pleasure to announce that Qubes OS Project has got funding from the
-[Open Technology Found](https://www.opentechfund.org/), and this way joined a
+[Open Technology Fund](https://www.opentechfund.org/), and this way joined a
 number of other high-profile, open-source
 [projects](https://www.opentechfund.org/projects), such as the Tor Project, or
 Open Whisper Systems, who also have received substantial funding from the OTF
