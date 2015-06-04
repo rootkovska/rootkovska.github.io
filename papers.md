@@ -69,6 +69,10 @@ Rootkits and stealth malware (both offense and defense)
 
 * "Rootkit Hunting vs. Compromise Detection", 2006, [slides](TODO)
 
+* "System Virginity Verifier", 2005, [slides](TODO)
+
+* "Cross-view detection thoughts", 2005, [article](TODO)
+
 * "Implementation of Passive Covert Channels in the Linux Kernel (NUSHU)", 2004, [paper](TODO), [slides](TODO)
 
 * "redpill... or how to detect VMM using (almost) one CPU instruction", 2004, [paper](TODO)
