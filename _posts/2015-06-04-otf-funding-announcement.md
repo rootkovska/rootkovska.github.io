@@ -112,3 +112,6 @@ threats. Naturally this makes Qubes, especially Qubes with Whonix, an attractive
 tool for him and his partners. For the conspiracy theorists: yes, Michael used
 to work for the US Department of State as he clearly notes in his biographical
 note linked above. He also studied in China ;)
+
+You can also read the annoucement by the Whonix Project
+[here](https://www.whonix.org/blog/host-and-sponsorship-by-otf).
