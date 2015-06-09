@@ -7,7 +7,7 @@ permalink: /speaking/
 This page (hopefully) contains some useful information for conference organizers
 who wish to invite me to speak at their event, such as the current biography &
 photo to be used for the conference page, as well as a few technical
-requirements/constrains for travel and food.
+requirements/constraints for travel and food.
 
 Bio
 ----
@@ -37,47 +37,48 @@ Travel requirements
    business class ticket. There is absolutely no exception from this rule,
    sorry.
 
-Dietary constrains
+Dietary constraints
 -------------------
 
 1. I'm a vegetarian. I eat eggs and dairy though.
-2. I enjoy mostly European cousins (mostly southern).
+2. I enjoy mostly European cuisines (mostly southern).
 3. I don't tolerate anything spicy, sour, and generally don't like anything
    exotic (in the meaning: different than European food)
 
-Other constrains
+Other constraints
 -----------------
 
-1. As a matter of principle, I don't travel to countries whose official laws are
-   in stark contrast with my personal believes and values. This includes e.g.
-   all the countries that discriminate women's rights _by law_ (such as most of
-   the Arabic countries), de-legalize love (such as, incredible and sad to
-   believe, Russia today), or otherwise limit people's freedom in some
+1. As a matter of principle, I don't travel to countries whose official laws
+   are in stark contrast with my personal beliefs and values. This includes
+   e.g.  all the countries that de-recognize women's rights _by law_ (such as
+   most of the Arabic countries), de-legalize love (such as, incredible and
+   sad to believe, Russia today), or otherwise limit people's freedom in some
    unacceptable way. To be clear: it is absolutely irrelevant whether I
-   personally would be subject to any risk by such discriminatory laws or not.
+   personally would be subject to any risk due to such discriminatory laws or
+   not.
 
 
 Tips & Tricks
 --------------
 
 1. Please don't ask me "how did you start with computers and security" -- as you
-   might imagine I have been asked this question about 1 million of times
+   might imagine I have been asked this question about 1 million times
    already, and so I hardly enjoy repeating the answer yet one more time. There
    are certainly more interesting topics to discuss!
 
-2. Please don't ask me how do I like the place I'm just visiting -- if I liked
-   it I would sure to mention it by myself. Most of the time though, when
-   traveling for business, I don't have enough time to get any opinion, and I'm
-   not quite the kind of person who would say "Oh, it's great!" just to please
-   you, sorry.
+2. Please don't ask me how I like the place I'm just visiting -- if I liked it
+   I would sure to mention it by myself. Most of the time though, when
+   traveling for business, I don't have enough time to get any opinion, and
+   I'm not quite the kind of person who would say "Oh, it's great!" just to
+   please you, sorry.
 
 3. Don't ask me to help with your IT security career or to scan your laptop for
    malware, or how to implement advanced OpSec ;)
 
-4. I won't take an insult if you don't express excitement about my presentation,
+4. I won't be insulted if you don't express excitement about my presentation,
    last paper, or current project ;)
 
-5. Don't make it look like I'm being invited to speak because I'm a women. In
+5. Don't make it look like I'm being invited to speak because I'm a woman. In
    that case I will likely turn down your invitation.
 
 6. My name is pronounced: root-kov-skea

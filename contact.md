@@ -82,7 +82,7 @@ As a matter of principle I don't use Skype. It's not because Skype does not
 offer any meaningful security or privacy (which I believe it indeed does not
 offer) -- I have no illusions that other global PSTN or cellular telephony does
 not offer it either. It's rather because Skype is a closed communication system
-based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
+based on a [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
 
 We should be discouraging businesses and governments from forcing us into
 closed systems. Imagine a road system that allowed only one select make of cars

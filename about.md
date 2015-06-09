@@ -24,13 +24,13 @@ This implies e.g. ability for individuals to make choices as to whom they want
 to entrust with various aspects of their lives.
 
 I'm a human, although I can greatly separate emotions from work. This means I
-can appreciate ideas and work of people who I might be otherwise despising as
-human beings. Ideas, science and technology have no morale. It's annoying so
+can appreciate ideas and work of people who I might otherwise despise as human
+beings. Ideas, science and technology have no morals. It's annoying that so
 many people don't seem to understand that.
 
-I'm comfortable and happy being a woman, although I do realize the absurd of
-the rigid classification of human beings into two simple subsets: males and
-females, and always surprised how deeply this influences people.
+I'm comfortable and happy being a woman, although I do realize the absurdity
+of the rigid classification of human beings into two simple subsets: males and
+females, and I am always surprised how deeply this influences people.
 
 I'm also a feminist. I wish there were more women in science and technology. I
 also wish more women had more self confidence. At the same time [I'm
