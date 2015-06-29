@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+# encoding: utf-8
+# @license AGPLv3 <https://www.gnu.org/licenses/agpl-3.0.html>
+# @author Copyright (C) 2015 Robin Schneider <ypid@riseup.net>
+#
+# Quick and dirty converter script for
+# http://blog.invisiblethings.org/2015/02/09/my-new-git-based-blog.html
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as
+# published by the Free Software Foundation, version 3 of the
+# License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+import re
+
+
+def read_urls(filename):
+    urls = [line.rstrip('\n') for line in open(filename)]
+    return set(urls)
+
+
+old_urls = read_urls('old_urls')
+new_urls = read_urls('new_urls')
+
+need_to_match = ['year', 'month', 'title']
+
+for old_url in old_urls:
+    # print(old_url)
+    re_match = re.search(r'/(?P<year>\d{4})/(?P<month>\d{2})/(?P<title>.*)\.html', old_url)
+    old_url_metainfo = {
+        'year': re_match.group('year'),
+        'month': re_match.group('month'),
+        'title': re_match.group('title'),
+    }
+
+    for new_url in new_urls:
+        re_match = re.search(r'/(?P<year>\d{4})/(?P<month>\d{2})/(?P<day>.{2})/(?P<title>.*)\.html', new_url)
+
+        matched = 0
+        for match_item in need_to_match:
+            if old_url_metainfo[match_item] == re_match.group(match_item):
+                matched += 1
+        if matched == len(need_to_match):
+            # print(matched)
+            # print(re_match.group('title'))
+            replace_patterns = [
+                's#\(href="\){}#\\1{}#g'.format(old_url, new_url),
+                's#({})#({})#g'.format(old_url, new_url),
+            ]
+            print(
+                'sed --in-place \'{}\' *.html'.format(
+                    ';'.join(replace_patterns)
+                )
+            )
+
+    # break
+
+print()
