@@ -1,7 +1,0 @@
-#!/bin/bash
-
-grep 'href="http://theinvisiblethings.blogspot.com[^"]*' -o --no-filename *.html | sed 's/^href="//' | sort -u | grep -v '\?showComment' > old_urls
-pushd ../; jekyll build; popd
-grep 'class="post-link" href="[^"]\+' ../_site/index.html | sed 's#^.*class="post-link" href="\([^"]\+\)">.*$#\1#;' | sort -u > new_urls
-./converter > run
-bash run
