@@ -41,7 +41,7 @@ Dietary constrains
 -------------------
 
 1. I'm a vegetarian. I eat eggs and dairy though.
-2. I enjoy mostly European cousins (mostly southern).
+2. I enjoy mostly European cuisines (mostly southern).
 3. I don't tolerate anything spicy, sour, and generally don't like anything
    exotic (in the meaning: different than European food)
 
