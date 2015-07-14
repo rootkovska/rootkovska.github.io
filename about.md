@@ -25,7 +25,7 @@ to entrust with various aspects of their lives.
 
 I'm a human, although I can greatly separate emotions from work. This means I
 can appreciate ideas and work of people who I might be otherwise despising as
-human beings. Ideas, science and technology have no morale. It's annoying so
+human beings. Ideas, science and technology have no morality. It's annoying so
 many people don't seem to understand that.
 
 I'm comfortable and happy being a woman, although I do realize the absurd of
