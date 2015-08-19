@@ -1,29 +1,37 @@
-Welcome to my git-based (not necessarily GitHub-based!), decentralization-friendly,
+Welcome to my n-test for a decentralization-friendly,
 liberated, and integrity-protected blog and website!
+Waiting for a decentralized Internet to come back,
+it is worth to give a try to a git-based gpg-signed
+content repo.
 
 About Me
 =========
 
-My name is Joanna Rutkowska, I lead the [Qubes OS](https://qubes-os.org)
-project and [Invisible Things Lab](http://invisiblethingslab.com) (see
-[about.md](/about/) and [contact.md](/contact/) for more info). 
+My name is mfp, I lead my feet and a limited amount of air over my head
+(see [about.md](/about.md) and [contact.md](/contact.md) for more info).
+As soon as I can get a clean terminal to access the net I'll be in charge
+of my words again too.
 
 
 About this Website/Blog/Repo
 =============================
 
-This blog is a continuation of my "Invisible Things Lab Blog", [previously
-hosted](http://theinvisiblethings.blogspot.com/) on Google's Blogger platform
-for 8 years between 2006 until the end of 2014.  Read [this
-post]({% post_url 2015-02-09-my-new-git-based-blog %}) to understand why I decided
-to migrate away from Blogger, and why I consider it important to have this blog
-distributed as a git-repo.
+I've never had a blog before. I hate blogs. To expose what we already
+do everyday, in every and each human context, since the first monkey
+learned how to talk, is ... wasteful.
+In other words: to turn the human chatting into a show is 
+a dangerous and insignificant waste of energy until we don't get
+rules that guarrantee no actions can be taken upon someone that had a speech.
+I had some sort of blog a bit before Google popped up in 2001:
+the reason was that I need to practice some advanced Perl programming
+so I packed togeter an opinion-spitting tool. After 6 months was down again.
+
 
 Content of this repo
 ---------------------
 
-* All the Invisible Things blog posts (in the [_posts/](/blog/) directory)
-* [Contact info](/contact/) and my [GPG keys](/keys/)
+* My experiments.
+* [Contact info](/contact.md) and my [GPG keys](/keys/)
 * Other info about myself and my work
 
 Distribution and hosting
@@ -32,23 +40,17 @@ Distribution and hosting
 This blog/website is distributed as a git-repo, and is primarily hosted on my
 GitHub account. You should be able to clone it using the following command:
 
-    git clone https://github.com/rootkovska/rootkovska.github.io
+    git clone https://github.com/mfp19/mfp19.github.io
 
 You can also view the sources at GitHub online
-[here](https://github.com/rootkovska/rootkovska.github.io).
+[here](https://github.com/mfp19/mfp19.github.io).
 
-This blog is also available for traditional Web-based viewing via the following
-URL (which is likely how you're reading it now):
-
-* http://blog.invisiblethings.org/
-
-That URL might change in the future, as well as alternative ones might be added.
+As soon as I can figure out how to decentralise the whole thing, alternative URLs might be added.
 
 One can get notifications about new posts/updates via:
 
 * The blog's [RSS feed](/feed.xml)
-* [My Twitter Account](https://twitter.com/rootkovska/)
-* [My GitHub Account] (https://github.com/rootkovska/)
+* [My GitHub Account] (https://github.com/mfp19/)
 
 
 Integrity protection
@@ -89,7 +91,7 @@ git-based software project. Thanks!
 License/Copyrights
 -------------------
 
-This Blog and Website by Joanna Rutkowska is licensed under a [Creative Commons
+This Blog and Website by mfp is licensed under a [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International
 License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
