@@ -9,8 +9,15 @@ Email
 
 I can be contacted via email using the following addresses:
 
-* `joanna@invisiblethingslab.com` for ITL- and Qubes-related matters
-* `joanna@invisiblethings.org` for other matters
+* `mfp19@` for IT matters.
+* `mfp19@` for Weed&Beer matters.
+* `mfp19@` for other matters.
+
+Note: I've spent 20 of my 35 years advocating for bugs free IT tools and privacy.
+After being investigated 3 times, and stalked, and ruined, I had to give up
+my personal mail server and create my fake identity (see 'Public conversations').
+As a result I don't have an email address.
+I'm Defective by Design.
 
 Note on confidentiality
 ------------------------
@@ -19,10 +26,10 @@ Please note that, as most other people and organizations, I use a 3rd party
 Mail Service Provider. The stuff who work at the provider is (technically-wise)
 able to read all my incoming and outgoing mail. This is by definition of how
 email infrastructure work, and it is irrelevant whether SSL or other encryption
-is used between email clients and corresponding email servers. If you have
-something confidential, please use PGP/GPG encryption to secure our
-communication (see [keys.md](/keys/) for info how to obtain and verify my GPG
-keys).
+is used between email clients and corresponding email servers. 
+Please use PGP/GPG encryption to secure our communication (see [keys.md](/keys/) 
+for info how to obtain and verify my GPG keys), whether or not you have 
+something to hide.
 
 Note on integrity of my emails
 -------------------------------
@@ -30,8 +37,7 @@ Note on integrity of my emails
 All email sent by me from the above-mentioned email addresses should be
 digitally signed with my email [keys](/keys/).
 
-A notable exception is Qubes and other mailing lists hosted on Google Groups --
-recently Google has implemented logic that rewrites parts of the messages by
+A notable exception are mailing lists. Some majordomos rewrite parts of the messages by
 adding info on how to unsubscribe from a given ML. That, unfortunately, breaks
 any attached digital signatures to the messages, of course.
 
@@ -44,11 +50,8 @@ email. In some cases, although rarely, I might not read through the whole
 message. Please understand that I would also like to have life outside of my
 email VM...
 
-* Please do not write to me personally asking questions about Qubes OS --
-instead, please write to one of [our mailing
-lists](https://wiki.qubes-os.org/wiki/QubesLists).
-
-* I can only read email in English or Polish.
+* I can only read email in English, Italian, Spanish, French and ... well ... 
+Thai, but it takes me 1 day to translate 1 page, please don't :)
 
 * Please don't write asking me for advise about how to become a "hacker", or
 "security researcher".
@@ -65,25 +68,23 @@ Phone, Skype, etc.
 I don't believe phone (or similar means of communication) are that great for
 technical discussions. My experience shows that phone-based conversations lack
 technical depth, and are prone to misunderstandings, especially pronounced when
-talking over VoIP connection across the Atlantic. Additionally, they require
+talking over VoIP connection across the oceans. Additionally, they require
 fixed time slots allocations, suitable for both parties, which is generally a
 PITA. In most cases discussions are clearer, faster, and more comfortable using
 email! Not to mention they could be much more secure if GPG is used also.
 
-That being said, I'm available for scheduled phone or conference calls. Please
-notice that I live in Warsaw, Poland, which is in UTC +1 (Winter) and UTC +2
-(Summer) Time Zone. I'm a late sleeper, and usually cannot do a phone call
-before 1100 hrs of my local time.
+That being said, I'm available for scheduled phone or conference calls. 
+I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
 
 Note on Skype
 --------------
 
-As a matter of principle I don't use Skype. It's not because Skype does not
-offer any meaningful security or privacy (which I believe it indeed does not
-offer) -- I have no illusions that other global PSTN or cellular telephony does
-not offer it either. It's rather because Skype is a closed communication system
-based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
+As a matter of principle I don't use Skype. Skype does not offer any meaningful 
+security or privacy and I have no illusions that other global PSTN or cellular telephony does
+not offer it either.
 
+Moreover Skype is a closed communication system 
+based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
 We should be discouraging businesses and governments from forcing us into
 closed systems. Imagine a road system that allowed only one select make of cars
 to be driven -- would that be fun?
@@ -92,17 +93,21 @@ to be driven -- would that be fun?
 Public conversations
 =====================
 
-It is also possible to engage with me in public conversations via:
+It is also possible to engage with me in public conversations via my puppet identity:
 
-* [My Twitter account](https://twitter.com/rootkovska/)
-* [Qubes Mailing Lists](https://wiki.qubes-os.org/wiki/QubesLists) (especially on `qubes-devel` ML)
+* [Gmail](michele.favarapedarsi@gmail.com)
+* [Skype](michele.favarapedarsi)
+
+Note: I disregard language control. So, if you want to talk to my puppet,
+just be prepared to get a 'bullshit' here and a 'fuck off' there.
 
 Policy on LinkedIn
 ===================
 
-I don't use LinkedIn anymore, I have deleted my account some time ago. The
-stream of invites from total strangers, inability to verify trust, all makes
-LinkedIn and similar platforms rather meaningless, IMO.
+I don't use LinkedIn. I my account exists for couriosity sake only. The
+stream of invites from total strangers, inability to verify trust,
+some wierd community work under the hoods, all makes
+LinkedIn and similar platforms rather meaningless, and mildly dangerous.
 
 Please do not send me LinkedIn or similar invites. These will be reported as
 spam.
