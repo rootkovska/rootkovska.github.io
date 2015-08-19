@@ -4,6 +4,7 @@ Waiting for a decentralized Internet to come back,
 it is worth to give a try to a git-based gpg-signed
 content repo.
 
+
 About Me
 =========
 
@@ -18,13 +19,31 @@ About this Website/Blog/Repo
 
 I've never had a blog before. I hate blogs. To expose what we already
 do everyday, in every and each human context, since the first monkey
-learned how to talk, is ... wasteful.
+learned how to talk, is ... wasteful. A potential of 8 billion times
+redundant bullshit.
+<br>
 In other words: to turn the human chatting into a show is 
 a dangerous and insignificant waste of energy until we don't get
 rules that guarrantee no actions can be taken upon someone that had a speech.
-I had some sort of blog a bit before Google popped up in 2001:
+Any speech. About anything.
+<br>
+To be clear: if YOU point YOUR terminal (computer, phone or washing machine)
+to access the bullshit that is supposed to be mine ... don't complain then 
+because YOU don't like it. A solo job is a ... wanker.
+<br>
+To be completely honest with you all: we're didn't finish yet to discuss with big
+weaponized guys commonly called 'green berrets', 'marines', 'MiBs', etc ... to let us
+keeping our cryptotoys so that we can digitally sign our graffiti ... 
+and you get upset with ... well ... whatever you see on your monitor? 
+Are you stupid or ... what? Don't get me wrong: I get upset too but ... 
+I don't go around yelling against the pedoterrosatanists inside my computer.
+I just suffer two times: one to get upset, one to get calm again.
+I'm an idiot. But I know it. What about you?
+<br>
+To tell you the whole truth I had some sort of blog a bit before Google popped up (2001):
 the reason was that I need to practice some advanced Perl programming
-so I packed togeter an opinion-spitting tool. After 6 months was down again.
+so I packed togeter an opinion-spitting tool.
+And after 6 months was down again: do the world really needs my opinions? No.
 
 
 Content of this repo
@@ -33,6 +52,7 @@ Content of this repo
 * My experiments.
 * [Contact info](/contact.md) and my [GPG keys](/keys/)
 * Other info about myself and my work
+
 
 Distribution and hosting
 -------------------------
@@ -56,7 +76,7 @@ One can get notifications about new posts/updates via:
 Integrity protection
 ---------------------
 
-This blog/repo is integrity protected using [git
+(WiP) This blog/repo is integrity protected using [git
 tags](https://www.kernel.org/pub/software/scm/git/docs/git-tag.html) digitially
 signed with [my blog-signing key](/keys/). In order to verify the
 authenticity of all or any of the posts, you can use the following command:
@@ -65,10 +85,11 @@ authenticity of all or any of the posts, you can use the following command:
     <some tag>
     $ git tag -v <some tag>
 
+
 (In)dependency on GitHub
 -------------------------
 
-While this repo is hosted on GitHub, and some GitHub-specific features are
+(WiP) While this repo is hosted on GitHub, and some GitHub-specific features are
 exploited in order to make this more available to a wider audience,
 specifically GitHub's support for [Static Web
 Hosting](https://pages.github.com/), it should be stressed that neither
@@ -77,9 +98,9 @@ If, for some reason, GitHub, or an ISP, or whoever in between, decided to
 block, falsify, or censor this blog, there are dozens of alternative ways of
 how this repo (blog) could be delivered, e.g. via Tor or other transports, and
 thanks to using git signed tags, its integrity could be always verified. All
-the documents contained in this repo (apart from the old Blogger posts which
-have been converted automatically) have been created with an assumption to be
+the documents contained in this repo have been created with an assumption to be
 easily readable using just a standard text editor or viewer.
+
 
 Patches or pull requests welcome!
 ----------------------------------
@@ -87,6 +108,7 @@ Patches or pull requests welcome!
 If you find spelling, grammar or other errors in my blog posts, and feel like
 correcting them, please send me a patch like you would do for any other
 git-based software project. Thanks!
+
 
 License/Copyrights
 -------------------
