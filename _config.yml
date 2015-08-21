@@ -1,4 +1,5 @@
 # Site settings
+safe: true
 title: mfp19
 url: "http://mfp19.github.io"
 

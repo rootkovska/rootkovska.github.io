@@ -9,7 +9,7 @@ who wish to invite me to speak at their event, such as the current biography &
 photo to be used for the conference page, as well as a few technical
 requirements/constrains for travel and food.
 
-Bio
+(WiP) Bio
 ----
 
 mfp is mfp. 
