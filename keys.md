@@ -15,13 +15,14 @@ But I can't.
 I start to use GPG back in 1996 and I quit in 2000, started and quit again
 a few more times in the past 20 years. I quit every time I figure out that
 my systems might be compromised.
-And because cops can sieze my hw, robbers can rob it, and my government
-is not supportive to create an universal security buddy...
-... well ... there's no chance for me to use it.
-I'd better get a gun, but I'm too scared.
+And because cops can seize my hw, courts can mandate to disclose passwords,
+robbers can rob it, and my government is not supportive to create an 
+universal security buddy... well: there's no chance for me to use it.
+I'd better get a gun, but I'm too scared by weapons.
+So I keep experimenting waiting for better times.
 
-The Master Key
-===============
+(WiP) The Master Key
+====================
 
 All my keys should be signed by the following Master Signing Key:
 
@@ -36,8 +37,8 @@ you with a falsified repo, they would be sure to also feed you with a falsified 
 
 * This key is attached here: [keys/mfp-master-key.asc](/keys/mfp-master-key.asc).
 
-Email encryption keys
-======================
+(WiP) Email encryption keys
+===========================
 
 The following is my GPG key for work-related email communication:
 
@@ -53,8 +54,8 @@ The following is my GPG key for work-related email communication:
 
 * This key is attached here: [keys/mfp-email.asc](/keys/mfp-email.asc).
 
-Blog signing key
-=================
+(WiP) Blog signing key
+======================
 
 The following key is used to sign this blog repo:
 
@@ -71,40 +72,24 @@ The following key is used to sign this blog repo:
 * This key is attached here: [keys/mfp-blog-key.asc](/keys/mfp-blog-key.asc).
 
 
-Note on lack of expiration date on code-signing keys
-=====================================================
+Notes
+=====
 
-My signing keys (e.g. blog or code signing keys) do not have expiration
-dates. This is not laziness. There is a fundamental problem with using an
-expiration date on keys used for code signing (e.g. `git tag -s`), because
-I don't know what the outcome should be when one verifies some old code (written
-and signed when the key was still valid) in the future when the key has already
-expired?
+* My signing keys (e.g. blog and code signing keys) do not have expiration
+dates. This is not laziness. It is made on purpose to allow anyone to verify 
+some old code (written and signed by me when the key was still valid) in the future 
+when the key has already expired. The developer could have been kidnapped
+to push malicious code into the code base but ... again ... if a bank
+or a government doesn't support this security model and an individual have
+no proprerty to secure the keys himself, no way to do The Right Thing.
 
-Naturally we would like the old code, written and signed when the key was still
-valid, to continue to verify fine also in the future, after the key expires
-(and the developer passed away, perhaps).  However, it is very problematic to
-prevent the attacker from creating falsified code pretending to be an old one.
-
-
-Other keys
-===========
-
-There is a bunch of other keys in the
-[keys/](https://github.com/mfp19/mfp19.github.io/tree/master/keys/)
-directory -- these are implicitly signed by my master key by being part of this
-(tag-signed) repo.
-
-
-Other notes
-============
-
-* I proudly use empty passphrases on all of my private keys. This is because if
+* I use empty passphrases on all of my private keys. This is because if
 somebody was able to execute malicious code in the VM where a private key
 lives, then the key should be considered compromised no matter how complex
 passphrase I used to protect it.  Passphrases on private keys are classic
 example of [Security Theater](http://en.wikipedia.org/wiki/Security_theater) in
 my opinion.
 
-* I don't know how to secure my keys because currently I don't have home 
+* I don't have keys because currently I don't have home 
 and peers to physically secure my keys.
+

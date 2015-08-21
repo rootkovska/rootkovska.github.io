@@ -12,7 +12,7 @@ requirements/constrains for travel and food.
 Bio
 ----
 
-mfp is ... 
+mfp is mfp. 
 
 
 Photo
@@ -53,7 +53,7 @@ Other constrains
 1. As a matter of principle, I shouldn't travel to countries whose official laws are
    in stark contrast with my personal believes and values. This includes e.g.
    all the countries that infringe constitutional rights I was born with,
-   But in practice I care only about not being personally subject to any risk by local laws.
+   but in practice I care only about not being personally subject to any risk by local laws.
 
 
 Tips & Tricks
@@ -71,10 +71,10 @@ Tips & Tricks
    appreciate every little good thing I can find in any context.
    And complain about all the rest of it. A warning about local taboos would be
    appreciated, because I've the perverse tendancy to notice and talk about
-   any wierd thing I see, and laugh about it; and sometimes it causes death.
+   any weird thing I see, and laugh about it; and sometimes it causes death.
 
-3. Don't ask me to help with your laptop, career or to give you one of my fish.
-   The only thing I'm willing to do it to teach you how to fish yourself.
+3. Don't ask me to help with your laptop, career or to give my fish to you.
+   The only thing I'm willing to do is to teach you how to fish some.
 
 4. Don't abduct me somewhere: it already happened and this caused to me to be scared
    to move from my actual geographic position unless I have some well known host,

@@ -95,8 +95,8 @@ Public conversations
 
 It is also possible to engage with me in public conversations via my puppet identity:
 
-* [Gmail](michele.favarapedarsi@gmail.com)
-* [Skype](michele.favarapedarsi)
+* [Gmail](mailto:michele.favarapedarsi@gmail.com)
+* [Skype](skype:michele.favarapedarsi)
 
 Note: I disregard language control. So, if you want to talk to my puppet,
 just be prepared to get a 'bullshit' here and a 'fuck off' there.
