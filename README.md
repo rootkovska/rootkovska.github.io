@@ -10,12 +10,12 @@ About Me
 
 My name is mfp, I lead my feet and a limited amount of air over my head
 (see [about.md](/about.md) and [contact.md](/contact.md) for more info).
-As soon as I can get a clean terminal to access the net I'll be in charge
+As soon as I can get a safe terminal to access the net I'll be in charge
 of my words again too.
 
 
 About this Website/Blog/Repo
-=============================
+============================
 
 I've never had a blog before. I hate blogs. To expose what we already
 do everyday, in every and each human context, since the first monkey
@@ -36,7 +36,7 @@ weaponized guys commonly called 'green berrets', 'marines', 'MiBs', etc ... to l
 keeping our cryptotoys so that we can digitally sign our graffiti ... 
 and you get upset with ... well ... whatever you see on your monitor? 
 Are you stupid or ... what? Don't get me wrong: I get upset too but ... 
-I don't go around yelling against the pedoterrosatanists inside my computer.
+I don't go around yelling against the pedoterrosatanists.
 I just suffer two times: one to get upset, one to get calm again.
 I'm an idiot. But I know it. What about you?
 <br>
@@ -54,8 +54,8 @@ Content of this repo
 * Other info about myself and my work
 
 
-Distribution and hosting
--------------------------
+(WiP) Distribution and hosting
+------------------------------
 
 This blog/website is distributed as a git-repo, and is primarily hosted on my
 GitHub account. You should be able to clone it using the following command:
@@ -73,10 +73,10 @@ One can get notifications about new posts/updates via:
 * [My GitHub Account] (https://github.com/mfp19/)
 
 
-Integrity protection
----------------------
+(WiP) Integrity protection
+--------------------------
 
-(WiP) This blog/repo is integrity protected using [git
+This blog/repo is integrity protected using [git
 tags](https://www.kernel.org/pub/software/scm/git/docs/git-tag.html) digitially
 signed with [my blog-signing key](/keys/). In order to verify the
 authenticity of all or any of the posts, you can use the following command:
@@ -86,10 +86,10 @@ authenticity of all or any of the posts, you can use the following command:
     $ git tag -v <some tag>
 
 
-(In)dependency on GitHub
--------------------------
+(WiP) (In)dependency on GitHub
+------------------------------
 
-(WiP) While this repo is hosted on GitHub, and some GitHub-specific features are
+While this repo is hosted on GitHub, and some GitHub-specific features are
 exploited in order to make this more available to a wider audience,
 specifically GitHub's support for [Static Web
 Hosting](https://pages.github.com/), it should be stressed that neither

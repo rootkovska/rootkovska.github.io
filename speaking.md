@@ -5,21 +5,8 @@ permalink: /speaking/
 ---
 
 This page (hopefully) contains some useful information for conference organizers
-who wish to invite me to speak at their event, such as the current biography &
-photo to be used for the conference page, as well as a few technical
-requirements/constrains for travel and food.
-
-(WiP) Bio
-----
-
-mfp is mfp. 
-
-
-Photo
-------
-
-Feel free to use this [photo](/resources/mfp.jpg).
-
+who wish to invite me to speak at their event. For the current biography &
+photo to be used for the conference page use the ones in [About](/about/).
 
 Travel requirements
 --------------------

@@ -43,7 +43,7 @@ any attached digital signatures to the messages, of course.
 
 
 Other notes on emailing me
----------------------------
+--------------------------
 
 * I get lots of emails. This means I might not find time to respond to your
 email. In some cases, although rarely, I might not read through the whole
@@ -76,8 +76,9 @@ email! Not to mention they could be much more secure if GPG is used also.
 That being said, I'm available for scheduled phone or conference calls. 
 I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
 
+
 Note on Skype
---------------
+-------------
 
 As a matter of principle I don't use Skype. Skype does not offer any meaningful 
 security or privacy and I have no illusions that other global PSTN or cellular telephony does
@@ -91,7 +92,7 @@ to be driven -- would that be fun?
 
 
 Public conversations
-=====================
+====================
 
 It is also possible to engage with me in public conversations via my puppet identity:
 
@@ -100,9 +101,11 @@ It is also possible to engage with me in public conversations via my puppet iden
 
 Note: I disregard language control. So, if you want to talk to my puppet,
 just be prepared to get a 'bullshit' here and a 'fuck off' there.
+Without offense, off course.
+
 
 Policy on LinkedIn
-===================
+==================
 
 I don't use LinkedIn. I my account exists for couriosity sake only. The
 stream of invites from total strangers, inability to verify trust,
