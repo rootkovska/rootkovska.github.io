@@ -46,10 +46,17 @@ digitally signed with my email [keys](/keys/).
 A notable exception are mailing lists. Some majordomos rewrite parts of the messages by
 adding info on how to unsubscribe from a given ML. That, unfortunately, breaks
 any attached digital signatures to the messages, of course.
-
-The whole thing started when Microsoft pushed MIME multipart extension to
+The whole "breaking the things" started when Microsoft pushed MIME multipart extension to
 accomodate the marketing department needs, relying on channel security
-enforced by PPTP. Geniuses. But it is a long and tricky story.
+enforced by PPTP. Geniuses. But it is a long and pretty tricky story.
+
+Once a nice chinese guy told me "QQ is Microsoft" but I had no
+idea of what he was speaking about: all I knew was that QQ was a popular
+instant messaging app in China... and their culture is one of the most
+cryptic to my eyes and the eyes of all my ancestors.
+It's pretty hard to communicate properly.
+So ... "MIME multipart is Microsoft" ... give it for good,
+and stay there.
 
 
 Phone, Skype, etc.
@@ -78,9 +85,9 @@ crowdelected according to computational resources available.
 And to tell you the truth, I haven't got a clue on stream ciphering
 machine-discretised audio payloads. I've never been stuying it in detail.
 I have doubts about the strenght of a system that first sample, then encrypt,
-finally transmit. The ZRTP/SRTP/SRCTP looked good to me for end-to-end
-securing my calls but I've never been experimenting enough 
-to being able to asses its security.
+finally transmit on a sessionless/stateless protocol.
+The ZRTP/SRTP/SRCTP looked good to me for end-to-end securing my calls 
+but I've never been experimenting enough to being able to asses its security.
 
 That being said, my pupped identity is available
 for scheduled public conversations.
@@ -168,10 +175,12 @@ pretty funny for my foolish puppet, deadly scary for _myself.
 Plus crappy 'smartphone boosters' that recover my RAM, 
 turn bells and whistles on and off ... everything pre-installed 
 for my courtesy. Making other people happy, making me crazy instead.
-And Google/Ubuntu Phone SDKs don't help much: they include a bootloader
-that isn't: it is the payload of another bootloader.
+And Google/Ubuntu Phone SDKs don't help much; they include in the SDK 
+a bootloader that isn't: it is the payload of another bootloader
+that in turn, comes together with the bare metal.
+
 Garbage collection have always been a problem.
 
-Today it is even hard to genuinely be a nice person.
+And today it is even hard to genuinely be a nice person.
 And we have to live with it. Fuck off, then :)
 
