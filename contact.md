@@ -31,7 +31,7 @@ public authorities and company policies took over the good guys.
 
 This is by definition of how email infrastructure work, 
 and it is irrelevant whether SSL or other encryption is used 
-between email clients and corresponding email servers. 
+between email clients and corresponding email servers.
 
 Please use PGP/GPG encryption to secure our emails (see [keys.md](/keys/) 
 for info how to obtain and verify my GPG keys), on daily basis,
@@ -51,20 +51,21 @@ accomodate the marketing department needs, relying on channel security
 enforced by PPTP. Geniuses. But it is a long and pretty tricky story.
 
 Once a nice chinese guy told me "QQ is Microsoft" but I had no
-idea of what he was speaking about: all I knew was that QQ was a popular
-instant messaging app in China... and their culture is one of the most
-cryptic to my eyes and the eyes of all my ancestors.
-It's pretty hard to communicate properly.
-So ... "MIME multipart is Microsoft" ... give it for good,
-and stay there.
+idea of what he was speaking about: all I knew from european medias
+was that QQ was a popular instant messaging app in China; 
+and their culture is one of the most cryptic to my eyes 
+and the eyes of all my ancestors. It's pretty hard to communicate properly.
+So: "MIME multipart is Microsoft". That's it.
 
 
 Phone, Skype, etc.
 ==================
 
 I don't believe phone (or similar means of communication) are that great for
-technical discussions. In most cases discussions are clearer, faster, and more comfortable 
-using email!
+technical discussions. In most cases discussions are clearer, faster, 
+and more comfortable using email!
+Asymmetric tools give you time to think twice and work according to
+your timing and schedules instead of someone else's ones.
 
 Moreover Skype does not offer any meaningful security or privacy and 
 I have no illusions that other global PSTN or cellular telephony does
@@ -86,7 +87,7 @@ And to tell you the truth, I haven't got a clue on stream ciphering
 machine-discretised audio payloads. I've never been stuying it in detail.
 I have doubts about the strenght of a system that first sample, then encrypt,
 finally transmit on a sessionless/stateless protocol.
-The ZRTP/SRTP/SRCTP looked good to me for end-to-end securing my calls 
+The ZRTP/SRTP/SRCTP looked good enough to me for end-to-end securing my calls 
 but I've never been experimenting enough to being able to asses its security.
 
 That being said, my pupped identity is available
@@ -111,9 +112,8 @@ Notes on communicating with my puppet
 * His personal tools (Personal Computer, Personal Smartphone, etc) are there for his needs, not yours.
 If you don't get an answer don't take it personal.
 
-* He can only read email in English, Italian, Spanish, French and ... well ... 
-Thai, but it takes him 1 day to translate 1 page of simple text (pens on tables, people
-buying apples in the market, etc), please don't, not yet :)
+* He can only read email in English, Italian, Spanish, French and Thai. But I won't be
+writing to him in thai something more complex than "The pen is on the table".
 
 * Please don't write asking him for advice about how to become a "hacker", or
 "security researcher". He is a puppet only, he can't help you.
@@ -137,6 +137,8 @@ and use those fingerprints to filter out my pages on your side (only).
 Don't worry, I won't get upset and I won't try to pierce your filter:
 I don't need to sell you something.
 
+The long story instead.
+
 If you hear a Perfect Human on the other leg of the call instead, it's not me.
 Start running away. Quick. Because I've no idea who is misleading you.
 By not using those 'social tools' I've been able to nail down
@@ -158,8 +160,8 @@ and the whole Public Sekurity business, turned the whole existance into a
 very psychedelic game. Obliging me to change terminals to change [all those
 IDs that entangle any and avery device nowadays](https://en.wikipedia.org/wiki/Clipper_chip).
 It's a game that I can't afford but ... I hope it will settle down one day.
-There should be something like 'medical mariuana exception' for all of us
-that can't live with all this crap in our working tools.
+There should be something like "medical mariuana exception" for all of us
+that can't live with all this crap in our working tools: "medical DRM exception".
 
 And of course, it's pretty hard to catch up with all those Beebo-Frengu-Bubu-Cookuh 
 'social business projects' popping up everyday, 
@@ -167,8 +169,13 @@ burning money in so-kind-so-cute Communication Assholes' hands, since 10 years a
 They are too many. They keep abusing of personal data, call it 'business', 
 and call themselves Ernest. Marketing was already an insult big enough, 
 without Social Networks. Today is an assault: I don't have time
-to fill in all those forms for services I don't need, don't want,
-and I'll never use!!!
+to fill in all those forms for services I don't need, don't want, I'll never use,
+and shouldn't exist for an overall Pretty Good Privacy!!!
+Moreover, the more social services I register, the wider the attack surface is.
+It's a loosy game.
+
+"Heal the Woooooorld, make it a better plaaaaace, for you and for me and
+the entire human race, there are people dying ... "
 
 As a result, I've my terminal RAM constantly clogged by Apps
 that I don't use and, after Ed Snowden, even some Privacy Apps
