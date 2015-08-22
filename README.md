@@ -44,7 +44,7 @@ There's the need to fix the message integrity issue first; that is
 the only reason for me to play with this words you're reading.
 <br>
 To tell you the whole truth I had some sort of blog a bit before Google popped up (2001):
-the reason was that I need to practice some advanced Perl programming
+the reason was that I had need to practice some advanced Perl programming
 so I packed togeter an opinion-spitting tool.
 And after 6 months was down again: do the world really needs my opinions? No.
 
@@ -97,11 +97,49 @@ exploited in order to make this more available to a wider audience,
 specifically GitHub's support for [Static Web
 Hosting](https://pages.github.com/), it should be stressed that neither
 availability nor integrity of this blog requires one to use or trust GitHub.
+
 If, for some reason, GitHub, or an ISP, or whoever in between, decided to
 block, falsify, or censor this blog, there are dozens of alternative ways of
 how this repo (blog) could be delivered, e.g. via Tor or other transports, and
 thanks to using git signed tags, its integrity could be always verified.
 Well, at least this is the issue I'm addressing here.
+
+Technologically speaking we made everything possible, and its opposite,
+to make it happen. But there are huge regulatorry issues, a legal framework
+that entangles the beauty of the electron into dirty crap supposed to be
+for our own good. Some of the security features or some of the business rules,
+must be dropped, trashed, quickly, for the real security to be.
+And it's not happening mainly because of bigger issues raised in the while:
+economy downturns, entire countries exploding, wars, lone wolves. Geopolitics.
+Big guys playing with steel&fire ... again.
+
+So, the real challenge is to be able to keep message integrity on a rogue
+communication channel. Get yourself an old fashioned walkie-talkie,
+consider that anybody could be listening, and start speaking about your personal
+things on-air: size of your dick&boobs, who you love and what you hate, your ID number,
+the pin code of your credit card, etc.
+The Internet is the same but instead of having a 1-km radius only, it's world wide.
+
+You will probably figure out soon that the best way to stay low and safe,
+is to be anonymous:
+
+* to obfuscate the TCP/IP process of selecting best paths in a network; ie: to use Tor.
+* to obfuscate your identity; ie: avoid registries, accounts for silly toys, and so on.
+
+But again: current policies are made to enforce accountability of everything that goes
+from kids parenthood to insurances backtracking. Not to enforce anonimity.
+Basically in some jurisdictions if you use Tor, you get monitored, by design; because
+the war on drugs and the rest of the witch hunts. Some Tor nodes run by gov agencies
+themselves, not by volunteers.
+
+Volunteers that have bootstrapped those tools have already been greylisted.
+Companies that tried to resist search orders got fined and individuals running those
+businesses clamped and locked. The end result is that today we are unable
+to support our own safety.
+
+Unhappy ending: theoretically "there are dozens of alternative ways of 
+how this repo (blog) could be delivered". In practice, considering the UN/NATO polcies 
+of the past 15 years, there aren't. Not... for everyone (cfr. RFC3271).
 
 
 Patches or pull requests welcome!
