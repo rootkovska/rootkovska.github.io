@@ -70,7 +70,7 @@ I don't believe phone (or similar means of communication) are that great for
 technical discussions. In most cases discussions are clearer, faster, and more comfortable 
 using email!
 
-Skype does not offer any meaningful security or privacy and 
+Moreover Skype does not offer any meaningful security or privacy and 
 I have no illusions that other global PSTN or cellular telephony does
 offer it either.
 
@@ -79,14 +79,12 @@ Skype is a closed communication system based on
 that forces the audio streams into the supernodes. And those supernodes,
 all of them, are managed by a single central administration.
 And the same occurs on most public phone networks, since ever.
-We should be discouraging businesses and governments from forcing us into
-closed centralised systems.
-
 Nowadays every conversation that doesn't occur in a bunker, 
 using a pairs-customised language, is public.
 
-That being said, my pupped identity is available for scheduled public conversations. 
-I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
+We should be discouraging businesses and governments from forcing us into
+closed centralised systems. That being said, my pupped identity is available
+for scheduled public conversations.
 
 
 Public conversations
@@ -99,11 +97,33 @@ my puppet identity (Michele Favara Pedarsi):
 * [Gmail](mailto:michele.favarapedarsi@gmail.com)
 * [Skype](skype:michele.favarapedarsi)
 
-Note: I disregard language control. So, if you want to talk to my puppet,
+I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
+
+Note on Good Manners
+--------------------
+
+I disregard language control. If you want to talk to my puppet,
 just be prepared to get a 'bullshit' here and a 'fuck off' there.
-Without offense, off course. Because I've been able to track fake Facebook,
-Whatsapp, Line, etc, profiles. I have no idea why someone could be willing to be me but ...
-... I take it as a compliment and carry on.
+
+Without offense, off course. Because by not using it I've been able
+to track fake Facebook, Whatsapp, Line, etc, profiles.
+I have no idea why someone could be willing to be me but ... 
+I take it as a compliment and carry on.
+
 The biggest problem of this approach is that irony and sarcasm
-are dungerous as well, nowadays.
+are proper of ones' culture only, pretty hard to translate properly
+(ie: without being offensive).
+And of course, it's pretty hard to chatch up with all those Beebo-Bubu-Cookuh 
+'social projects' popping up everyday, burning money in assholes hands,
+since 10 years:  I'm trying to register as many as I can to lock my ID
+into my terminal, but it took a while for the industry to lower the costs of terminals
+down to my ridicolous budget. The one I use to change terminal everytime,
+just to make you two real examples, I see a bootloader written in a language
+that I can't understand (ex: U-Boot in german, and its derivatives in chinese)
+or my telephone number popping up in my skype's account settings.
+
+Long story short: I've plenty MiniMe around and I can't keep saving money
+to buy mobile phones (and not taking care of my teeth). Consider the 'bullshit' here
+and the 'fuck off' there as my foolish fingerprinting.
+If you hear a perfect human on the other side, it's not me.
 
