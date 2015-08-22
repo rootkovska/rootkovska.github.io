@@ -162,11 +162,13 @@ There should be something like 'medical mariuana exception' for all of us
 that can't live with all this crap in our working tools.
 
 And of course, it's pretty hard to catch up with all those Beebo-Frengu-Bubu-Cookuh 
-'social cuteness projects' popping up everyday, 
+'social business projects' popping up everyday, 
 burning money in so-kind-so-cute Communication Assholes' hands, since 10 years ago.
 They are too many. They keep abusing of personal data, call it 'business', 
 and call themselves Ernest. Marketing was already an insult big enough, 
-without Social Networks. Today is an assault.
+without Social Networks. Today is an assault: I don't have time
+to fill in all those forms for services I don't need, don't want,
+and I'll never use!!!
 
 As a result, I've my terminal RAM constantly clogged by Apps
 that I don't use and, after Ed Snowden, even some Privacy Apps
@@ -178,6 +180,7 @@ for my courtesy. Making other people happy, making me crazy instead.
 And Google/Ubuntu Phone SDKs don't help much; they include in the SDK 
 a bootloader that isn't: it is the payload of another bootloader
 that in turn, comes together with the bare metal.
+One bare metal supervisor for each silicon producer.
 
 Garbage collection have always been a problem.
 
