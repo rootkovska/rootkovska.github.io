@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Email
-======
+=====
 
 I can be contacted via email using the following addresses:
 
@@ -20,7 +20,7 @@ As a result I don't have an email address.
 I'm Defective by Design.
 
 Note on confidentiality
-------------------------
+-----------------------
 
 Please note that, as most other people and organizations, I use a 3rd party
 Mail Service Provider. The stuff who work at the provider is (technically-wise)
@@ -33,7 +33,7 @@ something to hide.
 
 
 Note on integrity of my emails
--------------------------------
+------------------------------
 
 All email sent by me from the above-mentioned email addresses should be
 digitally signed with my email [keys](/keys/).
@@ -64,54 +64,46 @@ fonts, etc.
 
 
 Phone, Skype, etc.
-===================
+==================
 
 I don't believe phone (or similar means of communication) are that great for
-technical discussions. My experience shows that phone-based conversations lack
-technical depth, and are prone to misunderstandings, especially pronounced when
-talking over VoIP connection across the oceans. Additionally, they require
-fixed time slots allocations, suitable for both parties, which is generally a
-PITA. In most cases discussions are clearer, faster, and more comfortable using
-email! Not to mention they could be much more secure if GPG is used also.
+technical discussions. In most cases discussions are clearer, faster, and more comfortable 
+using email!
 
-That being said, I'm available for scheduled phone or conference calls. 
-I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
+Skype does not offer any meaningful security or privacy and 
+I have no illusions that other global PSTN or cellular telephony does
+offer it either.
 
-
-Note on Skype
--------------
-
-As a matter of principle I don't use Skype. Skype does not offer any meaningful 
-security or privacy and I have no illusions that other global PSTN or cellular telephony does
-not offer it either.
-
-Moreover Skype is a closed communication system 
-based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
+Skype is a closed communication system based on 
+[proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol)
+that forces the audio streams into the supernodes. And those supernodes,
+all of them, are managed by a single central administration.
+And the same occurs on most public phone networks, since ever.
 We should be discouraging businesses and governments from forcing us into
-closed systems. Imagine a road system that allowed only one select make of cars
-to be driven -- would that be fun?
+closed centralised systems.
+
+Nowadays every conversation that doesn't occur in a bunker, 
+using a pairs-customised language, is public.
+
+That being said, my pupped identity is available for scheduled public conversations. 
+I'm a late sleeper, and usually cannot do a phone call before 1100 hrs of my local time.
 
 
 Public conversations
 ====================
 
-It is also possible to engage with me in public conversations via my puppet identity:
+To engage with me in public conversations via 
+my puppet identity (Michele Favara Pedarsi):
 
+* [LinkedIn](https://www.linkedin.com/in/Michelefavarapedarsi)
 * [Gmail](mailto:michele.favarapedarsi@gmail.com)
 * [Skype](skype:michele.favarapedarsi)
 
 Note: I disregard language control. So, if you want to talk to my puppet,
 just be prepared to get a 'bullshit' here and a 'fuck off' there.
-Without offense, off course.
+Without offense, off course. Because I've been able to track fake Facebook,
+Whatsapp, Line, etc, profiles. I have no idea why someone could be willing to be me but ...
+... I take it as a compliment and carry on.
+The biggest problem of this approach is that irony and sarcasm
+are dungerous as well, nowadays.
 
-
-Policy on LinkedIn
-==================
-
-I don't use LinkedIn. I my account exists for couriosity sake only. The
-stream of invites from total strangers, inability to verify trust,
-some wierd community work under the hoods, all makes
-LinkedIn and similar platforms rather meaningless, and mildly dangerous.
-
-Please do not send me LinkedIn or similar invites. These will be reported as
-spam.
