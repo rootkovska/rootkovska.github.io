@@ -30,7 +30,7 @@ All my keys should be signed by the following Master Signing Key:
           Key fingerprint = 123...
     uid                  mfp (Master Signing Key)
 
-This key is also attached to this repo in the [key/](/keys/) directory. You
+This key is also attached to this repo in the [keys/](/keys/) directory. You
 should verify the fingerprint of this master key using some other channel than
 just this blog (e.g. [my Email or Skype account) as in case somebody was providing 
 you with a falsified repo, they would be sure to also feed you with a falsified master key.
@@ -81,7 +81,8 @@ some old code (written and signed by me when the key was still valid) in the fut
 when the key has already expired. The developer could have been kidnapped
 to push malicious code into the code base but ... again ... if a bank
 or a government doesn't support this security model and an individual have
-no proprerty to secure the keys himself, no way to do The Right Thing.
+no proprerty nor trusted peers to secure the keys himself, 
+no way to do The Right Thing.
 
 * I use empty passphrases on all of my private keys. This is because if
 somebody was able to execute malicious code in the VM where a private key
@@ -91,5 +92,8 @@ example of [Security Theater](http://en.wikipedia.org/wiki/Security_theater) in
 my opinion.
 
 * I don't have keys because currently I don't have home 
-and peers to physically secure my keys.
+and peers to physically secure my keys. The keys you might see on these page
+are for experimenting only; they require for you to contact me to
+check the developer integrity (ex: alive, not kidnapped, not blackmailed, etc).
+And be sure, by other means, to be talking to the right person.
 

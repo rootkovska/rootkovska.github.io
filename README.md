@@ -20,25 +20,28 @@ About this Website/Blog/Repo
 I've never had a blog before. I hate blogs. To expose what we already
 do everyday, in every and each human context, since the first monkey
 learned how to talk, is ... wasteful. A potential of 8 billion times
-redundant bullshit.
+redundant bullshit. A huge amount of disgusting smelly hot shit.
 <br>
 In other words: to turn the human chatting into a show is 
 a dangerous and insignificant waste of energy until we don't get
 rules that guarrantee no actions can be taken upon someone that had a speech.
-Any speech. About anything.
+Any speech. About anything. And it looks like we are loosing that war :)
 <br>
 To be clear: if YOU point YOUR terminal (computer, phone or washing machine)
 to access the bullshit that is supposed to be mine ... don't complain then 
 because YOU don't like it. A solo job is a ... wanker.
 <br>
-To be completely honest with you all: we're didn't finish yet to discuss with big
-weaponized guys commonly called 'green berrets', 'marines', 'MiBs', etc ... to let us
-keeping our cryptotoys so that we can digitally sign our graffiti ... 
-and you get upset with ... well ... whatever you see on your monitor? 
-Are you stupid or ... what? Don't get me wrong: I get upset too but ... 
-I don't go around yelling against the pedoterrosatanists.
-I just suffer two times: one to get upset, one to get calm again.
-I'm an idiot. But I know it. What about you?
+To be completely honest with you all: we didn't finish yet to discuss with big
+weaponized guys commonly called 'green berrets', 'marines', 'MiBs', etc ...
+people that ... me, you, and anybody, don't really want to discuss with.
+They are not happy for the kids to keep the cryptotoys to digitally sign our graffiti.
+And you get upset with ... well ... whatever you see on your monitor? 
+Are you stupid or ... what? Don't get me wrong: I'm an idiot. But I know it. 
+What about you?
+So, stop believing to icons and pictures, texts and whatever ... 
+and don't go around yelling (or worse) against pedoterrosatanists.
+There's the need to fix the message integrity issue first; that is
+the only reason for me to play with this words you're reading.
 <br>
 To tell you the whole truth I had some sort of blog a bit before Google popped up (2001):
 the reason was that I need to practice some advanced Perl programming
@@ -50,7 +53,7 @@ Content of this repo
 ---------------------
 
 * My experiments.
-* [Contact info](/contact.md) and my [GPG keys](/keys/)
+* [Contact info](/contact.md) and my [GPG keys](/keys.md)
 * Other info about myself and my work
 
 
@@ -97,9 +100,8 @@ availability nor integrity of this blog requires one to use or trust GitHub.
 If, for some reason, GitHub, or an ISP, or whoever in between, decided to
 block, falsify, or censor this blog, there are dozens of alternative ways of
 how this repo (blog) could be delivered, e.g. via Tor or other transports, and
-thanks to using git signed tags, its integrity could be always verified. All
-the documents contained in this repo have been created with an assumption to be
-easily readable using just a standard text editor or viewer.
+thanks to using git signed tags, its integrity could be always verified.
+Well, at least this is the issue I'm addressing here.
 
 
 Patches or pull requests welcome!

@@ -13,7 +13,7 @@ I can be contacted via email using the following addresses:
 * `mfp19@` for Weed&Beer matters.
 * `mfp19@` for other matters.
 
-Note: I've spent 20 of my 35 years advocating for bugs free IT tools and privacy.
+Note: I've spent 20 of my 37 years advocating for bugs free IT tools and privacy.
 After being investigated 3 times, and stalked, and ruined, I had to give up
 my personal mail server and create my fake identity (see 'Public conversations').
 As a result I don't have an email address.
@@ -30,6 +30,7 @@ is used between email clients and corresponding email servers.
 Please use PGP/GPG encryption to secure our communication (see [keys.md](/keys/) 
 for info how to obtain and verify my GPG keys), whether or not you have 
 something to hide.
+
 
 Note on integrity of my emails
 -------------------------------
