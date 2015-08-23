@@ -129,12 +129,13 @@ Further Note on Good Manners of my puppet
 
 Without offense, off course.
 
-Long story short: I've plenty MiniMe around (fake profiles) and I can't keep saving money
+Long story short: I've plenty [MiniMe](https://en.wikipedia.org/wiki/Mini-Me) around 
+(fake profiles) and I can't keep saving money
 to buy more mobile phones (and not taking care of my teeth, my beer, and so on).
 In all this, language control is way too much.
 Consider the 'bullshit' here and the 'fuck off' there as my foolish fingerprinting;
 and use those fingerprints to filter out my pages on your side (only).
-Don't worry, I won't get upset and I won't try to pierce your filter:
+Don't worry, I won't get upset, and I won't try to pierce your filter:
 I don't need to sell you something.
 
 The long story instead.
@@ -159,9 +160,17 @@ down to my ridicolous budget. Finally GOVs-baked trojans, evil maids,
 and the whole Public Sekurity business, turned the whole existance into a 
 very psychedelic game. Obliging me to change terminals to change [all those
 IDs that entangle any and avery device nowadays](https://en.wikipedia.org/wiki/Clipper_chip).
-It's a game that I can't afford but ... I hope it will settle down one day.
+It's a game that I can't afford but ... I hope it will settle down one day;
+thanks to some bravehearts (ex: Assange, Manning, Snowden), some governments 
+(notably UK and US) introduced new small mods into their legal frameworks 
+that hopefully will grant a bit more safety to their whistleblowers. 
+And I hope mine will follow. Currently some german journalists are investigated.
+And the same is happening all over the world.
+
 There should be something like "medical mariuana exception" for all of us
 that can't live with all this crap in our working tools: "medical DRM exception".
+And it looks like Intel exempted some of its latest chips from having the
+CompuTrace/vPro/iAMT/ME crap Inside.
 
 And of course, it's pretty hard to catch up with all those Beebo-Frengu-Bubu-Cookuh 
 'social business projects' popping up everyday, 
@@ -188,9 +197,10 @@ And Google/Ubuntu Phone SDKs don't help much; they include in the SDK
 a bootloader that isn't: it is the payload of another bootloader
 that in turn, comes together with the bare metal.
 One bare metal supervisor for each silicon producer.
+A hell of chips to reverse.
 
 Garbage collection have always been a problem.
 
-And today it is even hard to genuinely be a nice person.
+So, today it is hard to genuinely be a nice person.
 And we have to live with it. Fuck off, then :)
 

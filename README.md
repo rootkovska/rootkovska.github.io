@@ -1,5 +1,5 @@
 Welcome to my n-test for a decentralization-friendly,
-liberated, and integrity-protected blog and website!
+liberated, and integrity-protected publishing tool!
 Waiting for a decentralized Internet to come back,
 it is worth to give a try to a git-based gpg-signed
 content repo.

@@ -14,7 +14,8 @@ But I can't.
 
 I start to use GPG back in 1996 and I quit in 2000, started and quit again
 a few more times in the past 20 years. I quit every time I figure out that
-my systems might be compromised.
+my systems might be compromised: I had very few peers to use encryption with
+and too much bothering to keep the feature in place.
 And because cops can seize my hw, courts can mandate to disclose passwords,
 robbers can rob it, and my government is not supportive to create an 
 universal security buddy... well: there's no chance for me to use it.
@@ -83,13 +84,6 @@ to push malicious code into the code base but ... again ... if a bank
 or a government doesn't support this security model and an individual have
 no proprerty nor trusted peers to secure the keys himself, 
 no way to do The Right Thing.
-
-* I use empty passphrases on all of my private keys. This is because if
-somebody was able to execute malicious code in the VM where a private key
-lives, then the key should be considered compromised no matter how complex
-passphrase I used to protect it.  Passphrases on private keys are classic
-example of [Security Theater](http://en.wikipedia.org/wiki/Security_theater) in
-my opinion.
 
 * I don't have keys because currently I don't have home 
 and peers to physically secure my keys. The keys you might see on these page
