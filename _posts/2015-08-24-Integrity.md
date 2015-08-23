@@ -16,7 +16,7 @@ That is some sort of coherent with the design rules that Linus gave himself: git
 a minimum standard for teamwork, to build on top with, whenever some team need his own feature added. 
 And dates are not strictly needed for every application; time is relative, so at this stage it is overhead. 
 
-* keys, to bind a commit to a time coordinate there's no real need of a key. A timestamp could
+* keys, there's no need of, to bind a commit to a time coordinate. A timestamp could
 be applied producing a date=timestamp object on commit; including the timestamp in the 'hashed bunch of objs'.
 In this way by manipulating dates ex-post for fraud, the hash would change, revealing the manipulation. 
 I say 'fraud' and not 'error correction' because for error correction there's... another commit. 
@@ -24,12 +24,12 @@ It's not elegant because it grows the blob, but to track evolution is git's core
 to loose details useful to avoid future mistakes is a system fail, so the blob grows.
 
 * signing, is not strictly needed for the purpose of certifing dates. Open a text file for writing, 
-dump in the Unix Timestamp, and you got the time cert. Do the same with your name and you got author signature.
-Text files: amazing simplicity.
+dump in the Unix Timestamp, and you got the time cert (but changing timezone/calendar will screw it). 
+Do the same with your name and you got author signature. Text files: amazing simplicity.
 
 I wonder why then [Rooty is suggesting](http://blog.invisiblethings.org/2015/02/09/my-new-git-based-blog.html) 
 to use 'git tags -s' to enforce 'integrity'. And I wonder what's the '-f' switch; forcing overwrite a tag that is supposed
-to certify date and author? It can do it by 'enlarging the blob' (ie: inflation or by 'loosing details' (ie: frauds).
+to certify date and author? It can do it by 'enlarging the blob' (ie: inflation) or by 'loosing details' (ie: frauds).
 
 It looks like she is including the 'authorship' in the 'integrity' definition. 
 There's the need of Freud here, not me.
@@ -50,9 +50,10 @@ Damned Hackers, they are all alike: 'unwittingly and unwillingly debunking spies
 Finally there's the distribution problem: github, as far as I know, is a single administration, probably buying 
 storage around the world, using the commercial part of the legal framework. As far as I don't replicate this 
 git repo on another Autonomous System, one Cease&Desist letter, a bunch of gunmen (with uniforms or not), 
-or a trecherous IT Guy working at GitHub, could make it disappear. 
+or a trecherous guy working at GitHub, could make it disappear. 
 But if I do, If I setup a complex VPN Empire made out of Tor, I2P, Freenet, OpenVPN, CiscoWhatever, etc, 
-I get the gunmen at home - ex: Kim.Com, Aaron Swartz, etc - because of my Advanced Digital Pedoterrosatanism.
+I get the gunmen at home - ex: Kim.Com, Aaron Swartz, SilkRoad, BitCoin, etc - 
+because of my Advanced Digital Depoterrosatanism.
 
 You go on My tube and you'll find me dancing Froggin Molly with a 'Usual Suspect' t-shirt.
 And I swear (without gpg): it was me, in 2010, after the cops came to my house, and I realised that
@@ -62,6 +63,6 @@ I just got a cert from Uniformed Riflemen Lobotomisers.
 I don't want to ruin your sleep for the next 3 days. YOU watch my hairy belly, 
 YOU are the only responsible for your nightmares.
 
-Everything should be ok but I'll request a pull so that Rooty knows about my fork and can eventually 
+Everything - except Integrity - should be ok, but I'll request a pull so that Rooty knows about my fork and can eventually 
 point out exceptions (licenses, mistakes, etc).
 
