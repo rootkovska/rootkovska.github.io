@@ -16,11 +16,15 @@ I start to use GPG back in 1996 and I quit in 2000, started and quit again
 a few more times in the past 20 years. I quit every time I figure out that
 my systems might be compromised: I had very few peers to use encryption with
 and too much bothering to keep the feature in place.
-And because cops can seize my hw, courts can mandate to disclose passwords,
-robbers can rob it, and my government is not supportive to create an 
-universal security buddy... well: there's no chance for me to use it.
-I'd better get a gun, but I'm too scared by weapons.
-So I keep experimenting waiting for better times.
+The last time I quit, my keys were on seized laptop while I was building up 
+the infrastructure to offload they keys from my laptop. Enough.
+And because cops can still seize my hw, courts can keep you in jail 
+to force passwords disclosure, robbers can rob it, 
+and my government is not supportive to create an universal security buddy... 
+well: there's no chance for me to use it.
+
+In some jurisdictions the security systems are more reliable than others;
+just cross your fingers. I keep experimenting waiting for better times.
 
 (WiP) The Master Key
 ====================
