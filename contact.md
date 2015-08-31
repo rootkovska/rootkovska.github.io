@@ -5,104 +5,97 @@ permalink: /contact/
 ---
 
 Email
-======
+=====
 
 I can be contacted via email using the following addresses:
 
-* `joanna@invisiblethingslab.com` for ITL- and Qubes-related matters
-* `joanna@invisiblethings.org` for other matters
+* `mfp19@` for IT matters.
+* `mfp19@` for Weed&Beer matters.
+* `mfp19@` for other matters.
+
+Note: after being investigated 3 times, and stalked, and scared, I had to give up
+my personal mail server and create my fake identity (see 'Public conversations').
+As a result I don't have an email address. Ten years ago my tools were Devective by design, 
+today I'm.
 
 Note on confidentiality
-------------------------
+-----------------------
 
 Please note that, as most other people and organizations, I use a 3rd party
-Mail Service Provider. The stuff who work at the provider is (technically-wise)
-able to read all my incoming and outgoing mail. This is by definition of how
-email infrastructure work, and it is irrelevant whether SSL or other encryption
-is used between email clients and corresponding email servers. If you have
-something confidential, please use PGP/GPG encryption to secure our
-communication (see [keys.md](/keys/) for info how to obtain and verify my GPG
-keys).
+Mail Service Provider. The IT Guys who work at the provider are (technically-wise)
+able to read all my incoming and outgoing mail.
+And they are (technically-wise) able to filter out and write an email using my name.
+And they even stopped to wear "I read your mail" t-shirts:
+public authorities and company policies took over the good guys.
+
+This is by definition of how email infrastructure work, 
+and it is irrelevant whether SSL or other encryption is used 
+between email clients and corresponding email servers.
+
+Please use PGP/GPG encryption to secure our emails (see [keys.md](/keys/) 
+for info how to obtain and verify my GPG keys), on daily basis,
+whether or not you have something to hide.
 
 Note on integrity of my emails
--------------------------------
+------------------------------
 
 All email sent by me from the above-mentioned email addresses should be
-digitally signed with my email [keys](/keys/).
+digitally signed with my email [key](/keys/). But they aren't.
 
-A notable exception is Qubes and other mailing lists hosted on Google Groups --
-recently Google has implemented logic that rewrites parts of the messages by
-adding info on how to unsubscribe from a given ML. That, unfortunately, breaks
-any attached digital signatures to the messages, of course.
-
-
-Other notes on emailing me
----------------------------
-
-* I get lots of emails. This means I might not find time to respond to your
-email. In some cases, although rarely, I might not read through the whole
-message. Please understand that I would also like to have life outside of my
-email VM...
-
-* Please do not write to me personally asking questions about Qubes OS --
-instead, please write to one of [our mailing
-lists](https://wiki.qubes-os.org/wiki/QubesLists).
-
-* I can only read email in English or Polish.
-
-* Please don't write asking me for advise about how to become a "hacker", or
-"security researcher".
-
-* I strongly prefer plaintext emails. If you send me an HTML-formatted message I
-will still be viewing it as plaintext, and so I might be missing on some of the
-extra information you put there, such as markings done with differently colored
-fonts, etc.
+This is because I can't be sure that my terminal is clean. Indeed I'm
+pretty sure of the opposite. And if you can't secure your device, 
+there's no point to expose your key. There's no point to make one.
 
 
 Phone, Skype, etc.
-===================
+==================
 
 I don't believe phone (or similar means of communication) are that great for
-technical discussions. My experience shows that phone-based conversations lack
-technical depth, and are prone to misunderstandings, especially pronounced when
-talking over VoIP connection across the Atlantic. Additionally, they require
-fixed time slots allocations, suitable for both parties, which is generally a
-PITA. In most cases discussions are clearer, faster, and more comfortable using
-email! Not to mention they could be much more secure if GPG is used also.
+technical discussions. In most cases discussions are clearer, faster, 
+and more comfortable using email! Asymmetric tools give you time to think enough 
+and work according to your timing and schedules instead of someone else's ones.
 
-That being said, I'm available for scheduled phone or conference calls. Please
-notice that I live in Warsaw, Poland, which is in UTC +1 (Winter) and UTC +2
-(Summer) Time Zone. I'm a late sleeper, and usually cannot do a phone call
-before 1100 hrs of my local time.
+Moreover Skype does not offer any meaningful security or privacy and 
+I have no illusions that other global PSTN or cellular telephony does
+offer it either.
 
-Note on Skype
---------------
-
-As a matter of principle I don't use Skype. It's not because Skype does not
-offer any meaningful security or privacy (which I believe it indeed does not
-offer) -- I have no illusions that other global PSTN or cellular telephony does
-not offer it either. It's rather because Skype is a closed communication system
-based on [proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol).
-
+Skype is a closed communication system based on 
+[proprietary protocol](http://en.wikipedia.org/wiki/Skype_protocol)
+that forces the audio streams into the supernodes. And those supernodes,
+all of them, are managed by a single central administration.
+And the same occurs on most public phone networks, since ever.
 We should be discouraging businesses and governments from forcing us into
-closed systems. Imagine a road system that allowed only one select make of cars
-to be driven -- would that be fun?
+closed centralised systems.
+
+Nowadays every conversation that doesn't occur in a bunker, 
+using a language customised in pairs, is public. 
+Basically there are no private conversations. 
+
+That being said, my puppet identity is available 
+for scheduled public conversations. 
 
 
 Public conversations
-=====================
+====================
 
-It is also possible to engage with me in public conversations via:
+To engage with me in public conversations via 
+my puppet identity (Michele Favara Pedarsi):
 
-* [My Twitter account](https://twitter.com/rootkovska/)
-* [Qubes Mailing Lists](https://wiki.qubes-os.org/wiki/QubesLists) (especially on `qubes-devel` ML)
+* [LinkedIn](https://www.linkedin.com/in/Michelefavarapedarsi)
+* [Gmail](mailto:michele.favarapedarsi@gmail.com)
+* [Skype](skype:michele.favarapedarsi)
 
-Policy on LinkedIn
-===================
+Notes on communicating with my puppet
+-------------------------------------
 
-I don't use LinkedIn anymore, I have deleted my account some time ago. The
-stream of invites from total strangers, inability to verify trust, all makes
-LinkedIn and similar platforms rather meaningless, IMO.
+* He is a late sleeper, and usually cannot do a phone call before 11.00 hrs of his local time.
 
-Please do not send me LinkedIn or similar invites. These will be reported as
-spam.
+* His personal tools (Personal Computer, Personal Smartphone, etc) are there for his needs, not yours.
+If you don't get an answer don't take it personal.
+
+* Please don't write asking him for advice about how to become a "hacker", or
+"security researcher". He is a puppet only, he can't help you.
+
+* He strongly prefers plaintext emails. He dropped the war against HTML-formatted messages
+about 10 years ago. But I didn't: extra formatting is not welcomed.
+
