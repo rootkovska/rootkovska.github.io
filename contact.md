@@ -30,12 +30,6 @@ Note on integrity of my emails
 All email sent by me from the above-mentioned email addresses should be
 digitally signed with my email [keys](/keys/).
 
-A notable exception is Qubes and other mailing lists hosted on Google Groups --
-recently Google has implemented logic that rewrites parts of the messages by
-adding info on how to unsubscribe from a given ML. That, unfortunately, breaks
-any attached digital signatures to the messages, of course.
-
-
 Other notes on emailing me
 ---------------------------
 
