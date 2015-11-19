@@ -85,6 +85,13 @@ Thanks for your understanding!
 Upcoming events
 ----------------
 
-* "Security through compartmentalization" @ [Android Security Symposium](https://usmile.at/symposium/program), Sep 10, 2015, Vienna, Austria
-* "Trust as the no. 1 enemy of security: the client systems study" @ [Next Generation Threat](http://techworld.event.idg.se/event/ngt15/), Sep 22, 2015, Stockholm, Sweden
-* "Trust as the no. 1 enemy of security: the client systems study" @ [Next Generation Threat](http://techworld.event.idg.se/event/ngt15/), Sep 23, 2015, Goteborg, Sweden
+* ["Protecting online privacy by enhancing IT security and strengthening EU IT
+  capabilities"](http://www.stoa.europarl.europa.eu/stoa/cms/home/events/workshops/privacy)
+  @ European Parliament, Dec 8-9, 2015, Brussels, Belgium.
+
+* ["Post-Snowden Cryptography" workshop](https://hyperelliptic.org/PSC/)
+  organized by the Eindhoven University of Technology (TU/e), Dec 9-10, 2015,
+  Brussels, Belgium.
+
+* ["Towards (reasonably) trustworthy x86 laptops"]() @ Chaos Communication
+  Congress (32c3), Dec 27-30, 2015, Hamburg, Germany.
