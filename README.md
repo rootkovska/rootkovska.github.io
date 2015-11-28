@@ -22,7 +22,7 @@ distributed as a git-repo.
 Content of this repo
 ---------------------
 
-* All the Invisible Things blog posts (in the [_posts/](/_posts) directory)
+* All the Invisible Things blog posts (in the [_posts/](/_posts/) directory)
 * [Contact info](/contact.md) and my [GPG keys](/keys/)
 * Other info about myself and my work
 
