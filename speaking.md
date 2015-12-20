@@ -22,7 +22,8 @@ demonstrating Intel VT-d escape, and also supervised her team with the
 pioneering research on breaking into the Intel vPro BIOS and AMT/MT technology.
 She is also known for writing Blue Pill, the first hardware virtualization-based
 rootkit, introducing Evil Maid attack, and for her prior work on kernel-mode
-malware for Windows and Linux in the first half of the 2000s.
+malware for Windows and Linux in the first half of the 2000s. She proudly holds
+0 (zero) patents.
 
 Photo
 ------
