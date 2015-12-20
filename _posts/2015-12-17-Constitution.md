@@ -21,17 +21,17 @@ Those are two [civil law (aka continental law)](https://en.wikipedia.org/wiki/Ci
 
 Around 2000 the EU leaders gatered in Lisbon and drafted the so called "2010i Strategy". Then 9/11 and ... 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ljaU7YcrKAU" frameborder="0" allowfullscreen>Pink Floyd Live At Live 8 London 2005</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljaU7YcrKAU" frameborder="0" allowfullscreen>Pink Floyd Live At Live 8 London 2005</iframe>
 
 In 2008 the EU leaders signed - by overriding French and Irish vote on the EU Constitution - the so called 'Lisbon Treaty'. Italians and probably others have been simply ... jumped ... bypassed without a referendum. From there on, there have been an european train of [intellettuali organici](https://en.wikipedia.org/wiki/Antonio_Gramsci) that... did anything they could to keep this plan in place: [public funded propaganda](http://www.europaquotidiano.it/2007/11/27/veltroni-bipolaristae-il-treno-parte/), information warfare (ex: this text, if public funded and slingshotted on any media for a week), fake judicials (ex: me), abduction of activists (ex: ), transportation of radicals (ex: me), etc.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=aSwvQpJLmpw" frameborder="0" allowfullscreen>Piazzapulita - The Wall (Puntata 03/12/2015)</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSwvQpJLmpw" frameborder="0" allowfullscreen>Piazzapulita - The Wall (Puntata 03/12/2015)</iframe>
 
 # DISCLAIMER: my personal background. CHECK IT!
 
 I was following the european legal issue by proxy: my ex girlfriend was studying law and this european process was a constant topic between me and her. But I had top priority problems to access the judicial system, and the things were getting worse in time; I simply couldn't recognise a working public establishment. To let them
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=99OLQf1BmDc" frameborder="0" allowfullscreen>Mi sono fatto da solo!</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99OLQf1BmDc" frameborder="0" allowfullscreen>Mi sono fatto da solo!</iframe>
 
 replace the Constitution was just ... too much.
 
@@ -42,7 +42,7 @@ The title of that 2008 video is 'Italian Crackdown' because in 1994 police crack
 In my small hometown have been a technology event: they talked of marketing, only. Not marketing of technology, but marketing by itself. Uh? Ehm? Sorry sir, I red "Technology" and I got "Marketing": what's the problem with you?
 And all around was all the same. The telecommunication closets in the streets were broken: doors unlocked, open, missing; our landlines, hundreds per closet, exposed to anyone and anything. But they were using the network for chatting, downloading, chatting with a better platform, and porn (with videochat on a better platform). Here there's me in one of the times I tried to grab a mic: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XxiP82duKSk" frameborder="0" allowfullscreen>VlogCamp 2007 - Roma, 23 giugno 2007</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XxiP82duKSk" frameborder="0" allowfullscreen>VlogCamp 2007 - Roma, 23 giugno 2007</iframe>
 
 I'm the one with a blue florwery idiot-like hawaian shirt: it's my way to make the difference on camera. They have been one whole day talking about videomaking; I was on duty so I couldn't disturb but ... finally ... at the very end, I got my timeslot: "Hey dudes, the closets are broken! How do you stream your masterpieces?". Boring. Negative. I got some tomatoes on my face, and went back to my work. 
 
@@ -54,7 +54,7 @@ Basically we were paying for the 1994 Italian Crackdown by having a generation o
 > A movie that was originally a comedy, but became a documentary. 
 > (Urban Dictionary about the movie "Idiocracy")
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gGlJgU9x8tM" frameborder="0" allowfullscreen>Idiocracy: Ass The Movie</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGlJgU9x8tM" frameborder="0" allowfullscreen>Idiocracy: Ass The Movie</iframe>
 
 At the end of the movie my mouth was foamy. Stop laughing and back on topic! That's an order, private. 
 
@@ -69,7 +69,7 @@ I've been since then trying to watch edge cases without getting involved - easy 
 
 # We don't need no Constitution
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HrxX9TBj2zY" frameborder="0" allowfullscreen>Pink Floyd - Another brick in the wall (Part II)</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HrxX9TBj2zY" frameborder="0" allowfullscreen>Pink Floyd - Another brick in the wall (Part II)</iframe>
 
 Even today - after so much digging for clues in others' business, collecting and mixing so many opinions - I'm not sure whether we need a Constitution or not. Some of the longer lasting 'western democracies' don't have one, ex: UK. And I love the federations: CH. Expecially the ones based on individual will (one et all) to partecipate for a common result: UK&CH. Simple democratic culture deeply rooted into their people. I love [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto), [Kenneth Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow), [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen). 
 
@@ -84,7 +84,7 @@ Unacceptable: "Farage's (UK Indipendent Party) for President! Send the Avros (ag
 
 Some sort of popular partecipation was added back in 2013, at the very end of the United States of Europe raising process: if you succeed to sign thousands of times, a petition across 26 states, the parliament takes the people into consideration by scheduling the issue in their agenda. A struggle to deliver a paper to the frontdesk of a small office in the basement of somewhere; a simple hands gesture on a monitor to schedule it; about 3 seconds to open the mic, say nothing, close the mic; 50000 euros to pay the whole (no)thing. 
 
-The same continual failure you can see with the Marco Civil and the italian Dichiarazione dei diritti in Internet. 
+The same continual failure you can see with the brazillian Marco Civil and the italian Dichiarazione dei diritti in Internet. 
 
 # Stuck in the middle with you: Ethernet&Ethereal&Ether&Ethereum.
 
@@ -97,7 +97,7 @@ Then the Big Data War, that ended when we added the capability to add money on e
 
 I've seen things that you humans... yes, I've an Android phone.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DohRa9lsx0Q">Stuck In The Middle With You - Stealers Wheel</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DohRa9lsx0Q">Stuck In The Middle With You - Stealers Wheel</iframe>
 
 But, despite all those evolutions in both the legal and the technology departments, we don't have a clue about how to produce our own law. So have a look at those three tools: 
 
@@ -119,7 +119,7 @@ Some politician even endorsed the innovation attempt, and manipulated the thing 
 
 So I quit my last not-paid-full-time-job in favour of dancing
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fPP9x5QZaMM">Job To Do</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embde/fPP9x5QZaMM">Job To Do</iframe>
 
 and [chatting](https://plus.google.com/111241598218967792402). Nash Equilibrium. 
 
