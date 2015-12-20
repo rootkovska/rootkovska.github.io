@@ -40,5 +40,8 @@ also wish more women had more self confidence. At the same time [I'm
 concerned](https://twitter.com/rootkovska/status/530109601254223872) about
 superficial promotion of females just because they are females...
 
+I'm a [vegan](https://en.wikipedia.org/wiki/Veganism). The reason for this
+choice is entirely [moral](https://vimeo.com/ondemand/earthlings).
+
 I've been lucky to be born and to live in a civilized part of the world, in a
 big capital city in Europe: [Warsaw](https://vimeo.com/86112812). 
