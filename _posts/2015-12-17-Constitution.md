@@ -92,7 +92,7 @@ But later on I've been happy to discover that, by heart and by facts, I could ha
 It was just a weird thing: I locked myself inside and made fun of all the others, "you are outside!"; but legit, by international rules because of the public acknowledgment. I (didn't) fight the law. I've never had the will of doing so. I was just an immigrant in my own town. 
 And I love it, I don't want to change it. Despite the fact that I'm living abroad, and I probably agree with most of the current european policies, I don't want to sign the Lisbon Treaty until the whole italian side of the story is fixed (if ever). 
 
-When the cops came to my place with a search&seize order I was scared to death, upset, angry, fleble. And still I am. But also happy, because finally I had the chance to access the judicial system that I tried to access in the past 4 years, in vain. It was just weird the way it happened. 
+When the cops came to my place in 2010, with a search&seize order, I was scared to death, upset, angry, fleble, disoriented. And still I am. But also happy, because finally I had the chance to access the judicial system that I tried to access in the past 4 years, in vain. It was just weird the way it happened. 
 
 I've been since then trying to watch edge cases without getting involved - easy to say, hard to do - in the attempt to build up my imaginary law, on top of My Constitution. The hard part in fact is to understand things like: why the hell cops don't wear cams on their uniforms to avoid popular hate and such things? Why the military don't arrest those politicians straight away and send us to new elections? Result of my research: a nevrosis, and the damned feeling that freely searching for those answers is too risky. 
 
