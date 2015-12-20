@@ -6,6 +6,9 @@ permalink: /about/
 
 <img src="/resources/joanna.jpg" style="float:right;width:150px">
 
+Note: for an official bio for use on a conference website please see this
+[page](/speaking/)
+
 My name is Joanna Rutkowska (pronounced: _root-kov-ska_). I've been
 contributing to several fields of computer security engineering over the past
 10+ years. Chances are quite high you might have come across some of my
