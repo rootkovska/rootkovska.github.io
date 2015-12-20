@@ -59,27 +59,33 @@ Other constrains
 Tips & Tricks
 --------------
 
-1. Please don't ask me "how did you start with computers and security" -- as you
+1. Generally I'm not interested in chit-chat. I wish people don't perceive it as
+   arrogance.
+
+2. Remember I'm not an English native speaker. While I might be fluent
+   discussing technology and some philosophical themes, I might be lacking
+   cultural context on many other topics, especially related to (American)
+   television shows, pop culture, etc. Observe that I might not be interested in
+   actually learning this context neither. Also see point #1.
+
+3. I _chose_ to be vegan, entirely on ethical grounds. I have not been forced by
+   any medical condition to be one. Thus don't ask if I "can" east something --
+   I certainly can, just might choose not to. Also I'm not part of any doctrine
+   (aka "sect") with regards to diet, so asking if I "may" eat something is even
+   more inappropriate.
+
+4. Please don't ask me "how did you start with computers and security" -- as you
    might imagine I have been asked this question about 1 million of times
    already, and so I hardly enjoy repeating the answer yet one more time. There
-   are certainly more interesting topics to discuss!
+   are certainly more interesting topics to discuss! Also see point #1.
 
-2. Please don't ask me how do I like the place I'm just visiting -- if I liked
-   it I would sure to mention it by myself. Most of the time though, when
-   traveling for business, I don't have enough time to get any opinion, and I'm
-   not quite the kind of person who would say "Oh, it's great!" just to please
-   you, sorry.
+5. Please don't ask me how do I like the place I'm just visiting -- if I liked
+   it I would sure to mention it by myself. Also see point #1.
 
-3. Don't ask me to help with your IT security career or to scan your laptop for
-   malware, or how to implement advanced OpSec ;)
-
-4. I won't take an insult if you don't express excitement about my presentation,
-   last paper, or current project ;)
-
-5. Don't make it look like I'm being invited to speak because I'm a women. In
+6. Don't make it look like I'm being invited to speak because I'm a women. In
    that case I will likely turn down your invitation.
 
-6. My name is pronounced: root-kov-skea
+7. My name is pronounced: root-kov-skea
 
 Thanks for your understanding!
 
