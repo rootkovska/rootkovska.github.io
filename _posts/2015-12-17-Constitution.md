@@ -15,7 +15,11 @@ I was kid in Italy, and in Internet, so I've never had the need of a constitutio
 * [Marco Civil](http://pensando.mj.gov.br/marcocivil/lei-no-12-965-de-23-abril-de-2014/)
 * [Dichiarazione dei diritti in Internet](http://www.camera.it/application/xmanager/projects/leg17/attachments/upload_file/upload_files/000/000/187/dichiarazione_dei_diritti_internet_pubblicata.pdf)
 
-Those are two [civil law (aka continental law)](https://en.wikipedia.org/wiki/Civil_law_%28legal_system%29) countries. In common law countries instead, the people produced amazing 'cases' - Julian Assange, Chelsea Manning, Edward Snowden - that triggered some parliamentary proposals and presidential acts. 
+Those are two [civil law (aka continental law)](https://en.wikipedia.org/wiki/Civil_law_%28legal_system%29) countries. In common law countries instead, the people produced amazing 'cases' that triggered some parliamentary proposals and presidential acts 
+
+* Julian Assange
+* Chelsea Manning
+* Edward Snowden
 
 ## Political background. 
 
@@ -28,6 +32,7 @@ From there on, there have been an european train of [intellettuali organici](htt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSwvQpJLmpw" frameborder="0" allowfullscreen>Piazzapulita - The Wall (Puntata 03/12/2015)</iframe>
 
+Roger Waters for president! 
 
 ## My personal background. CHECK IT!
 
@@ -37,8 +42,13 @@ I was following the european legal issue by proxy: my ex girlfriend was studying
 
 replace the Constitution was just ... too much.
 
-So I wrote what I call 'My Constitution' and (on 22 July 2008) [addressed](https://www.youtube.com/watch?v=3a8bH0ilu5Q) the President of the Republic (our guardian of the constitution) thanking him for my culture, resigning from the citizenship, concurrently introducing my Constitution, because my constitution factively overlaps, include, his one. 
+So I wrote what I call 'My Constitution' and (on 22 July 2008) addressed the President of the Republic Giorgio Napolitano thanking him for my culture, introducing My Constitution and resigning from the italian citizenship because my constitution factively overlaps, include, his one. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3a8bH0ilu5Q" frameborder="0" allowfullscreen>Italian Crackdown</iframe>
+
 No black magic here: I've just compressed the first (roughly) 20 slim articles of the Italian Constitution in 7 fat ones, applied old patches never enacted by our catholicians, and added a few ideas for practical reasons. I showed the promo video to a few (bored) people and asked to evolve that text using tools like SVN (or alike) rather then a wiki; so that, by adding collective intelligence, one day it could become something serious.
+
+# Italian Crackdown
 
 > A movie that was originally a comedy, but became a documentary. 
 > (Urban Dictionary about the movie "Idiocracy")
@@ -67,11 +77,13 @@ And with the representatives of the newly elected (2006) Ministries was even wor
 * Ministero delle Communicationi (Communication), answer ([Paolo Zocchi](http://www.larete-innovazione.it/innovazione/salutiamo-paolo-zocchi/)): "There's no table to drop your project upon", 
 * Ministero dell'Ambiente (Environment), answer ([Maurizio Pallante](https://it.wikipedia.org/wiki/Maurizio_Pallante)): "How do I sell it to the people?". 
 
-Holy crap ... it's infrastrcutrue ... 'infra' ... INFRA! Between structures: everybody give it for granted until it fails; there's simply nothing to sell. The plan was exactly to foster the crowd-build-up of a backup network with cheap charlie money until they figure out what to do with the traditional copper network and its (scattered) updates. 
+Holy crap: it's infrastrcutrue, 'infra', INFRA! Between structures: everybody give it for granted until it fails; there's simply nothing to sell. The plan was exactly to foster the crowd-build-up of a backup network with cheap charlie money until they figure out what to do with the traditional copper network and its (scattered) updates. 
 
 Basically we were paying for the 1994 Italian Crackdown by having a generation of Anal-f-Abets in charge. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGlJgU9x8tM" frameborder="0" allowfullscreen>Idiocracy: Ass The Movie</iframe>
+
+# Hacktivist
 
 I published the Italian Crackdown video 3 days before the parliament voted the Lisbon Treaty. It wasn't on purpose; I mean: I had no idea that they were going to vote on 25th. I was at MOKA2008 in Pescara (IT) to deliver my other video made at CCC2007: "Sapere Aude 1784".
 
@@ -79,6 +91,8 @@ But later on I've been happy to discover that, by heart and by facts, I could ha
 
 It was just a weird thing: I locked myself inside and made fun of all the others, "you are outside!"; but legit, by international rules because of the public acknowledgment. I (didn't) fight the law. I've never had the will of doing so. I was just an immigrant in my own town. 
 And I love it, I don't want to change it. Despite the fact that I'm living abroad, and I probably agree with most of the current european policies, I don't want to sign the Lisbon Treaty until the whole italian side of the story is fixed (if ever). 
+
+When the cops came to my place with a search&seize order I was scared to death, upset, angry, fleble. And still I am. But also happy, because finally I had the chance to access the judicial system that I tried to access in the past 4 years, in vain. It was just weird the way it happened. 
 
 I've been since then trying to watch edge cases without getting involved - easy to say, hard to do - in the attempt to build up my imaginary law, on top of My Constitution. The hard part in fact is to understand things like: why the hell cops don't wear cams on their uniforms to avoid popular hate and such things? Why the military don't arrest those politicians straight away and send us to new elections? Result of my research: a nevrosis, and the damned feeling that freely searching for those answers is too risky. 
 
