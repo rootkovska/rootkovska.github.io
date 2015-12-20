@@ -40,14 +40,23 @@ No black magic here: I've just compressed the first (roughly) 20 slim articles o
 
 The title of that 2008 video is 'Italian Crackdown' because in 1994 police cracked down in one night the italian chapter of Fidonet amateurs network (for no reason: nothing was illegal before, very little was found after). They might have done it for commercial reasons. And in 2008 the whole thing has gone simply ridicolous: the formal systems were failing because an insane double spending for paper&computer, but politicians, journalists, artists, were excited because of this 'new frontier' of more spending for nothing. Some of them stated to be 'the first on the internet'. 
 In my small hometown have been a technology event: they talked of marketing, only. Not marketing of technology, but marketing by itself. Uh? Ehm? Sorry sir, I red "Technology" and I got "Marketing": what's the problem with you?
-And all around was all the same. The telecommunication closets in the streets were broken: doors unlocked, open, missing; our landlines, hundreds per closet, exposed to anyone and anything. But they were using the network for chatting, downloading, chatting with a better platform, and porn (with videochat on a better platform). Here there's me in one of the times I tried to grab a mic: 
+And all around was all the same. The telecommunication closets in the streets were broken: doors unlocked, open, missing; our landlines, hundreds per closet, exposed to anyone and anything. But they were using the network for chatting, downloading, chatting with a better platform, and porn (with videochat on a better platform). 
+
+Here me helping Robin Good at video-documenting the rise of blog phenomenon 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLr70NOL2S0" frameborder="0" allowfullscreen>Zenacamp - Michele Favara Pedarsi intervista Stefano Epifani</iframe>
+
+And here me (at 6:25, the one with a blue florwery idiot-like hawaian shirt) documenting the rise of the vlog phenomenon 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XxiP82duKSk" frameborder="0" allowfullscreen>VlogCamp 2007 - Roma, 23 giugno 2007</iframe>
 
-I'm the one with a blue florwery idiot-like hawaian shirt: it's my way to make the difference on camera. They have been one whole day talking about videomaking; I was on duty so I couldn't disturb but ... finally ... at the very end, I got my timeslot: "Hey dudes, the closets are broken! How do you stream your masterpieces?". Boring. Negative. I got some tomatoes on my face, and went back to my work. 
+They have been one whole day talking about videomaking repelling any kind of deeper tought about the infrastructure: "Hey dudes, the telephone closets are broken! How do you stream your masterpieces?", lynched. Things like asymmetric datapaths (ex: ADSL) that limit the upstream (ie: publishing capabilities) where very far from their comprehension. They kept talking about 'media democracy' repelling any important topic about that. 
 
-And with the siblings of the newly elected (2006) Ministry of Communications was even worse: "I have a plan!", 1st round answer: "There's no table to drop your project upon", 2nd round answer: "How do I sell it to the people?". Holy crap ... it's infrastrcutrue ... 'infra' ... INFRA! Between structures: everybody give it for granted until it fails; there's simply nothing to sell. 
-The plan was exactly to foster the crowd-build-up of a backup network with cheap charlie money until they figure out what to do with the traditional copper network and its (scattered) updates: they start to talk about update to fiber optics in 1987, but they will probably never stop talking about it.
+And with the representatives of the newly elected (2006) Ministries was even worse, me "I have a plan!":
+* Ministero delle Communicationi, answer ([Paolo Zocchi](http://www.larete-innovazione.it/innovazione/salutiamo-paolo-zocchi/)): "There's no table to drop your project upon", 
+* Ministero dell'Ambiente (Environment), answer ([Maurizio Pallante](https://it.wikipedia.org/wiki/Maurizio_Pallante)): "How do I sell it to the people?". 
+
+Holy crap ... it's infrastrcutrue ... 'infra' ... INFRA! Between structures: everybody give it for granted until it fails; there's simply nothing to sell. The plan was exactly to foster the crowd-build-up of a backup network with cheap charlie money until they figure out what to do with the traditional copper network and its (scattered) updates: they start to talk about update to fiber optics in 1987, but they will probably never stop talking about it.
 
 Basically we were paying for the 1994 Italian Crackdown by having a generation of Anal-f-Abets in charge. 
 
