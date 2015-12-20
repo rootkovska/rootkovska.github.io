@@ -108,12 +108,15 @@ A failure that was clear long time before the Lisbon Treaty: [Vilfredo Pareto](h
 The games - for us, italians - were over with the constitutional court sentence 01/2014 that declared unconstitutional the parliaments since the 2005 voting system changes, but stated the need of continuity for law&order sake. And the whole judicial system adapted ignoring popular instances of individual rights violations. 
 Uh? Ehm? Sorry to disturb sir, but I didn't understand ... I have some questions ... honestly ... I'm serious now: what about the Lisbon Treaty? What about United States of Europe? Is Our Constitution valid? Is there a Parliament in Rome? A President? Who is the civil authority that the militaries answer 'Yes Sir' to? What the hell is the legal part of the story!?!?!?? Again: no clue. 
 
-So I've seen the Personal Computers War that ended when we added an ethernet Card to every Personal Computer. 
-Then the Internet War that ended when we added a firewall to every antivirus. 
-Then the Mobile Phone War, that ended when we added porn to every mobile phone. 
-Then the Big Data War, that ended when we added the capability to add money on every letter exchanged on any telecommunication device. 
+So I've seen: 
 
-I've seen things that you humans... yes, I've an Android phone. 
+* the Personal Computers War that ended when we added an ethernet Card to every Personal Computer. 
+* the Internet War that ended when we added a firewall to every antivirus. 
+* the Mobile Phone War, that ended when we added porn to every mobile phone. 
+* the Big Data War, that ended when we added the capability to add money on every letter exchanged on any telecommunication device. 
+* the failure of any internet crowd-sourced initiative.
+
+[I've seen things you people wouldn't believe](https://en.wikipedia.org/wiki/Tears_in_rain_monologue). But yes, I have an Android phone. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DohRa9lsx0Q">Stuck In The Middle With You - Stealers Wheel</iframe>
 
