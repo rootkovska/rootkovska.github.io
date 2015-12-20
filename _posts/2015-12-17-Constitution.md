@@ -17,9 +17,9 @@ I was kid in Italy, and in Internet, so I've never had the need of a constitutio
 
 Those are two [civil law (aka continental law)](https://en.wikipedia.org/wiki/Civil_law_%28legal_system%29) countries. Their problem is an overall verbosity, and the lack of integration that leads to [continual failure](https://www.eff.org/deeplinks/2015/02/marco-civil-devil-detail); often because of continual overlappings between different disciplines (ex: freedom of speech, copyright, trademarks, patents, hate speech) where very often politics, activism and business play shit to succeed in their single-perspective intent. In such countries some civil battles spend huge amount of resources, effort, love, to produce high papers that don't affect societies at all. 
 
-# DISCLAIMER: political context. CHECK IT!
+# DISCLAIMER: political context. 
 
-Around 2000 the EU leaders gatered in Lisbon and drafted the so called "2010i Strategy". Then 9/11 and ... 
+Around 2000 the EU leaders gatered in Lisbon and drafted the so called "2010i Strategy". Then 9/11/2001 and ... 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljaU7YcrKAU" frameborder="0" allowfullscreen>Pink Floyd Live At Live 8 London 2005</iframe>
 
