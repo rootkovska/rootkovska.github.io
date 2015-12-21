@@ -120,21 +120,20 @@ A failure that was clear long time before the Lisbon Treaty: [Vilfredo Pareto](h
 ## Stuck in the middle with you: Ethernet&Ethereal&Ether&Ethereum.
 
 The games - for us, italians - were over with the constitutional court sentence 01/2014 that declared unconstitutional the parliaments since the 2005 voting system changes, but stated the need of continuity for law&order sake. And the whole judicial system adapted ignoring popular instances of individual rights violations. 
-Uh? Ehm? Sorry to disturb sir, but I didn't understand ... I have some questions ... honestly ... I'm serious now: what about the Lisbon Treaty? What about United States of Europe? Is Our Constitution valid? Is there a Parliament in Rome? A President? Who is the civil authority that the militaries answer 'Yes Sir' to? What the hell is the legal part of the story!?!?!?? Again: no clue. 
+Uh? Ehm? Sorry to disturb sir, but I didn't understand ... I have some questions ... honestly ... I'm serious now: what about the Lisbon Treaty? What about United States of Europe? Is Our Constitution valid? Is there a Parliament in Rome? A President? Who is the civil authority that the militaries answer 'Yes Sir' to? What the hell is the legal part of the story!?!?!?? Again: no clue. Any crowd-sourced initiative failed because who collected the ideas never accepted the bottom one: no need of representatives.
 
-So I've seen: 
+So far I've seen: 
 
 * the Personal Computers War that ended when we added an ethernet Card to every Personal Computer. 
 * the Internet War that ended when we added a firewall to every antivirus. 
 * the Mobile Phone War, that ended when we added porn to every mobile phone. 
 * the Big Data War, that ended when we added the capability to add money on every letter exchanged on any telecommunication device. 
-* the failure of any internet crowd-sourced initiative.
 
 [I've seen things you people wouldn't believe](https://en.wikipedia.org/wiki/Tears_in_rain_monologue). But yes, I have an Android phone. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DohRa9lsx0Q">Stuck In The Middle With You - Stealers Wheel</iframe>
 
-Today, despite all those evolutions in both the legal and the technology departments, we don't have a clue about how to produce our own law. So now have a look at those three tools: 
+Today, despite all those failures in both the legal and the technology departments, we don't have a clue about how to produce our own law. So now have a look at those three tools: 
 
 * Water: in the name of Bruce Lee ("Be Water") I order you to not use a fucking powerful pocket calculator called Smartphone if you need to find a compromise with less than 5 people. Just buy a bottle of water, sit down in a quiet place togheter with the other 4 people, and COLLABORATE toward a common solution, using a proportional system. The reason why My Constitution started with "Italy is a democracy based on collaboration between the people honouring this paper" is that the other way to solve an issue is bloody and we don't have legal deathmatches. I would like to vote for public certified, military monitored, arenas for deathmatches. Some people need it, some people already does it, and we are their hostages: so, why not? And that's why I'm not a pro-life. I consider my life sacred, but I want for you et all to make your own way. If you have fear of the others 4, just add 2 big militaries in the room to overview the process and PEACEfy emotions. Hardcore censorship.
 * [Vilfredo](http://www.vilfredo.org/): I've been having a nice dinner, in an amazing Rome's city center (Trastevere), togheter with one of its developers in 2010. He described his toy to me, and my feedback has been: "it seems working good to you because you tested it in a university-like environment, among you developers only. All the alpha testers had motu proprio toward COLLABORATION: the real personal desire to see it working. Take it out and you'll see it failing because of one asshole, or because of too many undisciplined people bubbling out problems and solutions, or both". Today, 2015, on their webpage they introduce the tool: "Vilfredo allows groups from 5 to 20 people to ask open questions and reach consensus in an easy and fair way". They took my feedback. Now it should work without the need of censorship.
@@ -166,7 +165,9 @@ I went back to have a look at Partito Pirata in late 2015: they [adopted](https:
 From my perspective Ethereum is the (best?) result of the third iteration over this modern democracies struggle, that incorporates the contracts discipline and the BitCoin (blockchain) experience. I feel grateful to live at the same times of those guys. They fucking nailed the fucking issue down: dynamism in human organizations. 
 They reduced [SAP](https://en.wikipedia.org/wiki/SAP_SE) to the point that everybody can have one, and many can use it; and by doing so, all the human activities can bubble bottom-up instead of being top-down directed. Master (Bruce) Lee would be proud of them. 
 
-By having thousands of teams working in Ethernum-powered projects, every project would share the same information protocol, and all of them would be easily interconnected trough Ethernum's contracting capabilities, accounted trough Ethernum's currency, and certified against the public trust trough Ethernum's blockchain. Automagically. 
+By having thousands of teams working in Ethereum-powered projects, every project would share the same information protocol, and all of them would be easily interconnected trough Ethereum's contracting capabilities, accounted trough Ethereum's currency, and certified against the public trust trough Ethereum's blockchain. Automagically. 
 
-And the first project should/could be to produce a common ruleset to protect us all. A kind of Constitution to map the currents humans rights to. A permanent, blockchained, evolutionary, ruleset. It is way better than a Constitution. 
+And the first project should/could be to produce a common ruleset to protect us all. A kind of Constitution to map the currents humans rights to. A permanent, blockchained, evolutionary, ruleset. 
+
+It is way better than a static Constitution. 
 
