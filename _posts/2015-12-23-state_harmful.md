@@ -45,5 +45,5 @@ couple of days!
 [x86_harmful_post]:     /_posts/2015/10/27/x86_harmful.html
 [32c3_presentation]:    https://events.ccc.de/congress/2015/Fahrplan/events/7352.html
 [32c3]:                 https://events.ccc.de/congress/2015/wiki/Main_Page
-[state_harmful_pdf]:    /papers/2015/x86_harmful.pdf
+[state_harmful_pdf]:    /papers/2015/state_harmful.pdf
 [state_harmful_gh]:     https://github.com/rootkovska/state_harmful
