@@ -50,14 +50,23 @@ In other words: this is a qualitative analysys only. To add numbers there's the 
 
 What I feel now is probably what [Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) felt the night before the [Trinity Test](https://en.wikipedia.org/wiki/Trinity_%28nuclear_test%29). 
 
-# Aethernum: human rights.
-
 Let's see now how we can import [Water-Vilfredo-LQFB-Bitcoin](http://mfp19.github.io/2015/12/17/Constitution.html) into Ethereum to make a coherent universal human rights continual production factory. 
 
+* Water. Our bodies are made out of water already: nothing to import here unless you are a jellyfish. In other words, once the bottom line, the universal framework is in place, there's no way to get out of it because of the very inner nature of the blockchain system. 
+* Vilfredo. Ethereum has a 'contract' feature. Every work team is created by signing a contract. And every contract 'bubbles' some results. By combining more than one working team you build up a new version of coporates, enterprises, guilds, clans, parliaments, etc. All inside the same blockchain. All nested inside the general basic contract. 
+* LiquidFeedback. As I said, this tool was conceived as a feedback tool for representatives. By having a universe of Vilfredos confederated within a universal framework, the representatives become obsolete, and this tool can be used as a monitoring, reporting, archiving tool; and for scientific purposes.
+* Bitcoin. In Ethereum they exist under the name 'Ether'. 
+
+# Aethernum: human rights.
+
 > "To be, or not to be? That is the question—
+> 
 > Whether ’tis nobler in the mind to suffer
+> 
 > The slings and arrows of outrageous fortune,
+> 
 > Or to take arms against a sea of troubles,
+> 
 > And, by opposing, end them? To die, to sleep—
 
 Since 1999 (Seattle's No Global) the common issues were not the money, the jail system, the drugs, the pedos, the good, the bad, whatsoever. Those have always been, and being addressed. Everything, every "best practice", has always been arguable; but those problems have always been addressed, targeted, loved, destroyed. Both from authorities and the people in every street. 
@@ -67,6 +76,7 @@ But by talking about that we've been tagged [anarco-pedo-terro-satanists](https:
 The legend says that [The Hacker Manifesto](http://www.mithral.com/~beberg/manifesto.html) have been written in jail (or right before/after). (Re)Read it now, before someone gives fire to it too: in the very worst case we must be able to rewrite it. 
 
 > No more—and by a sleep to say we end
+> 
 > The heartache and the thousand natural shocks
 
 Now look at the history of the UN Declaration of Human Rights; a not binding declaration. If you want a constitution start from there, or your own Nation one. And if you don't have/want one (ex: UK), it could be ok too: it's more dynamic. You just need to figure out how that system produce the same values expressed into the others high papers, and map them. 
@@ -75,6 +85,7 @@ In any case the UN declaration is a good starting point if you don't have a clos
 Everytime I see one of those youth forum for peace&love, as well as one of those xenofobic movements, my legs shake and my teeth rattle... for the same reason: people starting from the scratches. I guess there are some old aged clerics, monks, scientists, all around the world, silently laughing at us. The most beautiful thing of the Dalai Lama is his smile. 
 
 > That flesh is heir to—’tis a consummation
+> 
 > Devoutly to be wished! To die, to sleep.
 
 In 2010 I tought everything was lost. But when Edward Snowden popped up in 2013, I started to dream again. He made me think to the times, 20 years before, some italians were discussing the obfuscation of the last three digits of every telephone number, on our detailed (paper) phone bills. 
@@ -91,9 +102,13 @@ But he triggered also some important changes in the formal systems. In US the Fr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pibqo6Z4Cgo">Idiocracy - Prison Escape </iframe>
 
 > To sleep, perchance to dream—ay, there’s the rub,
+> 
 > For in that sleep of death what dreams may come
+> 
 > When we have shuffled off this mortal coil,
+> 
 > Must give us pause. There’s the respect
+> 
 > That makes calamity of so long life.
 
 William Shakespeare, Hamlet.
@@ -126,7 +141,7 @@ A constitution: one of the 2-3 important things I added to My Constitution was a
 * Need: artt. 3, 25 (combined): "Everyone has the right to life [...] including food".
 * Meter: 50 liters of water, 2500 kcal per day. 
 
-Basically, by bind to such metered rule you've just built a bottom line where ether*t or ether*shoe results always in 'the right to survive' where 'survive' is defined as '50 liters of water, 2500 kcal, daily', mandatory minimum. 
+Basically, by bind to such metered rule you've just built a bottom line where 'ether multiplied by t' or 'ether multiplied by shoe' results always in 'the right to survive' where 'survive' is defined as '50 liters of water, 2500 kcal, daily', mandatory minimum. 
 
 # Aethernum: previous art. 
 
@@ -140,7 +155,7 @@ replacing the first article of the [Italian Constitution](http://www.senato.it/d
 
 The practical reason for adding an imaginary rule (ie: collaboration) on top of more empirical ones (ie: food) is that by keeping adding rules the late comers (ie: the new born) could find very little liberty in their lives, exspecially during downturns, and very little good teachers to explain them what they got at birth. 
 
-> You bet your ass we're all alike... we've been spoon-fed baby food at school when we hungered for steak... the bits of meat that you did let slip through were pre-chewed and tasteless. We've been dominated by sadists, or ignored by the apathetic. The few that had something to teach found us willing pupils, but those few are like drops of water in the desert. (The Mentor)
+> You bet your ass we're all alike... we've been spoon-fed baby food at school when we hungered for steak... the bits of meat that you did let slip through were pre-chewed and tasteless. We've been dominated by sadists, or ignored by the apathetic. The few that had something to teach found us willing pupils, but those few are like drops of water in the desert. 
 
 And because any society can't apply 'tit for that' ('an eye for an eye...') as is. Human societies degenerate already as a result of millions of daily mistakes; it's just NORMAL. By creating punishments and penalties in a symmetric fashion, this degeneration runs faster. For this reason I consider the collaboration - not 'labour' - to be the highest duty for every human. 
 By elevating 'labour' to the highest law instead, we have the need of a ladder, a gerarchy, etc, for any human activity; military procedures are continuosly imported into the civil society making it more expensive each time, creating incremental complexity and continual need of more expensive judicial systems in order to be able to address more complex symmetric wars. And having an authority that interrupts escalations become compulsory. 
@@ -149,9 +164,9 @@ By elevating 'labour' to the highest law instead, we have the need of a ladder, 
 
 To balance this high duty of collaboration that our kids have birth in, I introduced later in My Constitution a 'compulsory change declaration' to be done within the first 50 years of age, in order to be able to be considered an adult: being able to have a VAT number to open a company, being able to speak in public, being able to be a representative, being able to have a gun license for civil reasons, being able to have kids and educate them ... , without the need to be a military. [To produce and declare a solemn amendment to the current system you were born into](http://www.anythingtosay.com/). 
 
-Millions of amendment dumped in a blockchain every year are a powerful evolutionary common system. 
+Millions of amendment dumped in a blockchain every year are a powerful evolutionary common system in the executive branch. The same that already happens in the judicial branch of the 'common law systems'.
 
-By elevating this high duty at constitutional level, anybody - Assange, Manning and Snowden included - would have one holy chance to make his own rebellion functional to build up a better world, at least once in life, without infringing any lower law, without the need of public expenditure for a judicial process, without the chance of censorship, and probably without risking their lives. 
+By elevating this high duty/right at constitutional level, anybody - Assange, Manning and Snowden included - would have one holy chance to make his own rebellion functional to build up a better world, at least once in life, without infringing any lower law, without the need of public expenditure for a judicial process, without the chance of censorship, and probably without risking their lives. 
 
 Thousands of instances dropped in the public blockchain daily, that make the traditional representatives and the executives 
 
@@ -159,11 +174,14 @@ Thousands of instances dropped in the public blockchain daily, that make the tra
 
 simply obsolete. 
 
-> Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for.
+> Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for. 
 
 # Clues
 
 By me writing this text in Git (ie: a proto-blockchain), and you reading from it, you've just used a lightweight version of Ethereum to init a general contract that could serve as overall framework to any other future activity. 
+As far as I can understand Git itself lack of author and time signatures in its blocks; but for my purpose (ie: re-sharing something that is not mine) is fair enough. 
 
 > I am a hacker, and this is my manifesto. You may stop this individual, but you can't stop us all... after all, we're all alike. 
+> 
+> (The Mentor)
 
