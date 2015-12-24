@@ -147,11 +147,11 @@ Basically, by bind to such metered rule you've just built a bottom line where 'e
 
 In the previous chapter I made an example starting from water and food because of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). But in 2008 I started from 
 
-"Art. 1 - My Country is a democracy built on top of collaboration between anybody honour this text."
+> "Art. 1 - My Country is a democracy built on top of collaboration between anybody honour this text."
 
 replacing the first article of the [Italian Constitution](http://www.senato.it/documenti/repository/istituzione/costituzione_inglese.pdf) 
 
-"Art. 1 - Italy is a democratic Republic founded on labour."
+> "Art. 1 - Italy is a democratic Republic founded on labour."
 
 The practical reason for adding an imaginary rule (ie: collaboration) on top of more empirical ones (ie: food) is that by keeping adding rules the late comers (ie: the new born) could find very little liberty in their lives, exspecially during downturns, and very little good teachers to explain them what they got at birth. 
 
@@ -162,9 +162,10 @@ By elevating 'labour' to the highest law instead, we have the need of a ladder, 
 
 > We make use of a service already existing without paying for what could be dirt-cheap if it wasn't run by profiteering gluttons, and you call us criminals. We explore... and you call us criminals. We seek after knowledge... and you call us criminals. We exist without skin color, without nationality, without religious bias... and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it's for our own good, yet we're the criminals.
 
-To balance this high duty of collaboration that our kids have birth in, I introduced later in My Constitution a 'compulsory change declaration' to be done within the first 50 years of age, in order to be able to be considered an adult: being able to have a VAT number to open a company, being able to speak in public, being able to be a representative, being able to have a gun license for civil reasons, being able to have kids and educate them ... , without the need to be a military. [To produce and declare a solemn amendment to the current system you were born into](http://www.anythingtosay.com/). 
+To balance this high duty of collaboration that our kids have birth in, I introduced later in My Constitution a 'compulsory change declaration' to be done within the first 50 years of age, in order to be able to be considered an adult: being able to have a VAT number to open a company, being able to speak in public, being able to be a representative, being able to have a gun license for civil reasons, being able to have kids and educate them ... , without the need to be a military. 
+[To produce and declare a solemn amendment to the current system you were born into](http://www.anythingtosay.com/) can be an alternative way to grant citizenship to people that can't/won't fight. Like me. In Italy the 'civil service' (alternative to compulsory military service) has been adopted in the mid '90ies. Some countries (ex: CH, IS) can't make it because of their demographic size and other reasons; but this general rule can be use concurrently to the military service as well. 
 
-Millions of amendment dumped in a blockchain every year are a powerful evolutionary common system in the executive branch. The same that already happens in the judicial branch of the 'common law systems'.
+Millions of amendments dumped in a blockchain every year are a powerful evolutionary common system in the executive branch. The same that already happens in the judicial branch of the [common law systems](https://en.wikipedia.org/wiki/Common_law).
 
 By elevating this high duty/right at constitutional level, anybody - Assange, Manning and Snowden included - would have one holy chance to make his own rebellion functional to build up a better world, at least once in life, without infringing any lower law, without the need of public expenditure for a judicial process, without the chance of censorship, and probably without risking their lives. 
 
