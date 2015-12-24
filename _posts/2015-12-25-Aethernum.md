@@ -55,7 +55,7 @@ Let's see now how we can import [Water-Vilfredo-LQFB-Bitcoin](http://mfp19.githu
 * Water. Our bodies are made out of water already: nothing to import here unless you are a jellyfish. In other words, once the bottom line, the universal framework is in place, there's no way to get out of it because of the very inner nature of the blockchain system. 
 * Vilfredo. Ethereum has a 'contract' feature. Every work team is created by signing a contract. And every contract 'bubbles' some results. By combining more than one working team you build up a new version of coporates, enterprises, guilds, clans, parliaments, etc. All inside the same blockchain. All nested inside the general basic contract. 
 * LiquidFeedback. As I said, this tool was conceived as a feedback tool for representatives. By having a universe of Vilfredos confederated within a universal framework, the representatives become obsolete, and this tool can be used as a monitoring, reporting, archiving tool; and for scientific purposes.
-* Bitcoin. In Ethereum they exist under the name 'Ether'. 
+* Bitcoin. In Ethereum they exist under the name 'Ether'. The main difference between the two is that the Bitcoin is an universal meter, the Ether is a universal meter blockchained to a contract. 
 
 # Aethernum: human rights.
 
@@ -127,11 +127,11 @@ Today things got way more complicate. But ... again ... by placing a "Not Sure S
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FAECyLvSCHg">Anonymous Documentary - How Anonymous Hackers Changed the World Full Documentary</iframe>
 
-and start a rebuilding process that already lead to some good results. Some temporary patches.  
+and start a rebuilding process that already lead to some good results. Some temporary patches. 
 
 # Aethernum: an example.
 
-A continent: Europe. De facto, geographically, Europe is very united; its politics just bullshit. All the planet is 'de facto very united' (and its politics just bullshit). Waters, deserts, mountains are 'naturally expensive to cross' as well. This is the reality that, willingly or not, shaped us all since ever. Start and restart always from there. All the rest is wishfull thinking. Unless we figure out how to make a teleport system, Newton and gravity keep kicking our ass. Plus, there's political bullshit coming from the past: Vatican City, San Marino, Monaco, Gibraltar, Ceuta, Melilla ...  
+A continent: Europe. De facto, geographically, Europe is very united; its politics just bullshit. All the planet is 'de facto very united' (and its politics just bullshit). Waters, deserts, mountains are 'naturally expensive to cross' as well. This is the reality that, willingly or not, shaped us all since ever. Start and restart always from there. All the rest is wishfull thinking. Unless we figure out how to make a teleport system, Newton and gravity keep kicking our ass. Plus, there's political bullshit coming from the past: Vatican City, San Marino, Monaco, Gibraltar, Ceuta, Melilla ... 
 
 A parliament: have you ever spent 5 minutes whatching a session of the British Parliament? Other parliaments look like an amphitheatre; semi-circular. The British parliament instead have two rows, opposing each other. The ones on one side send their champion in the middle, he talks with the back row chorus, facing the opponents ... on the other side, the same, alternating. In a very, very, disciplined way: practical. The greek-latin parliaments are 'proportional', the British one is 'bipolar'. The proportional ones work in Federations and Republics, the bipolar one works for Kingdoms. 
 StarWars parliament instead, works for everyone: it is a sphere. We don't have electromagnetic levitation pods but ... Japanese could have a solution. In the while we can use what we have: cyberspace.
@@ -180,9 +180,9 @@ simply obsolete.
 # Clues
 
 By me writing this text in Git (ie: a proto-blockchain), and you reading from it, you've just used a lightweight version of Ethereum to init a general contract that could serve as overall framework to any other future activity. 
-As far as I can understand Git itself lack of author and time signatures in its blocks; but for my purpose (ie: re-sharing something that is not mine) is fair enough. 
+[As far as I can understand Git itself lack of author and time signatures in its blocks](http://mfp19.github.io/2015/08/24/Integrity.html); this means that GitHub's [operators can manipulate authorship and publishing dates at will](https://en.wikipedia.org/wiki/ConnectU#Mark_Zuckerberg). But for my purpose (ie: sharing the description of something that is not mine) is fair enough. 
 
 > I am a hacker, and this is my manifesto. You may stop this individual, but you can't stop us all... after all, we're all alike. 
-> 
-> (The Mentor)
+
+[The Mentor](https://en.wikipedia.org/wiki/Bastard_Operator_From_Hell)
 
