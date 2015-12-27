@@ -8,9 +8,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erCAp_Bd0AQ">Hackers: The Internet's Immune System | Keren Elazari | TED Talks</iframe>
 
-Thank you Keren. Thank you. My IBAN is ... wait a moment: is it dangerous? The human immune system is made out of three kinds of guys, all die in the act of protecting the human body, and after death they get no pension; they are just pissed out. Mmm... that's another trap. 
-
-Let me have a look at my checklist before continuing: 
+> ... but they also find the hidden threats in our world, and they make us fix it.
 
 - [ ] ~~Eradicate Vatican City from Rome~~ ~~Edit 2012, Plan B: send S. Peter sq. to Jerusalem~~ Edit 2013 (my israeli friend didn't like the idea to host the chatolics too), Plan C: build a wall around Vatican City; equip full auto armed drones to patrol the wall and ballistas to trow in food and antibiotics from time to time. Wait for middle-east to peace off. Then switch back to Plan B. 
 	- [ ] Add 2013: Visit Auschwitz-Birkenau and Dachau to derive some good ideas. 
@@ -28,7 +26,9 @@ Let me have a look at my checklist before continuing:
 	- [x] wait for arts practitioners to come home
 - [x] Hack my continent
 - [x] Hack United Nations
+	- [ ] Reform the General Assembly, make spherical its parliament. 
 	- [ ] Reform the Security Council, randomise it. 
+	- [ ] Erase any department, commission. Urgent: delete hate speech and turism ones. 
 	- [ ] Add 2013: send Laura Boldrini back to UNHCHR and be sure that they don't trow her back to us again. 
 - [ ] ~~Remote control my lawyer~~ Edit 2013: Get rid of my lawyer and find another one 
 - [x] Stay away from my natural jurisdiction: find a shelter 
