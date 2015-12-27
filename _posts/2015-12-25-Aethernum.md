@@ -12,7 +12,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 
 Well, some sort of. Theoretical. 
 
-# In the previous episodes...
+# <a name="previous"></a> In the previous episodes...
 
 At this point we have 
 
