@@ -16,26 +16,26 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 	- [ ] Add 2013: Buy a steamroller to compress all the catholics inside Vatican City. 
 - [X] Define 'I'
 - [ ] Define 'We'
-- [x] Hack my family
-- [x] Hack my nation
-	- [x] update the constitution
-	- [x] trigger constitutional exceptions
-	- [x] change voting system
+- [X] Hack my family
+- [X] Hack my nation
+	- [X] update the constitution
+	- [X] trigger constitutional exceptions
+	- [X] change voting system
 	- [ ] mandate publishing the law on The Internet
 	- [ ] mandate publishing of previous judicial sentences on The Internet
-	- [x] wait for arts practitioners to come home
-- [x] Hack my continent
-- [x] Hack United Nations
+	- [X] wait for arts practitioners to come home
+- [X] Hack my continent
+- [X] Hack United Nations
 	- [ ] Reform the General Assembly, make spherical its parliament. 
 	- [ ] Reform the Security Council, randomise it. 
 	- [ ] Erase any department, commission. Urgent: delete hate speech and turism ones. 
 	- [ ] Add 2013: send Laura Boldrini back to UNHCHR and be sure that they don't trow her back to us again. 
 - [ ] ~~Remote control my lawyer~~ Edit 2013: Get rid of my lawyer and find another one 
-- [x] Stay away from my natural jurisdiction: find a shelter 
-- [x] Identify another place to settle down 
+- [X] Stay away from my natural jurisdiction: find a shelter 
+- [X] Identify another place to settle down 
 - [ ] Change job 
-- [x] Find a girlfriend 
-- [x] Hack the judicial system of my natural jurisdiction 
+- [X] Find a girlfriend 
+- [X] Hack the judicial system of my natural jurisdiction 
 	- [ ] re-introduce justice in the judicial system 
 		- [ ] make the trials cheaper 
 		- [ ] make the trials shorter 
@@ -43,7 +43,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 		- [ ] make a lawyer optional 
 		- [ ] re-introduce juries 
 	- [ ] anonymise courts and juries trough computer-aided double-blind procedures 
-	- [x] make court members liable 
+	- [X] make court members liable 
 	- [ ] mandate notifications of 'archiviazioni' 
 	- [ ] reimbourse 'misure cautelari' 
 - [ ] Guess the right courthouse and apply for a 'good character' certificate 
