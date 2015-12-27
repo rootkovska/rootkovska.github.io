@@ -82,6 +82,10 @@ Both the triplets assert an amount of falsity in the language itself; making the
 
 # Surveillance
 
+The MOAB.
+
+## The Five Eyes (UK, US, Canada, Australia, New Zealand)
+
 The UK&US govs and their tech giants are playing "scaricabarile" (it. "barrel-unloading") ... shitstorm? Self bullocks-slashing? Responsabilities dropping? Who knows ... and who cares. 
 
 > GOVs: our legal framework was built on top of the chance for the government to spy the people.
@@ -96,12 +100,24 @@ And viceversa.
 
 They look like my father and my mother after divorce. And viceversa. 
 
+## The other 9 eyes (Denmark, France, the Netherlands, Norway, Sweden Germany, Belgium, Italy, Spain)
+
 The only new feeling I have is ... being thankful that Brazil, Russia, India and China exist; because EU haven't been able to do anything more than guilty silence (it. omerta'); with very few exceptions 
 
 * [Maximilian Schrems - Irish High Court - Court of Justice of the European Union](https://en.wikipedia.org/wiki/Max_Schrems#.27Europe_v_Facebook.27_lawsuit)
 * [Hans de With - Bundesverfassungsgericht](http://www.ip-watch.org/2015/12/02/german-intelligence-services-oversight-body-files-action-against-government/)
 
-In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). [A cherry, mon chéri](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments): 
+From Italy we got [this puppet](https://en.wikipedia.org/wiki/Maurizio_Gasparri) saying that our (unconstitutional) agencies (AISI/AISE/Copasir) are 'not efficient' 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ry3XJxfytic">Terrorismo, Gasparri (FI): Servizi segreti italiani inefficientissimi</iframe>
+
+when he was Ministry of Communications he [openly signed a law without reading it](https://en.wikipedia.org/wiki/Censorship_in_Italy#.22Freedom_of_the_Press.22_report); in that video instead is licking the balls to [ROS](https://en.wikipedia.org/wiki/Raggruppamento_Operativo_Speciale) (Italian special forces, of the military police), the ones that [manipulated us world wide](http://www.bgpmon.net/how-hacking-team-helped-italian-special-operations-group-with-bgp-routing-hijack/), and among other commendable things tortured this guy 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/95HM_xPk0uk">L'intervista ritrovata del falso pentito Scarantino</iframe>
+
+[to make him guilty of a bomb that killed the second in charge of the anti-mafia squad](https://en.wikipedia.org/wiki/Via_D'Amelio_bombing) one month after the first in charge was bombed as well. But don't name those things; they prefer to remember [Salvo D'Acquisto](https://en.wikipedia.org/wiki/Salvo_D'Acquisto) ONLY. Reliable people. 
+
+In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). [A cherry, mon chéri](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments) 
 
 >  Google and Facebook criticized the agreement for the restrictions it will place on activities like penetration testing, sharing information about threats, and bug bounty programs.
 
@@ -127,9 +143,13 @@ that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of payi
 > 
 > - the game goes one questioning and a penalty is applied to every mistake: an object is given to the farmer and returned at the end of the game; or the kid is excluded waiting until the last kid in game wins. After, it is possible to start again. 
 
-In the case something like Ethernum-based technostructure would be "raised to constitutional level" (the whole information system made of it) - full stack: from the chip's opto-isolator to the electronic currency flowing - I would probably be the first to welcome NSA/BfV/AISE/etc by having a monitor account in "my company" with this protocol: "What You See Is What You Get". More allowances must be discussed using the Ethernum contracting capabilities. 
+In the case something like Ethernum-based technostructure would be "raised to constitutional level" (the whole information system made of it) - full stack: from the chip's opto-isolator to the electronic currency flowing - I would probably be the first to welcome NSA/GCHQ/BfV/AISI/etc by having a monitor account in "my company" using this protocol: "What You See Is What You Get". More allowances must be discussed using the Ethernum contracting capabilities. 
 
-That said, the only thing that don't look very clear is this: I don't give a fuck about asserting principles. Those were already asserted [300 years ago](https://en.wikipedia.org/wiki/Sapere_aude), before, and after. And in particular, about anonymity, about 20 years ago 
+That said, the only thing that don't look very clear is this: I don't give a fuck about asserting principles. Those were already asserted [300 years ago](https://en.wikipedia.org/wiki/Sapere_aude), before, and after
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSvV5ArRRKU">Sapere Aude 1784 - Episode 0</iframe>
+
+And in particular, about anonymity, about 20 years ago 
 
 > "I worry about my child and the Internet all the time, even though she's too young to have logged on yet. Here's what I worry about. I worry that 10 or 15 years from now, she will come to me and say 'Daddy, where were you when they took freedom of the press away from the Internet?'" ( [Mike Godwin, Electronic Frontier Foundation](https://freenetproject.org/about.html) )
 
