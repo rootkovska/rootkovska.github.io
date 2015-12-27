@@ -101,17 +101,17 @@ The only new feeling I have is ... being thankful that Brazil, Russia, India and
 * [Maximilian Schrems - Irish High Court - Court of Justice of the European Union](https://en.wikipedia.org/wiki/Max_Schrems#.27Europe_v_Facebook.27_lawsuit)
 * [Hans de With - Bundesverfassungsgericht](http://www.ip-watch.org/2015/12/02/german-intelligence-services-oversight-body-files-action-against-government/)
 
-In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). [A cheery](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments): 
+In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). [A cherry, mon chéri](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments): 
 
 >  Google and Facebook criticized the agreement for the restrictions it will place on activities like penetration testing, sharing information about threats, and bug bounty programs.
 
-The ones 
+The 
 
 > profiteering gluttons 
 
-that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of paying wages) were complaining. Eheh. 
+that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of paying wages), were complaining. Eheh. 
 
-# Outcomes: "tutto u cucuzzaru!"
+# Outcome: "tutto u cucuzzaru!"
 
 > It works like that: 
 > 
@@ -127,14 +127,13 @@ that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of payi
 > 
 > - the game goes one questioning and a penalty is applied to every mistake: an object is given to the farmer and returned at the end of the game; or the kid is excluded waiting until the last kid in game wins. After, it is possible to start again. 
 
+In the case something like Ethernum-based technostructure would be "raised to constitutional level" (the whole information system made of it) - full stack: from the chip's opto-isolator to the electronic currency flowing - I would probably be the first to welcome NSA/BfV/AISE/etc by having a monitor account in "my company" with this protocol: "What You See Is What You Get". More allowances must be discussed using the Ethernum contracting capabilities. 
 
-In the case something like Ethernum-based technostructure would be "raised to constitutional level" (the whole information system made of it) - full stack: from the chip's opto-isolator to the electronic currency flowing - I would probably be the first to welcome NSA/BfV/AISE/etc by having a monitor account in "my company" whit this formula: "What You See Is What You Get". More allowances must be discussed using the Ethernum contracting capabilities. 
-
-That said, the only thing that don't look very clear is this: I don't give a fuck about asserting principles. Those were already asserted [300 years ago](https://en.wikipedia.org/wiki/Sapere_aude), before, and after. And in particular, about anonymity, about 20 years ago
+That said, the only thing that don't look very clear is this: I don't give a fuck about asserting principles. Those were already asserted [300 years ago](https://en.wikipedia.org/wiki/Sapere_aude), before, and after. And in particular, about anonymity, about 20 years ago 
 
 > "I worry about my child and the Internet all the time, even though she's too young to have logged on yet. Here's what I worry about. I worry that 10 or 15 years from now, she will come to me and say 'Daddy, where were you when they took freedom of the press away from the Internet?'" ( [Mike Godwin, Electronic Frontier Foundation](https://freenetproject.org/about.html) )
 
-Principles are just the civil way to solve a litigation, that brings to [reimbursements, to invert abuses](http://mfp19.github.io/2015/12/26/Profile.html#environment). In other words, things like this
+Principles are just the civil way to solve a litigation, that brings to [reimbursements, to invert abuses](http://mfp19.github.io/2015/12/26/Profile.html#environment). In other words, things like this 
 
 > "Schrems is also suing Facebook in a class action suit [...]. Participation in the suit is presently limited to 25,000 Facebook users, although other users can still register an interest. Schrems is suing the Irish subsidiary of Facebook in the Vienna courts for €500 in damages per participant."
 
@@ -143,26 +142,38 @@ are ridicolous. Parassites. It looks like 25000 cancer sick people to sue Philli
 These instead, are not
 
 > "[His](https://en.wikipedia.org/wiki/Mark_Zuckerberg) personal wealth, as of December 2015, is estimated to be $46 billion"
+> 
 > [charity for](https://en.wikipedia.org/wiki/Chan_Zuckerberg_Initiative) "up to $1 billion in shares in each of the next three years".
+> 
 > [Telecommunications regulators in India](http://bits.blogs.nytimes.com/2015/12/23/indian-regulators-suspend-facebooks-free-basic-services/?_r=1) have ordered the suspension of Facebook’s controversial program to bring free basic Internet services to mobile phone users in the country. [...] Facebook and its partners are violating the principle of net neutrality [...] the program offers free web searches using Microsoft’s Bing service but Google searches incur a charge.
 
-It means that that's not charity, nor philanthropy. And this states that Facebook was a scam
+It means that that's not charity, nor philanthropy. And if you read it vertically: "His charity for Telecommunications regulators in India", it is even worse. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lSzw5XyVQfY">Skinny fat bastard- Austin powers</iframe>
+
+Finally, this states that Facebook was a scam
 
 * http://curia.europa.eu/juris/document/document.jsf?text=&docid=169195&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=80225
 
 And the same applies to any on-line data-related business activity. Google included. 
 
-We - the hacktivists, only - want those money back. On our desks. 
+We - the hacktivists, only - want those money back, only. On our desks
 
-Without the need [to apply at some kind of dark office](https://privacyinternational.org/illegalspying), [to step as foreigners into a lesser rights jurisdiction](http://www.thenewamerican.com/usnews/constitution/item/17008-fourth-amendment-and-foreigners-does-it-apply), [from remote by using an industry-standard computer instead of anyone](http://www.theregister.co.uk/2015/12/22/silicon_valley_expected_to_launch_counter_attack_on_snooping_bill/), and without being profiled ([AGAIN!](http://mfp19.github.io/2015/12/26/Profile.html#analprobe)) first. 
+* Without the need [to apply at some kind of dark office](https://privacyinternational.org/illegalspying), [to step as foreigners into a lesser rights jurisdiction](http://www.thenewamerican.com/usnews/constitution/item/17008-fourth-amendment-and-foreigners-does-it-apply), [from remote by using an industry-standard computer instead of anyone](http://www.theregister.co.uk/2015/12/22/silicon_valley_expected_to_launch_counter_attack_on_snooping_bill/), and without being profiled ([AGAIN!](http://mfp19.github.io/2015/12/26/Profile.html#analprobe)) first
 
-Without Daddy Zuckerberg to bind them to a contract before delivery: we'll finalize the money later, according to our comprehension of [capabilities and needs](http://mfp19.github.io/2015/12/25/Aethernum.html#previous); [not by proxy](https://en.wikipedia.org/wiki/The_Giving_Pledge). 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_w-Rhd8x6WU">Road Trip (2000)</iframe>
+
+* Without Daddy Zuckerberg to bind them to a contract before delivery: we'll finalize the money later, according to our comprehension of [capabilities and needs](http://mfp19.github.io/2015/12/25/Aethernum.html#previous); [not by proxy](https://en.wikipedia.org/wiki/The_Giving_Pledge). 
 
 Twenty years ago I was there, I've been here all this time doing [the same thing](http://mfp19.github.io/2015/12/26/Profile.html#analprobe) ([again](http://www.parliament.uk/business/committees/committees-a-z/joint-select/draft-investigatory-powers-bill/news-parliament-2015/journalists-lawyers-mobile-companies-evidence--/), and [again](https://www.openrightsgroup.org/blog/2015/how-the-investigatory-powers-bill-will-affect-internet-service-providers), and [again](http://arstechnica.com/tech-policy/2015/11/uk-isp-boss-points-out-massive-technical-flaws-in-investigatory-powers-bill/), and [again](http://arstechnica.com/tech-policy/2015/11/the-snoopers-charter-would-devastate-computer-security-research-in-the-uk/)); and I still haven't found time to make a kid because I'm worried about not being able to be anonymous myself, in order to keep him anonymous as well. Safe. I call it "social responsibility" 
 
+> You cannot escape the responsibility of tomorrow by evading it today. ([Abraham Lincoln](http://www.brainyquote.com/quotes/quotes/a/abrahamlin101733.html)) 
+
+That is the opposite of "social network"; the opposite of monetizing other people. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Yn0mglH7XLk">Excerpt from the documentary "Terms And Conditions May Apply"</iframe>
 
-That is the opposite of a "social network". Don't worry Zukky, there's no need for you to go to Europe to be sentenced - you're not Edward Snowden - your company's money only, have to travel. All the ones that I refused since Google inception. 
+Don't worry Zukky, there's no need for you to go to Europe to be sentenced - you're not Edward Snowden - your company's money only, have to travel. All the ones that I refused since Google inception, because of my ethical concerns about privacy. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=K6YOd56yky0">BUFFONE a Silvio Berlusconi di Piero Ricca</iframe>
 
