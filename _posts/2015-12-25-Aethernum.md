@@ -4,6 +4,8 @@ title: Aethernum
 author: mfp19
 ---
 
+Tags: [previous](#previous) [rights](#rights) [example](#example) [art](#art) [clues](#clues)
+
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), and we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html). 
 
 ... and Justice for all 
@@ -17,6 +19,7 @@ Well, some sort of. Theoretical.
 At this point we have 
 
 > tau = t * i
+> 
 > ether = euro * i
 
 And ahead
@@ -53,11 +56,11 @@ What I feel now is probably what [Oppenheimer](https://en.wikipedia.org/wiki/J._
 Let's see now how we can import [Water-Vilfredo-LQFB-Bitcoin](http://mfp19.github.io/2015/12/17/Constitution.html) into Ethereum to make a coherent universal human rights continual production factory. 
 
 * Water. Our bodies are made out of water already: nothing to import here unless you are a jellyfish. In other words, once the bottom line, the universal framework is in place, there's no way to get out of it because of the very inner nature of the blockchain system. 
-* Vilfredo. Ethereum has a 'contract' feature. Every work team is created by signing a contract. And every contract 'bubbles' some results. By combining more than one working team you build up a new version of coporates, enterprises, guilds, clans, parliaments, etc. All inside the same blockchain. All nested inside the general basic contract. 
+* Vilfredo. Ethereum has a 'contract' feature. Every work team is created by signing a contract. And every contract 'bubbles' some results. By combining more than one working team you build up a new version of corporates, enterprises, guilds, clans, parliaments, etc. All inside the same blockchain. All nested inside the general basic contract. 
 * LiquidFeedback. As I said, this tool was conceived as a feedback tool for representatives. By having a universe of Vilfredos confederated within a universal framework, the representatives become obsolete, and this tool can be used as a monitoring, reporting, archiving tool; and for scientific purposes.
 * Bitcoin. In Ethereum they exist under the name 'Ether'. The main difference between the two is that the Bitcoin is an universal meter, the Ether is a universal meter blockchained to a contract. 
 
-# Aethernum: human rights.
+# <a name="rights"></a>Aethernum: human rights.
 
 > "To be, or not to be? That is the question—
 > 
@@ -129,7 +132,7 @@ Today things got way more complicate. But ... again ... by placing a "Not Sure S
 
 and start a rebuilding process that already lead to some good results. Some temporary patches. 
 
-# Aethernum: an example.
+# <a name="example"></a>Aethernum: an example.
 
 A continent: Europe. De facto, geographically, Europe is very united; its politics just bullshit. All the planet is 'de facto very united' (and its politics just bullshit). Waters, deserts, mountains are 'naturally expensive to cross' as well. This is the reality that, willingly or not, shaped us all since ever. Start and restart always from there. All the rest is wishfull thinking. Unless we figure out how to make a teleport system, Newton and gravity keep kicking our ass. Plus, there's political bullshit coming from the past: Vatican City, San Marino, Monaco, Gibraltar, Ceuta, Melilla ... 
 
@@ -143,7 +146,7 @@ A constitution: one of the 2-3 important things I added to My Constitution was a
 
 Basically, by bind to such metered rule you've just built a bottom line where 'ether multiplied by t' or 'ether multiplied by shoe' results always in 'the right to survive' where 'survive' is defined as '50 liters of water, 2500 kcal, daily', mandatory minimum. 
 
-# Aethernum: previous art. 
+# <a name="art"></a>Aethernum: previous art. 
 
 In the previous chapter I made an example starting from water and food because of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). But in 2008 I started from 
 
@@ -177,7 +180,7 @@ simply obsolete.
 
 > Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for. 
 
-# Clues
+# <a name="clues"></a>Clues
 
 By me writing this text in Git (ie: a proto-blockchain), and you reading from it, you've just used a lightweight version of Ethereum to init a general contract that could serve as overall framework to any other future activity. 
 [As far as I can understand Git itself lack of author and time signatures in its blocks](http://mfp19.github.io/2015/08/24/Integrity.html); this means that GitHub's [operators can manipulate authorship and publishing dates at will](https://en.wikipedia.org/wiki/ConnectU#Mark_Zuckerberg). But for my purpose (ie: sharing the description of something that is not mine) is fair enough. 

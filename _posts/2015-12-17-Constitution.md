@@ -4,6 +4,8 @@ title: Constitution?
 author: mfp19
 ---
 
+Tags: [politics](#politics) [personal](#personal) [crackdown](#crackdown) [hacktivist](#hacktivist) [constitution](#constitution) [pirate](#pirate) [conclusion](#conclusion)
+
 There was an [integrity issue](http://mfp19.github.io/2015/08/24/Integrity.html) and there is a technological [solution](http://mfp19.github.io/2015/12/15/Solution.html) that doesn't expand the attack surface by introducing third parties (ex: cloud commercial services). On top of TCP/IP, with its own problems of integrity (ex: of routing messages) and its own solutions (ex: encryption of handshakes and routing messages). And maybe, one day, on top of [ad-hoc radio networks](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network) as well, where integrity problems and solutions are tightly embedded into electromagnetism: the power of the electron and the beauty of the light. Finally.
 
 But by hashing everything, every single 'word' (7,8,16,32,... bit) in the common public filesystem is easily identified; and the same for any key-value pair (ex: author-message). And this easily identifiable author-message pairs run on telecommunications systems having for their core function to keep track of all (and any) connected device. Is it the beginning of a nightmare?
@@ -19,9 +21,10 @@ Those are two [civil law (aka continental law)](https://en.wikipedia.org/wiki/Ci
 
 * Julian Assange
 * Chelsea Manning
+* Kim Schmitz
 * Edward Snowden
 
-## Political background. 
+## <a name="politics"></a>Political background. 
 
 Around 2000 the EU leaders gatered in Lisbon and drafted the so called "2010i Strategy". Then 9/11/2001 and ... 
 
@@ -34,7 +37,7 @@ From there on, there have been an european train of [intellettuali organici](htt
 
 Roger Waters for president! 
 
-## My personal background. CHECK IT!
+## <a name="personal"></a>My personal background. CHECK IT!
 
 I was following the european legal issue by proxy: my ex girlfriend was studying law and this european process was a constant topic between me and her. But I had top priority problems to access the judicial system, and the things were getting worse in time; I simply couldn't recognise a working public establishment. To let them
 
@@ -48,7 +51,7 @@ So I wrote what I call 'My Constitution' and (on 22 July 2008) addressed the Pre
 
 No black magic here: I've just compressed the first (roughly) 20 slim articles of the Italian Constitution in 7 fat ones, applied old patches never enacted by our catholicians, and added a few ideas for practical reasons. I showed the promo video to a few (bored) people and asked to evolve that text using tools like SVN (or alike) rather then a wiki; so that, by adding collective intelligence, one day it could become something serious.
 
-# Italian Crackdown
+# <a name="crackdown"></a>Italian Crackdown
 
 > A movie that was originally a comedy, but became a documentary. 
 > (Urban Dictionary about the movie "Idiocracy")
@@ -83,7 +86,7 @@ Basically we were paying for the 1994 Italian Crackdown by having a generation o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGlJgU9x8tM" frameborder="0" allowfullscreen>Idiocracy: Ass The Movie</iframe>
 
-# Hacktivist
+# <a name="hacktivist"></a>Hacktivist
 
 I published the Italian Crackdown video 3 days before the parliament voted the Lisbon Treaty. It wasn't on purpose; I mean: I had no idea that they were going to vote on 25th. I was at MOKA2008 in Pescara (IT) to deliver my other video made at CCC2007: "Sapere Aude 1784".
 
@@ -96,7 +99,7 @@ When the cops came to my place in 2010, with a search&seize order, I was scared 
 
 I've been since then trying to watch edge cases without getting involved - easy to say, hard to do - in the attempt to build up my imaginary law, on top of My Constitution. The hard part in fact is to understand things like: why the hell cops don't wear cams on their uniforms to avoid popular hate and such things? Why the military don't arrest those politicians straight away and send us to new elections? Result of my research: a nevrosis, and the damned feeling that freely searching for those answers is too risky. 
 
-## We don't need no Constitution
+## <a name="constitution"></a>We don't need no Constitution
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HrxX9TBj2zY" frameborder="0" allowfullscreen>Pink Floyd - Another brick in the wall (Part II)</iframe>
 
@@ -117,7 +120,7 @@ The same continual failure you can see with the brazillian Marco Civil and the i
 
 A failure that was clear long time before the Lisbon Treaty: [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) (maximum economics), [Kenneth Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow) (impossibility theorem), [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (capabilities approach). 
 
-## Stuck in the middle with you: Ethernet&Ethereal&Ether&Ethereum.
+## <a name="pirate"></a>Stuck in the middle with you: Ethernet&Ethereal&Ether&Ethereum.
 
 The games - for us, italians - were over with the constitutional court sentence 01/2014 that declared unconstitutional the parliaments since the 2005 voting system changes, but stated the need of continuity for law&order sake. And the whole judicial system adapted ignoring popular instances of individual rights violations. 
 Uh? Ehm? Sorry to disturb sir, but I didn't understand ... I have some questions ... honestly ... I'm serious now: what about the Lisbon Treaty? What about United States of Europe? Is Our Constitution valid? Is there a Parliament in Rome? A President? Who is the civil authority that the militaries answer 'Yes Sir' to? What the hell is the legal part of the story!?!?!?? Again: no clue. Any crowd-sourced initiative failed because who collected the ideas never accepted the bottom one: no need of representatives.
@@ -160,7 +163,7 @@ and [chatting](https://plus.google.com/111241598218967792402). Nash Equilibrium.
 
 I went back to have a look at Partito Pirata in late 2015: they [adopted](https://forum.partito-pirata.it/) a new, brilliant, [chatting tool](http://www.discourse.org/). Worthless. Sometimes looks like the mankind can't live without publishing, without show off. Indeed, media companies only are struggling because they can't aggregate popularity, loosing some of the public functions that they got with [Gutemberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg) first, the [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne) then, the hundreds of laws made in every jurisdiction since then, up to the actual picture in [EU](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.084.01.0072.01.ENG), [US](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act), and [anywhere else](http://www.wipo.int/). 
 
-# Conclusion
+# <a name="conclusion"></a>Conclusion
 
 From my perspective Ethereum is the (best?) result of the third iteration over this modern democracies struggle, that incorporates the contracts discipline and the BitCoin (blockchain) experience. I feel grateful to live at the same times of those guys. They fucking nailed the fucking issue down: dynamism in human organizations. 
 They reduced [SAP](https://en.wikipedia.org/wiki/SAP_SE) to the point that everybody can have one, and many can use it; and by doing so, all the human activities can bubble bottom-up instead of being top-down directed. Master (Bruce) Lee would be proud of them. 

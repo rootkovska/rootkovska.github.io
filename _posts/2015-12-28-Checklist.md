@@ -4,6 +4,8 @@ title: Checklist
 author: mfp19
 ---
 
+Tags: 
+
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html), and we imagined (again) [how the world could be](http://mfp19.github.io/2015/12/25/Aethernum.html), then we [figured out why is not](http://mfp19.github.io/2015/12/26/Profile.html) and [where to find money to make it](http://mfp19.github.io/2015/12/27/PastaCiccia.html) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/erCAp_Bd0AQ">Hackers: The Internet's Immune System | Keren Elazari | TED Talks</iframe>

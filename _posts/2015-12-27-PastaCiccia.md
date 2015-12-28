@@ -4,13 +4,15 @@ title: Pasta&Ciccia
 author: mfp19
 ---
 
+Tags:  [hatespeech](#hatespeech) [pastaciccia](#pastaciccia) [currency](#currency) [royalties](#royalties) [censorship](#censorship) [surveillance](#surveillance) [5eyes](#5eyes) [9eyes](#9eyes) [outcome](#outcome)
+
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html), and we imagined (again) [how the world could be](http://mfp19.github.io/2015/12/25/Aethernum.html), then we [figured out why is not](http://mfp19.github.io/2015/12/26/Profile.html) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TWiKdFqnIzw">Black Sabbath - Paranoid, Top of the Pops 1970</iframe>
 
 laughing too 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IwBzVKOrDn8">Social Media Yelp for People, ‘Peeple’ – Last Week Tonight with John Oliver</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYEoPyEVoWY">Last Week Tonight with John Oliver - Peeple App</iframe>
 
 to exorcise our pain 
 
@@ -22,19 +24,19 @@ Let's imagine that for some undetermined reason the whole world agree on [this v
 
 broken the world. Reductio ad absurdum. 
 
-# Hate speech
+# <a name="hatespeech"></a>Hate speech
 
 In other words: I hate to speak. But I have to. Pidgeon English
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zTuWPjYDL8">Dastardly & Muttley in Their Flying Machines Intro</iframe>
 
-## Maltagliati&Frattaglie
+## <a name="pastaciccia"></a>Maltagliati&Frattaglie
 
 Maltagliati is a kind of pasta. The only page I've found on the english wikipedia about Maltagliati, is the [Spätzle](https://en.wikipedia.org/wiki/Sp%C3%A4tzle) one. It looks like Wikipedia need an help on the etymology part: "spezzare" in italian means "to break" and the german word sounds pretty similar. Maltagliati means "badly cut", in other words: "spezzati" (that means "broken"). Hacked. Now look at the Spaetzles, at the tools used to make them and ... then listen at the sound of "spezzati" and the sound of "spaetzles". Then go asking to the Ladin People that still live in Tyrol, wheter this is a good catch or not. I also don't understand why Wikipedia mix the short versions ("buttons") with the long versions ("noodles"). And they make also a wrong mapping to the italian Gnocchi ... that indeed ... should be mapped with the Knoedel - Canederli - the tyrolean gnocchi. 
 
 Frattaglie is a kind of meat that Wikiquotes translates with "offal, giblets". But I'm tired to play with the words by now, so, while the Communication Scientists try to figure out if "ciccia" (ie: the title of this post) is hate speech or not - because it is in use both for selling "meat" to an unwilling kid at dinner time, and to nickname a "girl" - we go back to work. 
 
-# Cryptocurrency
+# <a name="currency"></a>Cryptocurrency
 
 Ethereum is just one of the several efforts to enable complex financial functions in a cryptocurrency. I like that one because it embeds Turing-complete programming framework - enabling to realtime evolve the smart contracts - but others may be "incorporated" at some point in the future: Namecoin, Mastercoin (now Omni), Colored Coins, Counterparty, Ripple, Cripti, NXT, and BitShares. Just to name a few. 
 
@@ -44,7 +46,7 @@ Some of those cryptocurrencies offload the cpu and load the memory, some others 
 
 I see danger in all of them because their ability to replicate things like "bonds", "futures", and a whole world of fancy financial inventions: contracts/promises that became moral hazard and creative destruction many times already in the human history. 
 
-# Rights&Royalties
+# <a name="royalties"></a>Royalties&Rights
 
 > [The English Constitution](https://en.wikipedia.org/wiki/The_English_Constitution)
 
@@ -64,7 +66,7 @@ I see danger in all of them because their ability to replicate things like "bond
 
 The good part is that the BY-SA-NC-ND licence doesn't exists: [BY-SA-NC or BY-NC-ND](https://creativecommons.org/licenses/). 
 
-# Censorship
+# <a name="censorship"></a>Censorship
 
 * https://en.wikipedia.org/wiki/Sorites_paradox
 * https://en.wikipedia.org/wiki/Continuum_fallacy
@@ -80,11 +82,11 @@ The first triplet is more acceptable by arts pupils; the second by science pupil
 
 Both the triplets assert an amount of falsity in the language itself; making the censorship, any form of it, just ... idiot; an abuse not because of constitutions and legal frameworks, but because of natural unconsistency; it is a bit deeper than 'human rights abuse'. 
 
-# Surveillance
+# <a name="surveillance"></a>Surveillance
 
 The MOAB.
 
-## The Five Eyes (UK, US, Canada, Australia, New Zealand)
+## <a name="5eyes"></a>The Five Eyes (UK, US, Canada, Australia, New Zealand)
 
 The UK&US govs and their tech giants are playing "scaricabarile" (it. "barrel-unloading") ... shitstorm? Self bullocks-slashing? Responsabilities dropping? Who knows ... and who cares. 
 
@@ -100,7 +102,7 @@ And viceversa.
 
 They look like my father and my mother after divorce. And viceversa. 
 
-## The other 9 eyes (Denmark, France, the Netherlands, Norway, Sweden Germany, Belgium, Italy, Spain)
+## <a name="9eyes"></a>The other 9 eyes (Denmark, France, the Netherlands, Norway, Sweden Germany, Belgium, Italy, Spain)
 
 The only new feeling I have is ... being thankful that Brazil, Russia, India and China exist; because EU haven't been able to do anything more than guilty silence (it. omerta'); with very few exceptions 
 
@@ -127,7 +129,7 @@ The
 
 that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of paying wages), were complaining. Eheh. 
 
-# Outcome: "tutto u cucuzzaru!"
+# <a name="outcome"></a>Outcome: "tutto u cucuzzaru!"
 
 > It works like that: 
 > 
@@ -193,7 +195,7 @@ That is the opposite of "social network"; the opposite of monetizing other peopl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Yn0mglH7XLk">Excerpt from the documentary "Terms And Conditions May Apply"</iframe>
 
-Don't worry Zukky, there's no need for you to go to Europe to be sentenced - you're not Edward Snowden - your company's money only, have to travel. All the ones that I refused since Google inception, because of my ethical concerns about privacy. 
+Don't worry Zucky - "it. zucca, zucchina", "en. pumpkin"; "it. zucca vuota", "en. empty head" - there's no need for you to go to Europe to be sentenced - you're not Edward Snowden - because we don't want you; we want your money. All the ones that we refused since Google inception, because of our ethical concerns about privacy. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=K6YOd56yky0">BUFFONE a Silvio Berlusconi di Piero Ricca</iframe>
 
