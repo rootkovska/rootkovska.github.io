@@ -6,7 +6,7 @@ author: mfp19
 
 Tags: [hacktivist](#hacktivist)
 
-> [#include <asm.h>](http://mfp19.github.io/2015/12/29/Antelitteram.html)
+> [#include "asm.h"](http://mfp19.github.io/2015/12/29/Antelitteram.html)
 
 # <a name="hacktivist"></a>Hacktivist != Activist. 
 
@@ -26,28 +26,39 @@ When I saw it - a Partito Pirata's fail replica - I've been throwing shoes all a
 * 2001: amendments to the 1996 privacy act to allow profiling and marketing. 
 * 2003: the first [manipulated email I've spotted in my invite-beta gmail mailbox](http://mfp19.github.io/2015/12/26/Profile.html#crime). New mods to the privacy discipline to allow deeper profiling and go figure what else. 
 * 2005: bypass computer security (ex: encryption), digital rights associations [raided](http://www.statewatch.org/news/2010/dec/01norway-italy-seizure.htm) 
+
 > [there were seven arrests in May 2005, which a judge later deemed to be "unfounded"], led to the copying of the contents of the A/I server hosted by a commercial company that did not inform its client. A year later, on 21 June 2005, A/I found out about the operation, which may have resulted in the entire telecommunications traffic passing through their servers, and its contents, having been under surveillance. 
+
 * and again in 2010
+
 > On 6 November 2010, on request from the Italian police, the Norwegian police seized the data on the Norwegian servers of Autistici/Inventati (A/I)
+
 because of 
+
 > The group's analysis of what happened focuses on two key aspects: firstly, the "relationship between neo-fascists and the institutions" in Italy, dating back to collusion and cover-ups during the "years of lead" in the 1970s and 1980s; secondly, on how the measure was so disproportionate that it may be interpreted as a case of "political intimidation" against A/I. After noting that a "protection system" prevented the truth about neo-fascist terrorism in the "years of lead" surfacing, in relation to more recent incidents, they speak of incongruence in sentencing against convicted fascists and anti-fascists. 
+
 * 2013: [state-encouraged BGP hijacking](http://www.linux.it/~md/text/state-hijacking.pdf), that is 'the activism equivalent of' scamming the international community, [have been the cherry on top of the mudcake](http://www.bgpmon.net/how-hacking-team-helped-italian-special-operations-group-with-bgp-routing-hijack/)
+
 > The Raggruppamento Operativo Speciale or ROS is the Special Operations Group of the Italian National Military police. The group focuses on investigating organized crime and terrorism. Hacking Team sells its RAT software known as Remote Control System (RCS) to law enforcement and intelligence agencies, ROS included.
 
-Between 2007 and 2012, someone tried to hijack both the trademark ([RG N. 72111/2011 — TRIBUNALE DI MILANO](http://www.partito-pirata.it/2013/03/ordinanza-contro-pirateparty-it-e-marco-manuel-marsili/)) and the services of Partito Pirata (hosted by Aruba Spa, the company quoted in the HackingTeam/ROS story). I've guessed the state-encouraged hijack and hand-off the whole activity; others didn't, and gave for good the results of 2013 italian general elections. 
+Between 2007 and 2012, someone tried to hijack both the trademark ([RG N. 72111/2011 — TRIBUNALE DI MILANO](http://www.partito-pirata.it/2013/03/ordinanza-contro-pirateparty-it-e-marco-manuel-marsili/)) and the services of Partito Pirata (hosted by Aruba Spa, the company quoted in the HackingTeam/ROS story). I've guessed - among other hipotesis - the state-encouraged hijack and hand-off the whole activity (in my case I was playing with LiquidFeedback while digging into PLSQL); others didn't, and gave for good the results of 2013 italian general elections. 
 I'm an hacktivist, other's don't have the "H" in front. 
 
 The computer history is full of sad stories; enough to have its dignity and associations. Barnaby Jack is the first death-before-DEFCON I've heard about; many instead have been threatened and/or arrested the day before, or the same day, to prevent/interrupt their disclosures. [Many](https://en.wikipedia.org/wiki/Alan_turing) [died](https://en.wikipedia.org/wiki/Karl_Koch_%28hacker%29) in [many](https://en.wikipedia.org/wiki/Phil_Katz) other [sad](https://en.wikipedia.org/wiki/Freenode#Rob_Levin) [circumstances](http://hackaday.com/2008/09/20/mark-hoekstra-has-passed-away/). And those civil rights melting pots deny this dignity on one side, while the institutions deny this dignity on the other side. We call this kind of attacks "Distributed Denial of Service". You can call them "Distributed Denial of Rights". 
 
-And hacktivists die without any kind of representation as well. *After 400 years of individual rights* 
+And hacktivists die without any kind of representation as well. *After 800 years of individual rights* 
 
 > XXIX. NO Freeman shall be taken or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any other wise destroyed; nor will We not pass upon him, nor condemn him, but by lawful judgment of his Peers, or by the Law of the land. We will sell to no man, we will not deny or defer to any man either Justice or Right. 
 
-*and after 300 years of "representative democracies"* 
+*and after 300 years of "representative democracies" to extend those right to anyone* 
 
 > Believe me, dear Sir: there is not in the British empire a man who more cordially loves a union with Great Britain than I do. But, by the God that made me, I will cease to exist before I yield to a connection on such terms as the British Parliament propose; and in this, I think I speak the sentiments of America. ( [Thomas Jefferson, November 29, 1775](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) )
 
-*they lack of representation*
+*they lack of representation.*
 
-Count how many IT systems are in use - from 1970 digital wristwatches, via computers, to modern peacemakers - then count the IT guys in the parliaments. Isn't the result a bit strange? In the italian parliament there is a computerised voting pad per seat, IT guys account for 1/20th of the italian population, but 2 only (out of 800 MPs) are IT guys. Plenty [comedies](http://www.cbs.com/shows/big_bang_theory/) about IT Guys, instead. *[It](http://www.cilditalia.org) looks like the vatican city having 15% of the italian population in their churches, but getting 85% of the yearly compulsory religion tax revenue.* 
+Count how many IT systems are in use - from 1970 digital wristwatches, via computers, to modern peacemakers - then count the IT guys in the parliaments. How many did you find? 1? 0? 
+
+In the italian parliament there is a computerised voting pad per seat, IT guys account for 1/20th of the italian population, but 2 only (out of 800 MPs) are IT guys. Plenty [comedies](http://www.cbs.com/shows/big_bang_theory/) about IT Guys, instead. *[It](http://www.cilditalia.org) looks like the vatican city having 15% of the italian population in their churches, but getting 85% of the yearly compulsory religion tax revenue.* 
+
+Isn't this 1-bit picture a bit strange? The quality of the legal framework is the main result of this strange picture. 
 
