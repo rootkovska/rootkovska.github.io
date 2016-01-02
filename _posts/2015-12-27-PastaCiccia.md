@@ -4,7 +4,7 @@ title: Pasta&Ciccia
 author: mfp19
 ---
 
-Tags:  [hatespeech](#hatespeech) [pastaciccia](#pastaciccia) [currency](#currency) [royalties](#royalties) [censorship](#censorship) [surveillance](#surveillance) [5eyes](#5eyes) [9eyes](#9eyes) [outcome](#outcome)
+Tags:  [hatespeech](#hatespeech) [pastaciccia](#pastaciccia) [currency](#currency) [royalties](#royalties) [censorship](#censorship) [surveillance](#surveillance) [5eyes](#5eyes) [9eyes](#9eyes) [minitrue](#minitrue) [outcome](#outcome)
 
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html), and we imagined (again) [how the world could be](http://mfp19.github.io/2015/12/25/Aethernum.html), then we [figured out why is not](http://mfp19.github.io/2015/12/26/Profile.html) 
 
@@ -24,29 +24,19 @@ Let's imagine that for some undetermined reason the whole world agree on [this v
 
 broken the world. Reductio ad absurdum. 
 
-# <a name="hatespeech"></a>Hate speech
-
-In other words: I hate to speak. But I have to. Pidgeon English
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8zTuWPjYDL8">Dastardly & Muttley in Their Flying Machines Intro</iframe>
-
-## <a name="pastaciccia"></a>Maltagliati&Frattaglie
+# <a name="pastaciccia"></a>Maltagliati&Frattaglie
 
 Maltagliati is a kind of pasta. The only page I've found on the english wikipedia about Maltagliati, is the [Spätzle](https://en.wikipedia.org/wiki/Sp%C3%A4tzle) one. It looks like Wikipedia need an help on the etymology part: "spezzare" in italian means "to break" and the german word sounds pretty similar. Maltagliati means "badly cut", in other words: "spezzati" (that means "broken"). Hacked. Now look at the Spaetzles, at the tools used to make them and ... then listen at the sound of "spezzati" and the sound of "spaetzles". Then go asking to the Ladin People that still live in Tyrol, wheter this is a good catch or not. I also don't understand why Wikipedia mix the short versions ("buttons") with the long versions ("noodles"). And they make also a wrong mapping to the italian Gnocchi ... that indeed ... should be mapped with the Knoedel - Canederli - the tyrolean gnocchi. 
 
 Frattaglie is a kind of meat that Wikiquotes translates with "offal, giblets". But I'm tired to play with the words by now, so, while the Communication Scientists try to figure out if "ciccia" (ie: the title of this post) is hate speech or not - because it is in use both for selling "meat" to an unwilling kid at dinner time, and to nickname a "girl" - we go back to work. 
 
-# <a name="currency"></a>Cryptocurrency
+## <a name="hatespeech"></a>Hate speech
 
-Ethereum is just one of the several efforts to enable complex financial functions in a cryptocurrency. I like that one because it embeds Turing-complete programming framework - enabling to realtime evolve the smart contracts - but others may be "incorporated" at some point in the future: Namecoin, Mastercoin (now Omni), Colored Coins, Counterparty, Ripple, Cripti, NXT, and BitShares. Just to name a few. 
+In other words: I hate to speak. But I have to. Pidgeon English
 
-With very few exceptions I didn't hands-on any of them, yet; [I can't, yet](http://mfp19.github.io/2015/12/26/Profile.html#2015); my opinion is pretty empty of value. But this point was clear as soon as Bitcoin was out: it was a minimum tech for wider bunch of different uses. I've spotted DigiCash at the end of the 90s; I've spotted Ripple at middle 00s; BitCoin has been the most solid one. Theoretically. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zTuWPjYDL8">Dastardly & Muttley in Their Flying Machines Intro</iframe>
 
-Some of those cryptocurrencies offload the cpu and load the memory, some others carry names or contracts. The technological domain (a triangle: cpu-memory-goodput) is not a problem: handheld devices are powerful enough, wireless technologies too. The only question marks regard performance; and they can be answered on the go. 
-
-I see danger in all of them because their ability to replicate things like "bonds", "futures", and a whole world of fancy financial inventions: contracts/promises that became moral hazard and creative destruction many times already in the human history. 
-
-# <a name="royalties"></a>Royalties&Rights
+## <a name="royalties"></a>Royalties&Rights
 
 > [The English Constitution](https://en.wikipedia.org/wiki/The_English_Constitution)
 
@@ -66,7 +56,7 @@ I see danger in all of them because their ability to replicate things like "bond
 
 The good part is that the BY-SA-NC-ND licence doesn't exists: [BY-SA-NC or BY-NC-ND](https://creativecommons.org/licenses/). 
 
-# <a name="censorship"></a>Censorship
+## <a name="censorship"></a>Censorship
 
 * https://en.wikipedia.org/wiki/Sorites_paradox
 * https://en.wikipedia.org/wiki/Continuum_fallacy
@@ -82,11 +72,11 @@ The first triplet is more acceptable by arts pupils; the second by science pupil
 
 Both the triplets assert an amount of falsity in the language itself; making the censorship, any form of it, just ... idiot; an abuse not because of constitutions and legal frameworks, but because of natural unconsistency; it is a bit deeper than 'human rights abuse'. 
 
-# <a name="surveillance"></a>Surveillance
+## <a name="surveillance"></a>Surveillance
 
 The MOAB.
 
-## <a name="5eyes"></a>The Five Eyes (UK, US, Canada, Australia, New Zealand)
+### <a name="5eyes"></a>The Five Eyes (UK, US, Canada, Australia, New Zealand)
 
 The UK&US govs and their tech giants are playing "scaricabarile" (it. "barrel-unloading") ... shitstorm? Self bullocks-slashing? Responsabilities dropping? Who knows ... and who cares. 
 
@@ -102,14 +92,14 @@ And viceversa.
 
 They look like my father and my mother after divorce. And viceversa. 
 
-## <a name="9eyes"></a>The other 9 eyes (Denmark, France, the Netherlands, Norway, Sweden Germany, Belgium, Italy, Spain)
+### <a name="9eyes"></a>The other 9 eyes (Denmark, France, the Netherlands, Norway, Sweden Germany, Belgium, Italy, Spain)
 
 The only new feeling I have is ... being thankful that Brazil, Russia, India and China exist; because EU haven't been able to do anything more than guilty silence (it. omerta'); with very few exceptions 
 
 * [Maximilian Schrems - Irish High Court - Court of Justice of the European Union](https://en.wikipedia.org/wiki/Max_Schrems#.27Europe_v_Facebook.27_lawsuit)
 * [Hans de With - Bundesverfassungsgericht](http://www.ip-watch.org/2015/12/02/german-intelligence-services-oversight-body-files-action-against-government/)
 
-From Italy we got [this puppet](https://en.wikipedia.org/wiki/Maurizio_Gasparri) saying that our (unconstitutional) agencies (AISI/AISE/Copasir) are 'not efficient' 
+<a name="minitrue"></a>From Italy we got [this puppet](https://en.wikipedia.org/wiki/Maurizio_Gasparri) saying that our (unconstitutional) agencies (AISI/AISE/Copasir) are 'not efficient' 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ry3XJxfytic">Terrorismo, Gasparri (FI): Servizi segreti italiani inefficientissimi</iframe>
 
@@ -117,9 +107,13 @@ when he was Ministry of Communications he [openly signed a law without reading i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95HM_xPk0uk">L'intervista ritrovata del falso pentito Scarantino</iframe>
 
-[to make him guilty of a bomb that killed the second in charge of the anti-mafia squad](https://en.wikipedia.org/wiki/Via_D'Amelio_bombing) one month after the first in charge was bombed as well. But don't name those things; they prefer to remember [Salvo D'Acquisto](https://en.wikipedia.org/wiki/Salvo_D'Acquisto) ONLY. Reliable people. 
+<a name="pupo"></a>[to make him guilty of a bomb that killed the second in charge of the anti-mafia squad](https://en.wikipedia.org/wiki/Via_D'Amelio_bombing) one month after the first in charge was bombed as well. 
 
-In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). [A cherry, mon chéri](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments) 
+Note: this story is interesting because it popped up (again) after 25 exact years; it is useful to think about the 'national security secrets' ... I've always appreciated the fact that USA had a public law/procedure about that; their people have always been sure that after a certain amount of years they would be able to write their history without lack of any detail. I don't know how the whole thing is protected against time screws... ehm... the chance that those secret docs are produced in the future, to change the past, so that present choices are manipulated. Orwell docet. 
+
+But don't name those things when you talk with Carabinieri (ROS); they prefer to remember [Salvo D'Acquisto](https://en.wikipedia.org/wiki/Salvo_D'Acquisto) ONLY. Reliable people. In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). 
+
+[A cherry, mon chéri](https://en.wikipedia.org/wiki/Wassenaar_Arrangement#2013_Amendments) 
 
 >  Google and Facebook criticized the agreement for the restrictions it will place on activities like penetration testing, sharing information about threats, and bug bounty programs.
 
@@ -128,6 +122,16 @@ The
 > profiteering gluttons 
 
 that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of paying wages), were complaining. Eheh. 
+
+## <a name="currency"></a>Cryptocurrency
+
+Ethereum is just one of the several efforts to enable complex financial functions in a cryptocurrency. I like that one because it embeds Turing-complete programming framework - enabling to realtime evolve the smart contracts - but others may be "incorporated" at some point in the future: Namecoin, Mastercoin (now Omni), Colored Coins, Counterparty, Ripple, Cripti, NXT, and BitShares. Just to name a few. 
+
+With very few exceptions I didn't hands-on any of them, yet; [I can't, yet](http://mfp19.github.io/2015/12/26/Profile.html#2015); my opinion is pretty empty of value. But this point was clear as soon as Bitcoin was out: it was a minimum tech for wider bunch of different uses. I've spotted DigiCash at the end of the 90s; I've spotted Ripple at middle 00s; BitCoin has been the most solid one. Theoretically. 
+
+Some of those cryptocurrencies offload the cpu and load the memory, some others carry names or contracts. The technological domain (a triangle: cpu-memory-goodput) is not a problem: handheld devices are powerful enough, wireless technologies too. The only question marks regard performance; and they can be answered on the go. 
+
+I see danger in all of them because their ability to replicate things like "bonds", "futures", and a whole world of fancy financial inventions: contracts/promises that became moral hazard and creative destruction many times already in the human history. 
 
 # <a name="outcome"></a>Outcome: "tutto u cucuzzaru!"
 

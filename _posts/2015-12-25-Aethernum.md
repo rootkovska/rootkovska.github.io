@@ -4,7 +4,7 @@ title: Aethernum
 author: mfp19
 ---
 
-Tags: [previous](#previous) [rights](#rights) [example](#example) [art](#art) [clues](#clues)
+Tags: [previous](#previous) [rights](#rights) [example](#example) [parliament](#parliament) [art](#art) [clues](#clues)
 
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), and we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html). 
 
@@ -136,7 +136,7 @@ and start a rebuilding process that already lead to some good results. Some temp
 
 A continent: Europe. De facto, geographically, Europe is very united; its politics just bullshit. All the planet is 'de facto very united' (and its politics just bullshit). Waters, deserts, mountains are 'naturally expensive to cross' as well. This is the reality that, willingly or not, shaped us all since ever. Start and restart always from there. All the rest is wishfull thinking. Unless we figure out how to make a teleport system, Newton and gravity keep kicking our ass. Plus, there's political bullshit coming from the past: Vatican City, San Marino, Monaco, Gibraltar, Ceuta, Melilla ... 
 
-A parliament: have you ever spent 5 minutes whatching a session of the British Parliament? Other parliaments look like an amphitheatre; semi-circular. The British parliament instead have two rows, opposing each other. The ones on one side send their champion in the middle, he talks with the back row chorus, facing the opponents ... on the other side, the same, alternating. In a very, very, disciplined way: practical. The greek-latin parliaments are 'proportional', the British one is 'bipolar'. The proportional ones work in Federations and Republics, the bipolar one works for Kingdoms. 
+<a name="parliament"></a>A parliament: have you ever spent 5 minutes whatching a session of the British Parliament? Other parliaments look like an amphitheatre; semi-circular. The British parliament instead have two rows, opposing each other. The ones on one side send their champion in the middle, he talks with the back row chorus, facing the opponents ... on the other side, the same, alternating. In a very, very, disciplined way: practical. The greek-latin parliaments are 'proportional', the British one is 'bipolar'. The proportional ones work in Federations and Republics, the bipolar one works for Kingdoms. 
 StarWars parliament instead, works for everyone: it is a sphere. We don't have electromagnetic levitation pods but ... Japanese could have a solution. In the while we can use what we have: cyberspace.
 
 A constitution: one of the 2-3 important things I added to My Constitution was an automagical rule to increase/reduce the number of rules according to an index (ex: crimes). Try to apply that to the UN Declaration of the HR, and make it binding. I mean, drop any desire, wish, want, etc; start from 'need' only, meter it, and then go to the next rule, example: 

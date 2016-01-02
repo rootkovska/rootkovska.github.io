@@ -4,7 +4,7 @@ title: Checklist
 author: mfp19
 ---
 
-Tags: 
+Tags: [relax](#relax)
 
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html), and we imagined (again) [how the world could be](http://mfp19.github.io/2015/12/25/Aethernum.html), then we [figured out why is not](http://mfp19.github.io/2015/12/26/Profile.html) and [where to find money to make it](http://mfp19.github.io/2015/12/27/PastaCiccia.html) 
 
@@ -25,7 +25,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 	- [X] change voting system
 	- [ ] mandate publishing the law on The Internet
 	- [ ] mandate publishing of previous judicial sentences on The Internet
-	- [X] wait for arts practitioners to come home
+	- [X] wait for arts (liberal and not) practitioners to come home
 - [X] Hack my continent
 - [X] Hack United Nations
 	- [ ] Reform the General Assembly, make spherical its parliament. 
@@ -62,5 +62,5 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 - [ ] Make a kid (or find one)
 - [ ] Be Happy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g-BXxX1x4y8">The Offspring - Time to Relax (Lyrics)</iframe>
+<a name="relax"></a><iframe width="560" height="315" src="https://www.youtube.com/embed/g-BXxX1x4y8">The Offspring - Time to Relax (Lyrics)</iframe>
 
