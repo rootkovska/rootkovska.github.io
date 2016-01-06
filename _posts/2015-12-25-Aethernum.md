@@ -8,8 +8,6 @@ Tags: [previous](#previous) [rights](#rights) [example](#example) [parliament](#
 
 We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a [solution](http://mfp19.github.io/2015/12/15/Solution.html), we marched to [enforce human rights for all](http://mfp19.github.io/2015/12/17/Constitution.html), and we [fixed finance](http://mfp19.github.io/2015/12/20/Timeless.html). 
 
-... and Justice for all 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfg0_FbIqqw">...And Justice for All - Metallica</iframe>
 
 Well, some sort of. Theoretical. 
@@ -25,6 +23,7 @@ At this point we have
 And ahead
 
 > i = tau / t
+> 
 > i = ether / euro
 
 So
@@ -96,7 +95,7 @@ And much more: go digging in the italian Privacy Authority archive and you'll fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j64SctPKmqk">O Captain, my Captain! | Thank you to Robin Williams (HD)</iframe>
 
-Edward Snowden produced a wonderful new wave of public discussion about privacy: 20 years before husbands and wifes were worried about (not) being able to spy the telephone calls of their partners; today anybody (made a porn videochat) was worried about their dick-pics in the NSA datacenter ... same Idiocracy
+Edward Snowden produced a wonderful new wave of public discussion about privacy: 20 years before husbands and wives were worried about (not) being able to spy the telephone calls of their partners; today anybody (made a porn videochat) was worried about their dick-pics in the NSA datacenter ... same Idiocracy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icmRCixQrx8">Idiocracy</iframe>
 
