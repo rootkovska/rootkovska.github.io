@@ -90,7 +90,7 @@ Basically we were paying for the 1994 Italian Crackdown by having a generation o
 
 I published the Italian Crackdown video 3 days before the parliament voted the Lisbon Treaty. It wasn't on purpose; I mean: I had no idea that they were going to vote on 25th. I was at MOKA2008 in Pescara (IT) to deliver my other video made at CCC2007: "Sapere Aude 1784".
 
-But later on I've been happy to discover that, by heart and by facts, I could have been the only one (?) to not have signed the so called "Lisbon Treaty", and have declared it. Without any need nor intention to profit from it: just sincerelly stateless. Terrorists, mafia, criminals act for profit (emotions included), without warning; and are outlawed for it. I didn't. Cool.
+But later on I've been happy to discover that, by heart and by facts, I could have been the only one (?) to not have signed the so called "Lisbon Treaty", and have declared it. Without any need nor intention to profit from it: just sincerelly [stateless](https://en.wikipedia.org/wiki/Statelessness). Terrorists, mafia, criminals act for profit (emotions included), without warning; and are outlawed for it. I didn't. Cool.
 
 It was just a weird thing: I locked myself inside and made fun of all the others, "you are outside!"; but legit, by international rules because of the public acknowledgment. I (didn't) fight the law. I've never had the will of doing so. I was just an immigrant in my own town. 
 And I love it, I don't want to change it. Despite the fact that I'm living abroad, and I probably agree with most of the current european policies, I don't want to sign the Lisbon Treaty until the whole italian side of the story is fixed (if ever). 
