@@ -42,7 +42,7 @@ And if you are buying, instead of producing, it become
 
 > euro = (ether * shoe) * tau
 
-Where tau is your brain's time perception. A real scenario is a bit more complicate than that but nothing that our math guys can't crunch. 
+Where tau is your brain's time perception. A real scenario is a bit more complicate than that but nothing that our math guys can't crunch. Indeed, this is probably a very simple description of something that every manager does everyday to fill in his own only pockets; and as an overal picture, this is what the financial system does, since ever, in favor of different groups of people according to different kind of laws and contracts. Today, thanks to your 50 euros smartphone and ethereum, after a 'little' security review to remove factory embedded spies and rats, and a bit of training for yourself, you can do it too :) 
 
 The importance of this theoretical excercise is to understand that we can adapt production times, production units, retail prices, wages, and everything, to the single individuals using a rational equation that granularly takes into consideration the single individual's [capabilities](https://en.wikipedia.org/wiki/Capability_approach) and [needs](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights). Example: Prof. Odlyzko talking about privacy, price discrimination, and the seeds of capitalism's destruction
 
