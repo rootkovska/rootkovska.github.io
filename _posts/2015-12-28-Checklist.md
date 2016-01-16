@@ -15,7 +15,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 - [ ] ~~Eradicate Vatican City from Rome~~ ~~Edit 2012, Plan B: send S. Peter sq. to Jerusalem~~ Edit 2013 (my israeli friend didn't like the idea to host the chatolics too), Plan C: build a wall around Vatican City; equip full auto armed drones to patrol the wall and ballistas to trow in food and antibiotics from time to time. Wait for middle-east to peace off. Then switch back to Plan B. 
 	- [ ] Add 2013: Visit Auschwitz-Birkenau and Dachau to derive some good ideas. 
 	- [ ] Add 2013: Ask dutch, japanese, koreans and singaporians how to build proper high density housings. 
-	- [ ] Add 2013: Buy a steamroller to compress all the catholics inside Vatican City. 
+	- [ ] Add 2013: Buy a steamroller to cram all the catholics inside Vatican City. 
 - [X] Define 'I'
 - [ ] Define 'We'
 - [X] Hack my family
@@ -32,7 +32,7 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 	- [ ] Reform the Security Council, randomise it. 
 	- [ ] Erase any department, commission. Urgent: delete hate speech and turism ones. 
 	- [ ] Add 2013: send Laura Boldrini back to UNHCHR and be sure that they don't trow her back to us again. 
-- [ ] ~~Remote control my lawyer~~ Edit 2013: Get rid of my lawyer and find another one 
+- [ ] ~~Remote control my lawyer~~ Edit 2013: Get rid of my lawyer and find another one. 
 - [X] Stay away from my natural jurisdiction: find a shelter 
 - [X] Identify another place to settle down 
 - [ ] Change job 
@@ -53,9 +53,10 @@ We had a [problem](http://mfp19.github.io/2015/08/24/Integrity.html), we have a 
 - [ ] Find something useful to do with DNA 
 - [ ] Print my ID and change identity 
 - [ ] Print my money and fuck off the banks 
+	- Add 2012: BitCoin! 
 - [ ] Move to the place and settle down 
 - [ ] Go back to the gym: kickboxing or alike 
-- [ ] Study hamiltonian math and answer the question "why the fuck do I believe to quantum physics?" 
+- [ ] Study hamiltonian math and answer the question "why the fuck do I believe in quantum physics?" 
 - [X] Wait for our enlightened presidents&popes to fix the world
 - [ ] Read any of the best books ever
 - [ ] Write a book
