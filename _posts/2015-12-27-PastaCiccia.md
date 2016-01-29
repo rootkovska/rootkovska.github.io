@@ -70,7 +70,7 @@ I prefer this ones
 
 The first triplet is more acceptable by arts pupils; the second by science pupils. 
 
-Both the triplets assert an amount of falsity in the language itself; making the censorship, any form of it, just ... idiot; an abuse not because of constitutions and legal frameworks, but because of natural unconsistency; it is a bit deeper than 'human rights abuse'. 
+Both the triplets assert an amount of falsity in the language itself; making the censorship, any form of it, just ... idiot; an abuse not because of constitutions and legal frameworks, but because of natural unconsistency; it is a bit deeper than 'human rights abuse'. If you add on top the huge amount (a number 'close to infinity') of internet corners ... and households ... why do we practice mass-enforced or institutional enforced censorship, gagging, etc? It should be clear that it benefits single individual only, in single circumstances only. That usually means there's a crime cover-up in the surroundings. 
 
 ## <a name="surveillance"></a>Surveillance
 
@@ -109,7 +109,7 @@ when he was Ministry of Communications he [openly signed a law without reading i
 
 <a name="pupo"></a>[to make him guilty of a bomb that killed the second in charge of the anti-mafia squad](https://en.wikipedia.org/wiki/Via_D'Amelio_bombing) one month after the first in charge was bombed as well. 
 
-Note: this story is interesting because it popped up (again) after 25 exact years; it is useful to think about the 'national security secrets' ... I've always appreciated the fact that USA had a public law/procedure about that; their people have always been sure that after a certain amount of years they would be able to write their history without lack of any detail. I don't know how the whole thing is protected against time screws... ehm... the chance that those secret docs are produced in the future, to change the past, so that present choices are manipulated. Orwell docet. 
+Note: this story is interesting because it popped up (again) after 25 exact years; it is useful to think about the 'national security secrets' ... I've always appreciated the fact that USA had a public law/procedure about that; their people have always been sure that after a certain amount of years they would be able to write their history without lack of any detail. I don't know how the whole thing is protected against time screws... ehm... the chance that those secret docs are produced in the future, to change the past, so that present choices are manipulated. Orwell docet. But the blockchain system can address this issue as well: if you push encrypted top secret docs inside the blockchain, and preserve their passwords only (to be released the 75th year after the facts, according to the current public rule); the docs are original. The only possible thing to happen is that the blockchain system is violated (ie: found unsecure), the blockchain blows (ex: termonuclear war), the passwords are stolen from the militaries, the passwords leak from military facilities, or the people of the future agree to release those documents before the 75th year deadline. The docs stay original, integer, safe; no post production of fake history.
 
 But don't name those things when you talk with Carabinieri (ROS); they prefer to remember [Salvo D'Acquisto](https://en.wikipedia.org/wiki/Salvo_D'Acquisto) ONLY. Reliable people. In any case, the whole thing is way better than [the previous one based on war machines](https://en.wikipedia.org/wiki/Wassenaar_Arrangement). 
 
@@ -127,11 +127,11 @@ that more abused of crowd-sourcing (ie: to make it rain peanuts, instead of payi
 
 Ethereum is just one of the several efforts to enable complex financial functions in a cryptocurrency. I like that one because it embeds Turing-complete programming framework - enabling to realtime evolve the smart contracts - but others may be "incorporated" at some point in the future: Namecoin, Mastercoin (now Omni), Colored Coins, Counterparty, Ripple, Cripti, NXT, and BitShares. Just to name a few. 
 
-With very few exceptions I didn't hands-on any of them, yet; [I can't, yet](http://mfp19.github.io/2015/12/26/Profile.html#2015); my opinion is pretty empty of value. But this point was clear as soon as Bitcoin was out: it was a minimum tech for wider bunch of different uses. I've spotted DigiCash at the end of the 90s; I've spotted Ripple at middle 00s; BitCoin has been the most solid one. Theoretically. 
-
-Some of those cryptocurrencies offload the cpu and load the memory, some others carry names or contracts. The technological domain (a triangle: cpu-memory-goodput) is not a problem: handheld devices are powerful enough, wireless technologies too. The only question marks regard performance; and they can be answered on the go. 
+Some of those cryptocurrencies offload the cpu and load the memory, some others carry names or contracts. The technological domain (a triangle: cpu-memory-goodput) is not a problem: handheld devices are powerful enough to support end-to-end encryption (that in turn bypass inherent wireless unsecurity), wireless technologies too. The only question marks regard performance; and they can be answered on the go.
 
 I see danger in all of them because their ability to replicate things like "bonds", "futures", and a whole world of fancy financial inventions: contracts/promises that became moral hazard and creative destruction many times already in the human history. 
+
+With very few exceptions I didn't hands-on any of them, yet; [I can't, yet](http://mfp19.github.io/2015/12/26/Profile.html#2015); my opinion is pretty empty of value. But this point was clear as soon as Bitcoin was out: it was a minimum tech for wider bunch of different uses. I've spotted DigiCash at the end of the 90s; I've spotted Ripple at middle 00s; BitCoin has been the most solid one. Theoretically. 
 
 # <a name="outcome"></a>Outcome: "tutto u cucuzzaru!"
 
