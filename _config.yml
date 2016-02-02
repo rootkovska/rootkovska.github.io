@@ -3,6 +3,6 @@ title: mfp19 - adults only
 url: "http://mfp19.github.io"
 
 # Build settings
-markdown: redcarpet
+kramdown: redcarpet
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "fenced_code_blocks"]
