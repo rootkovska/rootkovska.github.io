@@ -56,9 +56,11 @@ And hacktivists die without any kind of representation as well. **After 800 year
 
 **they lack of representation.**
 
-Count how many IT systems are in use - from 1970 digital wristwatches, via computers, to modern peacemakers - then count the IT guys in the parliaments. How many did you find? 1? 0? 
+Count how many IT systems are in use - from 1970 digital wristwatches, via computers, to modern peacemakers - then count the IT guys in the parliaments. How many did you find? How many digits? 1? 0? 
 
-In the italian parliament there is a computerised voting pad per seat, IT guys account for 1/20th of the italian population, but 2 only (out of 800 MPs) are IT guys. Plenty [comedies](http://www.cbs.com/shows/big_bang_theory/) about IT Guys, instead. **[It](http://www.cilditalia.org) looks like the vatican city having 15% of the italian population in their churches, and getting 85% of the yearly compulsory religion tax revenue.** 
+In the italian parliament there is a computerised voting pad per seat since 2003 (or alike), working IT guys used to account for 1/20th of the italian population (in 2003), but none (out of 800 MPs) were IT guys. When italians complaint about the MPs not being on their seats - ie: they were working behind the scenes, sending one per party in the two parliamentary houses just to mark presence and push the buttons - they changed the electronic voting pad: today's working IT Guys are 1/120th of the italian population, IT MPs are 2 (as far as I know) but the MPs can trick the voting pads as well. Plenty [comedies](http://www.cbs.com/shows/big_bang_theory/) about IT Guys, instead.
 
-Isn't this 1-bit picture a bit strange? The quality of the legal framework is the main result of this strange picture. 
+[It](http://www.cilditalia.org) looks like the vatican city having 15% of the italian population in their churches, and getting 85% of the yearly compulsory religion tax revenue.** 
+
+Isn't this [1-bit picture a bit strange](http://www.marcuse.org/herbert/pubs/64onedim/odmimages/64ODMFrenchEnglish.jpg)? The quality of the legal framework is the main result of this strange picture. 
 
