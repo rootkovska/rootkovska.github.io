@@ -91,13 +91,5 @@ Thanks for your understanding!
 Upcoming events
 ----------------
 
-* ["Protecting online privacy by enhancing IT security and strengthening EU IT
-  capabilities"](http://www.stoa.europarl.europa.eu/stoa/cms/home/events/workshops/privacy)
-  @ European Parliament, Dec 8-9, 2015, Brussels, Belgium.
-
-* ["Post-Snowden Cryptography" workshop](https://hyperelliptic.org/PSC/)
-  organized by the Eindhoven University of Technology (TU/e), Dec 9-10, 2015,
-  Brussels, Belgium.
-
-* ["Towards (reasonably) trustworthy x86 laptops"]() @ Chaos Communication
-  Congress (32c3), Dec 27-30, 2015, Hamburg, Germany.
+* [Panel: "The future of OS"](https://logancij.com/sessions/) @ The Logan CIJ
+  Symposium, March 11-12, Berlin, Germany.
