@@ -6,8 +6,8 @@ permalink: /speaking/
 
 This page (hopefully) contains some useful information for conference organizers
 who wish to invite me to speak at their event, such as the current biography &
-photo to be used for the conference page, as well as a few technical
-requirements/constrains for travel and food.
+photo to be used for the conference page, as well as a few requirements and
+constrains.
 
 Bio
 ----
@@ -31,27 +31,25 @@ Photo
 Feel free to use this [photo](/resources/joanna.jpg).
 
 
-Travel requirements
---------------------
+Requirements & constrains
+--------------------------
 
-1. For any segment that requires more than 4 hours on a plane, I would require a
-   business class ticket. There is absolutely no exception from this rule,
-   sorry.
+1. For any flight segment which requires more than 4 hours on a plane, I would
+   require a business class ticket. There is absolutely no exception from this
+   rule, sorry.
 
-Dietary constrains
--------------------
+2. I'm a [vegan](https://en.wikipedia.org/wiki/Veganism). Please make sure that
+   the hotel I would be staying at offers vegan breakfast. Also, in case you
+   wanted me to attend any of the conference-organized dinners or other meals
+   (including lunches), please also assure I would be able to get vegan meals.
+   Please note that vegan food is more than just "salads", and that I'm unable
+   to function eating lettuce only.
 
-I'm a [vegan](https://en.wikipedia.org/wiki/Veganism). The reason for this
-choice is entirely [moral](https://vimeo.com/ondemand/earthlings).
-
-Other constrains
------------------
-
-1. As a matter of principle, I don't travel to countries whose official laws are
+3. As a matter of principle, I don't travel to countries whose official laws are
    in stark contrast with my personal believes and values. This includes e.g.
-   all the countries that discriminate women's rights _by law_ (such as most of
-   the Arabic countries), de-legalize love (such as, incredible and sad to
-   believe, Russia today), or otherwise limit people's freedom in some
+   all the countries that discriminate against women's rights _by law_ (such as
+   most of the Arabic countries), de-legalize love (such as - incredible and sad
+   to believe - Russia today), or otherwise limit people's freedom in some
    unacceptable way. To be clear: it is absolutely irrelevant whether I
    personally would be subject to any risk by such discriminatory laws or not.
 
@@ -59,20 +57,21 @@ Other constrains
 Tips & Tricks
 --------------
 
-1. Generally I'm not interested in chit-chat. I wish people don't perceive it as
-   arrogance.
+1. Generally I'm not interested in chit-chat. I wish people didn't perceive it as
+   arrogance...
 
 2. Remember I'm not an English native speaker. While I might be fluent
    discussing technology and some philosophical themes, I might be lacking
    cultural context on many other topics, especially related to (American)
    television shows, pop culture, etc. Observe that I might not be interested in
-   actually learning this context neither. Also see point #1.
+   actually learning this context. Also see point #1.
 
-3. I _chose_ to be vegan, entirely on ethical grounds. I have not been forced by
-   any medical condition to be one. Thus don't ask if I "can" east something --
-   I certainly can, just might choose not to. Also I'm not part of any doctrine
-   (aka "sect") with regards to diet, so asking if I "may" eat something is even
-   more inappropriate.
+3. I _chose_ to be vegan, entirely on [ethical
+   grounds](https://vimeo.com/ondemand/earthlings). I have not been forced by
+   any medical condition to be one. Thus don't ask if I _can_ eat this or that
+   -- I certainly can, just might have _chosen_ not to. Also I'm not part of any
+   doctrine or sect with regards to diet, so asking if I _may_ eat something is
+   even more inappropriate.
 
 4. Please don't ask me "how did you start with computers and security" -- as you
    might imagine I have been asked this question about 1 million of times
@@ -82,7 +81,7 @@ Tips & Tricks
 5. Please don't ask me how do I like the place I'm just visiting -- if I liked
    it I would sure to mention it by myself. Also see point #1.
 
-6. Don't make it look like I'm being invited to speak because I'm a women. In
+6. Don't make it look like I'm being invited to speak because I'm a woman. In
    that case I will likely turn down your invitation.
 
 7. My name is pronounced: root-kov-skea
