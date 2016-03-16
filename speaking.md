@@ -31,8 +31,39 @@ Photo
 Feel free to use this [photo](/resources/joanna.jpg).
 
 
-Requirements & constrains
---------------------------
+Speaking honorarium
+--------------------
+
+In most cases I'd expect a speaking honorarium. I'm getting a large number of
+invitations to speak, which I appreciate, but if I was to accept all of them I
+would have very little time to do other things, such as... the actual work, or
+even living my after-work life, which I also enjoy much!
+
+Please note that, over the last 10+ years, I've been regularly making
+significant amount of [my work](/papers/) available for everybody for free (as
+in beer, and as in freedom). This is because I believe ideas and knowledge
+should be freely disseminated. But I think it's also fair for me to expect a
+speaking honorarium when I'm asked to put an additional effort required for
+travel and preparations, as well as time sacrifice.
+
+In case of very special events (1-3 in a year) I might make an exception, but
+these would have to be really special. I know that for every organizer their own
+event is the most special one, but I ask you to try to look at this from my
+perspective.
+
+My current speaking honorarium is 8,000 EUR, excluding travel and accommodation.
+I expect this honorarium to be wired at least 2 weeks in advance before the
+start of an event. Admittedly this amount is selected so that I could keep my
+conference traveling at a manageable level.
+
+Please note that, unlike many popular conference speakers, I'm not trying to
+be especially entertaining for the audience, and generally prefer to talk about
+hard challenges or problems, or interesting technical matters, rather than
+performing an Amway-like show. Hire me at your own risk, in other words ;)
+
+
+Other requirements & constrains
+--------------------------------
 
 1. For any flight segment which requires more than 4 hours on a plane, I would
    require a business class ticket. There is absolutely no exception from this
