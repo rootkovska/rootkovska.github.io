@@ -1,6 +1,6 @@
-#### Red Pill... or how to detect VMM using (almost) one CPU instruction {align="center"}
+#### Red Pill... or how to detect VMM using (almost) one CPU instruction
 
-### [Joanna Rutkowska](mailto:joanna@invisiblethings.org) {align="center"}
+[Joanna Rutkowska](mailto:joanna@invisiblethings.org)
 
 Swallowing the Red Pill is more or less equivalent to the following code
 (returns non zero when in Matrix):
