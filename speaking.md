@@ -122,5 +122,7 @@ Thanks for your understanding!
 Upcoming events
 ----------------
 
-* [Panel: "The future of OS"](https://logancij.com/sessions/) @ The Logan CIJ
-  Symposium, March 11-12, Berlin, Germany.
+* June 1st: ["Decentralized & Encrypted"](https://medium.com/@BlueYard/berlin-june-1st-the-mission-to-upgrade-the-internet-an-open-conversation-with-edward-snowden-d288fb2c1ec6), Berlin, Germany.
+
+* June 13: ["coreboot convention"](https://www.coreboot.org/Coreboot_conference_San_Francisco_2016),
+  San Francisco, CA, USA.
