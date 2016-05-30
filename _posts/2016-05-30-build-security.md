@@ -90,9 +90,9 @@ configured via the `COMPONENTS` variable).
 Yet, this straightforward approach is complicated by the fact that some
 components, such as the [Xen hypervisor][xen_repo] would like to download
 additional sources on which their own build targets depend. Sadly, this is often
-done in a very insecure way, as demonstrated by [Xen's build scripts],
-which are wget-ing additional sources from the Internet over plaintext
-connections, without checking the signatures (however absurd that might sound in
+done in a very insecure way, as demonstrated by Xen's build scripts,
+which are [wget-ing additional sources from the Internet over plaintext
+connections, without checking the signatures][xen_critique] (however absurd that might sound in
 2016...). The Fedora Project (on which we have based Qubes dom0 and whose tools
 we use for building the final ISO) is, sadly, another example of build security
 negligence: not only do Fedora tools not verify signatures on the downloaded
