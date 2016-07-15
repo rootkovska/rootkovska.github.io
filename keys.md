@@ -24,7 +24,7 @@ All my keys are signed by the following Master Signing Key:
 
 This key is also attached to this repo in the [key/](/keys/) directory. You
 should verify the fingerprint of this master key using some other channel than
-just this blog (e.g. [my Twitter account](https://twitter.com/rootkovska/), or
+just this blog (e.g. [my Twitter account](https://twitter.com/rootkovska/status/564863608107327488), or
 a [Qubes Mailing List](https://groups.google.com/forum/#!forum/qubes-devel)) as
 in case somebody was providing you with a falsified repo, they would be sure to
 also feed you with a falsified master key.
