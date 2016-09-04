@@ -119,5 +119,5 @@ the case. But perhaps such users would be better off just buying an iOS device
 then? Or maybe using Intel SGX-protected apps for dealing with their secrets?
 
 [orwl_crowdsupply]: https://www.crowdsupply.com/design-shift/orwl
-[x86_harmful]: https://github.com/rootkovska/x86_harmful
+[x86_harmful]: http://blog.invisiblethings.org/2015/10/27/x86_harmful.html
 [relay attack]: https://en.wikipedia.org/wiki/Relay_attack
