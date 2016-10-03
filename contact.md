@@ -15,11 +15,11 @@ I can be contacted via email using the following addresses:
 Note on confidentiality
 ------------------------
 
-Please note that, as most other people and organizations, I use a 3rd party
-Mail Service Provider. The stuff who work at the provider is (technically-wise)
-able to read all my incoming and outgoing mail. This is by definition of how
-email infrastructure work, and it is irrelevant whether SSL or other encryption
-is used between email clients and corresponding email servers. If you have
+Please note that, as most other people and organizations, I use a 3rd party Mail
+Service Provider. The staff who work at the provider are technically able to
+read all my incoming and outgoing mail. This is by definition of how email
+infrastructure work, and it is irrelevant whether SSL or other encryption is
+used between email clients and corresponding email servers. If you have
 something confidential, please use PGP/GPG encryption to secure our
 communication (see [keys.md](/keys/) for info how to obtain and verify my GPG
 keys).
