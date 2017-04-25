@@ -85,7 +85,7 @@ Additionally, I don't believe that advances in so called "safe languages" or
 anti-exploitation technology could significantly change this landscape. These
 approaches, while admittedly effective in many situations, especially against
 memory-corruption-based vulnerabilities, cannot address other broad categories
-of software vulnerabilities, such as e.g. security bugs in application logic,
+of software vulnerabilities, such as security bugs in application logic,
 nor stop malicious (or compromised) vendors from building backdoors
 intentionally into their software.
 
@@ -126,7 +126,7 @@ in the `/rw/config/` directory). An attacker can use any of these, and probably
 many more, depending on which other applications the user regularly uses, to
 persist her code within a specific AppVM. Additionally, an attacker can
 potentially use bugs in any of the software that is always, or often, run in
-the AppVM, such as e.g. a bug in Nautilus (file manager) or some PDF viewer.
+the AppVM, such as a bug in Nautilus (file manager) or some PDF viewer.
 
 Qubes offers three mechanisms how to deal with this problem:
 
@@ -453,7 +453,7 @@ Correct. Qubes OS, unlike most other systems, has been designed to keep all the
 malware away from interacting with the real, sensitive hardware, thus preventing
 various BIOS/firmware attacks (even if the attacker managed to compromise one or
 more of the VMs). However, once there is a fatal vulnerability in the core
-software that is used to implement Qubes security model, such as e.g. in the Xen
+software that is used to implement Qubes security model, e.g. in the Xen
 hypervisor, then this protection no longer works. Sorry.
 
 ### Alright, but in practice, do I really need to get a new machine?
