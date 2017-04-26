@@ -189,7 +189,7 @@ unclear how effective (complete) it could be in practice, but some discussions
 about it, accompanied by an early implementation, can be found on the [mailing
 list][appvm_disarming].
 
-![Compromise recovery for individual AppVM](../resources/appvm-ir-private-img-mounting.png)
+![Compromise recovery for individual AppVM]({{ site.url }}/resources/appvm-ir-private-img-mounting.png)
 
 ### Handling other system VMs compromises
 
@@ -300,7 +300,7 @@ After the backup restoration we end up with a fresh system that consists of:
 The user can immediately start using either of the AppVMs, even the
 compromised ones, without endangering any other VMs.
 
-![Overview of Qubes system compromise recovery](../resources/paranoid-backup-restore.png)
+![Overview of Qubes system compromise recovery]({{ site.url }}/resources/paranoid-backup-restore.png)
 
 However, a few things will not get restored when running in paranoid mode, and
 these include:
@@ -414,7 +414,7 @@ XML parser will run sandboxed within a VM, not in Dom0, as in Qubes 3.2. This is
 illustrated on the diagram below.
 
 
-![Qubes Paranoid Mode implementation using Admin API in Qubes 4.0](../resources/paranoid-backup-restore-under-the-hood.png)
+![Qubes Paranoid Mode implementation using Admin API in Qubes 4.0]({{ site.url }}/resources/paranoid-backup-restore-under-the-hood.png)
 
 ## Summary
 
