@@ -359,17 +359,17 @@ Qubes OS? To understand our design decision, as well as the current limitations,
 it is helpful to realize that we want to avoid attacks coming on three different
 levels of abstractions:
 
-0. System-level attacks (e.g. malicious USB, malformed filesystem metadata)
-1. Backup parsing-level (e.g. XML parser for `qubes.xml` file)
-2. Backup interpretation-level ("semantic" level)
+1. System-level attacks (e.g. malicious USB, malformed filesystem metadata)
+2. Backup parsing-level (e.g. XML parser for `qubes.xml` file)
+3. Backup interpretation-level ("semantic" level)
 
-Qubes architecture has been designed to prevent level 0 attacks, long before we
+Qubes architecture has been designed to prevent level 1 attacks, long before we
 decided to tackle the problem of malicious backups. This is achieved both
 through [careful compartmentalization][qubes_isolation_paper], as well as
 through the actual architecture of the backup system, which assumes that
 whatever domain (VM) that provides the backup should not be trusted.
 
-Level 1 attacks mentioned above is more problematic. The primary attack surface
+Level 2 attacks mentioned above is more problematic. The primary attack surface
 in case of backup restore procedure on Qubes is parsing of the `qubes.xml` that
 is part of the backup and which contains crucial information about the VMs being
 restored (which template they are based on, which network VMs they should be
@@ -390,7 +390,7 @@ Unfortunately this API is not available on Qubes 3.2, which means we cannot
 easily sandbox the backup parsing code there. In this respect we would need to
 trust the Python's implementation to be somehow correct and not exploitable.
 
-Finally, there is Level 2 of potential attacks. These would exploit potential
+Finally, there is Level 3 of potential attacks. These would exploit potential
 semantic vulnerabilities in backup restoration, such as injecting a
 malformed property name for one of the to-be-restored VMs in such a way that,
 when actually used later by the Qubes core code, this might result in the
