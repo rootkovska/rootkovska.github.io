@@ -13,8 +13,7 @@ for signing of this blog). Typically these keys are kept in different VMs, and
 often still separate from the VMs where they are actually being used thanks to
 [Qubes Split GPG](https://wiki.qubes-os.org/wiki/UserDoc/SplitGpg) feature.
 
-The Master Key
-===============
+## The Master Key
 
 All my keys are signed by the following Master Signing Key:
 
@@ -31,8 +30,7 @@ also feed you with a falsified master key.
 
 * This key is attached here: [keys/joanna-master-key.asc](/keys/joanna-master-key.asc).
 
-Email encryption keys
-======================
+## Email encryption keys
 
 The following is my GPG key for work-related email communication:
 
@@ -48,8 +46,7 @@ The following is my GPG key for work-related email communication:
 
 * This key is attached here: [keys/joanna-email-itl.asc](/keys/joanna-email-itl.asc).
 
-Blog signing key
-=================
+## Blog signing key
 
 The following key is used to sign this blog repo:
 
@@ -65,8 +62,7 @@ The following key is used to sign this blog repo:
 * This key is attached here: [keys/joanna-blog-key.asc](/keys/joanna-blog-key.asc).
 
 
-Note on lack of expiration date on code-signing keys
-=====================================================
+## Note on lack of expiration date on code-signing keys
 
 My signing keys (e.g. blog or Qubes code signing keys) do not have expiration
 dates. This is not laziness. There is a fundamental problem with using an
@@ -81,8 +77,7 @@ valid, to continue to verify fine also in the future, after the key expires
 prevent the attacker from creating falsified code pretending to be an old one.
 
 
-Other keys
-===========
+## Other keys
 
 There is a bunch of other keys in the
 [keys/](https://github.com/rootkovska/rootkovska.github.io/tree/master/keys/)
@@ -90,8 +85,7 @@ directory -- these are implicitly signed by my master key by being part of this
 (tag-signed) repo.
 
 
-Other notes
-============
+## Other notes
 
 * I proudly use empty passphrases on all of my private keys. This is because if
 somebody was able to execute malicious code in the VM where a private key

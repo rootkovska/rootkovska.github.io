@@ -4,16 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-Email
-======
+## Email
 
 I can be contacted via email using the following addresses:
 
 * `joanna@invisiblethingslab.com` for ITL- and Qubes-related matters
 * `joanna@invisiblethings.org` for other matters
 
-Note on confidentiality
-------------------------
+### Note on confidentiality
 
 Please note that, as most other people and organizations, I use a 3rd party Mail
 Service Provider. The staff who work at the provider are technically able to
@@ -24,14 +22,12 @@ something confidential, please use PGP/GPG encryption to secure our
 communication (see [keys.md](/keys/) for info how to obtain and verify my GPG
 keys).
 
-Note on integrity of my emails
--------------------------------
+### Note on integrity of my emails
 
 All email sent by me from the above-mentioned email addresses should be
 digitally signed with my email [keys](/keys/).
 
-Other notes on emailing me
----------------------------
+### Other notes on emailing me
 
 * I get lots of emails. This means I might not find time to respond to your
 email. In some cases, although rarely, I might not read through the whole
@@ -53,8 +49,7 @@ extra information you put there, such as markings done with differently colored
 fonts, etc.
 
 
-Phone, Skype, etc.
-===================
+## Phone, Skype, etc.
 
 I don't believe phone (or similar means of communication) are that great for
 technical discussions. My experience shows that phone-based conversations lack
@@ -69,8 +64,7 @@ notice that I live in Warsaw, Poland, which is in UTC +1 (Winter) and UTC +2
 (Summer) Time Zone. I'm a late sleeper, and usually cannot do a phone call
 before 1100 hrs of my local time.
 
-Note on Skype
---------------
+### Note on Skype
 
 As a matter of principle I don't use Skype. It's not because Skype does not
 offer any meaningful security or privacy (which I believe it indeed does not
@@ -83,16 +77,14 @@ closed systems. Imagine a road system that allowed only one select make of cars
 to be driven -- would that be fun?
 
 
-Public conversations
-=====================
+## Public conversations
 
 It is also possible to engage with me in public conversations via:
 
 * [My Twitter account](https://twitter.com/rootkovska/)
 * [Qubes Mailing Lists](https://wiki.qubes-os.org/wiki/QubesLists) (especially on `qubes-devel` ML)
 
-Policy on LinkedIn
-===================
+## Policy on LinkedIn
 
 I don't use LinkedIn anymore, I have deleted my account some time ago. The
 stream of invites from total strangers, inability to verify trust, all makes
