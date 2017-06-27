@@ -1,21 +1,45 @@
----
-layout: default
----
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
-    {% if page.author %} • {{ page.author }}{% endif %}
-    {% if page.meta %} • {{ page.meta }}{% endif %}
-    {% if page.blogger_orig_url %} •
-        Automatically converted from Blogger (<a href="{{ page.blogger_orig_url}}">original</a>)
-    {% endif %}
-    </p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-</div>
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+    <body>
+      {% include header.html %}
+      <div class="container">
+        <div class="row more-top">
+        </div>
+ 
+        <div class="more-bottom white-box page-content">
+          <div class="row">
+            <div class="col-lg-10 col-md-10 col-xs-10">
+              <header class="post-header">
+                <h1 class="post-title remove-bottom">{{ page.title }}</h1>
+                <p class="post-meta">
+                  {{ page.date | date: "%b %-d, %Y" }}
+                  by <strong>
+                  {% assign author_team = false %}
+                  {% for member in site.data.team %}
+                    {% if page.author == member.name %}
+                      {% assign author_team = true %}
+                    {% endif %}
+                  {% endfor %}
+                  {% if page.author %}
+                    {% if author_team %}
+                      <a href="/team/#{{ page.author | slugify }}">{{ page.author }}</a>
+                    {% else %}
+                      {{ page.author }}
+                    {% endif %}
+                  {% else %}
+                    {{ site.default_author }}
+                  {% endif %}
+                  </strong>
+                </p>
+              </header>
+              <article class="post-content">
+                {{ content }}
+              </article>
+            </div>
+          </div>
+        </div>
+        {% include footer.html %}
+      </div>
+  </body>
+</html>

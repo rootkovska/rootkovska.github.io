@@ -1,0 +1,39 @@
+/* Footer */
+
+.footer-nav {
+
+  h5 {
+    color: $gray-base;
+    letter-spacing: 0px;
+
+    i.fa-heart {
+      font-size: .8em;
+      color: $brand-danger;
+    }
+  }
+
+  p, a {
+    color: $gray-darker;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+  }
+
+  a:hover {
+    color: $gray-base;
+  }
+
+}
+
+.footer-logo a {
+  padding: $spacing-unit;
+  font-size: 30px;
+  color: $gray-darker;
+
+  img {
+    margin-right: 10px;
+  }
+}
+
+.footer-logo strong {
+}
