@@ -1,6 +1,6 @@
 # Site settings
 title: The Invisible Things
-url: "http://blog.invisiblethings.org"
+url: "https://blog.invisiblethings.org"
 
 # Build settings
 markdown: kramdown
