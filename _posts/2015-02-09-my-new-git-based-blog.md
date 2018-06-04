@@ -97,7 +97,7 @@ One can get notifications about new posts/updates via:
 
 * The blog's [RSS feed](/feed.xml)
 * [My Twitter Account](https://twitter.com/rootkovska/)
-* [My GitHub Account] (https://github.com/rootkovska/)
+* [My GitHub Account](https://github.com/rootkovska/)
 
 
 The source of this repo is currently available via my GitHub account
