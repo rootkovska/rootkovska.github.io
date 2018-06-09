@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 Below is a list of select papers and projects I have authored (or co-authored)
-over the past ~10 years, sorted by topic, and in inverse chronoloigical order.
+over the past ~10 years, sorted by topic, and in inverse chronological order.
 
 Qubes OS and Security through Compartmentalization (defensive work)
 --------------------------------------------------------------------
