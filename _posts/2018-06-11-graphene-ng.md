@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing graphene-ng: running arbitrary payloads in SGX enclaves
+title: "Introducing graphene-ng: running arbitrary payloads in SGX enclaves"
 author: Joanna Rutkowska
 ---
 
