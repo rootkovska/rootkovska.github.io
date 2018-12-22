@@ -15,7 +15,7 @@ About this Website/Blog/Repo
 This blog is a continuation of my "Invisible Things Lab Blog", [previously
 hosted](http://theinvisiblethings.blogspot.com/) on Google's Blogger platform
 for 8 years between 2006 until the end of 2014.  Read [this
-post]({% post_url 2015-02-09-my-new-git-based-blog %}) to understand why I decided
+post](https://blog.invisiblethings.org/2015/02/09/my-new-git-based-blog.html) to understand why I decided
 to migrate away from Blogger, and why I consider it important to have this blog
 distributed as a git-repo.
 
