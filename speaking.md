@@ -28,7 +28,8 @@ malware for Windows and Linux in the first half of the 2000s. She proudly holds
 Photo
 ------
 
-Feel free to use this [photo](/resources/joanna.jpg).
+Feel free to use this [photo](/resources/joanna.jpg). This photo is licensed under [Creative Commons Attribution 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 Speaking honorarium
@@ -118,4 +119,3 @@ Tips & Tricks
 7. My name is pronounced: root-kov-skea
 
 Thanks for your understanding!
-
