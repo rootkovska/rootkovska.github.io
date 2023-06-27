@@ -4,3 +4,4 @@ url: "https://blog.invisiblethings.org"
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
