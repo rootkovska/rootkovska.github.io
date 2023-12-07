@@ -6,7 +6,7 @@ About Me
 
 My name is Joanna Rutkowska, I lead the [Qubes OS](https://qubes-os.org)
 project and [Invisible Things Lab](http://invisiblethingslab.com) (see
-[about.md](/about/) and [contact.md](/contact/) for more info). 
+[about.md](/about.md) and [contact.md](/contact.md) for more info). 
 
 
 About this Website/Blog/Repo
@@ -15,15 +15,15 @@ About this Website/Blog/Repo
 This blog is a continuation of my "Invisible Things Lab Blog", [previously
 hosted](http://theinvisiblethings.blogspot.com/) on Google's Blogger platform
 for 8 years between 2006 until the end of 2014.  Read [this
-post]({% post_url 2015-02-09-my-new-git-based-blog %}) to understand why I decided
+post](/_posts/2015-02-09-my-new-git-based-blog.md) to understand why I decided
 to migrate away from Blogger, and why I consider it important to have this blog
 distributed as a git-repo.
 
 Content of this repo
 ---------------------
 
-* All the Invisible Things blog posts (in the [_posts/](/blog/) directory)
-* [Contact info](/contact/) and my [GPG keys](/keys/)
+* All the Invisible Things blog posts (in the [_posts/](/_posts/) directory)
+* [Contact info](/contact.md) and my [GPG keys](/keys/)
 * Other info about myself and my work
 
 Distribution and hosting
